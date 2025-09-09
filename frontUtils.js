@@ -7,71 +7,44 @@
 // {"prompt": "You are a product content writer for Grover, a tech rental platform that makes it easy to access the latest technology without the commitment of buying.\n\nWrite a list of 2–3 Pros and 1–2 Cons for the following product: [Apple iPhone 16 Pro Max - 256GB - Dual SIM ,Memory - 8GB,Battery - 4676 mAh,Display - 6.9-inch OLED Super Retina XDR (2868 x 1320),Storage - 256GB,Processor - ,Dimensions - ,Rear Camera - 48MP + 12MP + 48MP,Connectivity - 5G,Front Camera - 12MP,Operating System - iOS 18].\n\n✅ Keep these rules in mind:\n\nTone: Clear, helpful, modern. Avoid exaggeration or hype.\nAudience: Young, price-conscious, open to innovation, but skeptical and risk-sensitive (especially about trust, flexibility, and quality).\nPros: Highlight what makes this product great for renters — performance, flexibility, trendiness, compatibility with Grover’s rental model (e.g., fast upgrade cycle, no upfront cost, etc.).\nCons: Be honest about minor downsides, but keep the tone constructive. Avoid harsh or overly critical language. Use softening phrases like “may not suit…” or “some users might find…”. Never mention product defects or broken items.\n\n🎯 Frame cons in ways that support decision clarity — not doubt. The goal is to help users understand if this rental suits their needs.\n\nExample Output:\nPros:\n\nTop-tier camera system with cinematic video recording\n\nSleek, modern design that feels premium\n\nIdeal for users wanting the latest iOS updates without long-term commitment\n\nCons:\n\nHigher monthly rental than older models\n\nMay feel large in smaller hands"}
 
 async function getProductData(slug) {
-  // const slug =  window.location.pathname.split('products/').pop()
   return fetch('https://supergraph-edge.grover.com/graphql', {
-  method: 'POST',
-  headers: {
-    'Content-Type': 'application/json',
-    'x-grover-store': 'de-en',
-    'x-grover-language': 'en'
-  },
-  body: JSON.stringify({
-    query: `
-      query GetProductData($where: ProductWhereInput) {
-        product(where: $where) {
-        name
-        specifications
-        }
-      }
-    `,
-    variables: {
-      where: {
-        slug: { _eq: slug }
-      }
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'x-grover-store': 'de-en',
+      'x-grover-language': 'en'
     },
-    operationName: "GetProductData"
+    body: JSON.stringify({
+      query: `
+        query GetProductData($where: ProductWhereInput) {
+          product(where: $where) {
+          name
+          specifications
+          }
+        }
+      `,
+      variables: {
+        where: {
+          slug: { _eq: slug }
+        }
+      },
+      operationName: "GetProductData"
+    })
   })
-})
-.then(response => response.json())
-.then(data => {
-   console.log(data)
+  .then(response => response.json())
+  .then(data => {
     let string = `${data.data.product.name}, `;
     for (const [key, value] of Object.entries(data.data.product.specifications)) {
       string += `${key} - ${value}, `
     }
-
-    // console.log(string)
+    console.log(string)
     return string
-});
+  });
 }
 
 
-async function getProductsList(){
-  return fetch("https://supergraph-edge.grover.com/graphql", {
-    "headers": {
-      "accept": "*/*",
-      "accept-language": "en-US,en;q=0.9",
-      "content-type": "application/json",
-      "priority": "u=1, i",
-      "sec-ch-ua": "\"Not;A=Brand\";v=\"99\", \"Google Chrome\";v=\"139\", \"Chromium\";v=\"139\"",
-      "sec-ch-ua-mobile": "?0",
-      "sec-ch-ua-platform": "\"Windows\"",
-      "sec-fetch-dest": "empty",
-      "sec-fetch-mode": "cors",
-      "sec-fetch-site": "same-site",
-      "x-graphql-client-name": "catalog-ui-browser",
-      "x-graphql-client-version": "production-v0.83.0",
-      "x-grover-device-id": "KmEKGF3NGjMN17F8bVKSF",
-      "x-grover-language": "de",
-      "x-grover-store": "de"
-    },
-    "referrer": "https://www.grover.com/",
-    "body": "{\"query\":\"query searchProductsFull($query: String, $filters: FilterArgs, $resultsPerPage: Int, $page: Int, $sort: Sort) {\\n  searchProducts(\\n    query: $query\\n    filters: $filters\\n    resultsPerPage: $resultsPerPage\\n    page: $page\\n    sort: $sort\\n  ) {\\n    products {\\n      ...ProductCard\\n    }\\n    facets {\\n      name\\n      __typename\\n      ... on MatchFacet {\\n        values {\\n          value\\n          count\\n        }\\n      }\\n      ... on RangeFacet {\\n        min\\n        max\\n      }\\n      ... on SpecFacet {\\n        name\\n        label\\n        values {\\n          min\\n          max\\n          value\\n          count\\n        }\\n      }\\n    }\\n    pagination {\\n      currentPage\\n      nextPage\\n      prevPage\\n      totalPages\\n      totalItems\\n    }\\n  }\\n}\\n\\nfragment ProductCard on Product {\\n  slug\\n}\",\"variables\":{\"filters\":{},\"sort\":\"RANK\",\"resultsPerPage\":100,\"page\":1}}",
-    "method": "POST",
-    "mode": "cors",
-    "credentials": "omit"
-  }).then(data => data.json()).then(res => res.data.searchProducts.products);
-}
+// let newArray = []
+
 // query searchProductsFull($query: String, $filters: FilterArgs, $resultsPerPage: Int, $page: Int, $sort: Sort) {
 //   searchProducts(
 //     query: $query
@@ -155,6 +128,7 @@ async function getProductsList(){
 //   "credentials": "omit"
 // });
 
+// =================== utils to generate products input for openai ================
 function generateProductsByCountLimit(start, limit){
   const end = start + limit;
   let output = ``;
