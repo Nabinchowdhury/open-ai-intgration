@@ -1,4 +1,4 @@
-[
+const inputAsset = [
   {
       "slug": "sony-console-playstation-5-pro",
       "text": "Sony PlayStation 5 Pro Console, HDR - Yes, Type - PlayStation 5 Pro, WiFi - Built-in WiFi 7, Color - White & black, Memory - 16 GB GDDR6, Weight - 2.6 kg, 3D audio - Puts you in the thick of the action, whether you're using a headset or TV speakers, Ethernet - Yes, Graphics - 4K, Bluetooth - 5.1, Dimensions - 390 x 104 x 260 mm (H x W x D), Connectivity - HDMI x 1, USB Type-C x 2, USB Type-A x 2, Refresh Rate - 60Hz or 120Hz, Native Resolution - 1440p, Scope of Delivery - Console, DualSense wireless controller, 2 TB SSD (internal storage), 2 Horizontal stand feet, HDMI cable, AC power cord, Optical Disc Drive - No, Hard Drive Capacity - 2 TB SSD, Backwards Compatibility - Compatible with PlayStation 4 games, "
