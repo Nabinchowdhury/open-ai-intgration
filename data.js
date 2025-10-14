@@ -18,7 +18,9 @@ const data = [
             "Anzahl der USB-Anschlüsse": "4"
         },
         "pros": "Pros\n• Strong 4K performance with fast load times and immersive DualSense haptics\n• Slim space saving design that fits small rooms and shared setups\n• Smart rental pick try the latest exclusives and stream entertainment without a long commitment",
-        "cons": "Cons\n• Big game file sizes can fill the SSD quickly so you may need storage management or an SSD expansion\n• Physical game discs require a model with a disc drive so confirm what is included in your rental"
+        "cons": "Cons\n• Big game file sizes can fill the SSD quickly so you may need storage management or an SSD expansion\n• Physical game discs require a model with a disc drive so confirm what is included in your rental",
+        "pros_de": "Vorteile\n• Starke 4K‑Leistung mit kurzen Ladezeiten und immersivem DualSense‑Haptik‑Feedback\n• Schlankes, platzsparendes Design – ideal für kleine Räume und gemeinsame Setups\n• Kluge Mietwahl: neueste Exklusivtitel ausprobieren und Entertainment streamen – ohne langfristige Bindung",
+        "cons_de": "Nachteile\n• Große Spieldateien können die SSD schnell füllen; ggf. Speicherverwaltung oder SSD‑Erweiterung nötig\n• Physische Spielediscs erfordern ein Modell mit Laufwerk – prüfen Sie, ob dies in Ihrer Miete enthalten ist"
     },
     {
         "slug": "nintendo-console-switch-2",
@@ -46,7 +48,9 @@ const data = [
             "HDR-Technologie (Hoher Dynamikbereich)": "Hoher Dynamikbereich 10 (HDR10)"
         },
         "pros": "Pros\n* Access the latest Nintendo console without a big upfront cost\n* Flexible rental lets you try new releases and exclusive titles, then swap or return when your needs change\n* Great for social play with a strong lineup of party and family friendly games",
-        "cons": "Cons\n* May not suit players who want to own a console for many years without monthly payments\n* Games and accessories are usually separate, which can increase the total cost depending on what you choose"
+        "cons": "Cons\n* May not suit players who want to own a console for many years without monthly payments\n* Games and accessories are usually separate, which can increase the total cost depending on what you choose",
+        "pros_de": "Vorteile\n* Zugriff auf die neueste Nintendo‑Konsole ohne hohe Anfangskosten\n* Flexible Miete: neue Releases und Exklusivtitel ausprobieren, später tauschen oder zurückgeben\n* Ideal für gemeinsames Spielen mit vielen Party‑ und Familien‑Games",
+        "cons_de": "Nachteile\n* Eignet sich weniger für Spieler, die die Konsole jahrelang besitzen möchten ohne Monatszahlungen\n* Spiele und Zubehör sind meist separat – je nach Auswahl können zusätzliche Kosten entstehen"
     },
     {
         "slug": "apple-watch-series-11-gps-aluminium-case-46mm",
@@ -65,7 +69,9 @@ const data = [
             "Globale Positionsbestimmung": "GPS (L1), GLONASS, Galileo, QZSS, BeiDou"
         },
         "pros": "Pros\n• Smooth performance and a bright display make workouts, messages, and apps feel effortless\n• Accurate GPS plus health and safety tracking like heart rate, sleep, and fall detection\n• Flexible to rent so you can try the 46 mm size and upgrade when you want without long commitment",
-        "cons": "Cons\n• GPS model may not suit those who want calls and music streaming away from an iPhone\n• The 46 mm case can feel large for smaller wrists"
+        "cons": "Cons\n• GPS model may not suit those who want calls and music streaming away from an iPhone\n• The 46 mm case can feel large for smaller wrists",
+        "pros_de": "Vorteile\n• Flüssige Performance und helles Display – Workouts, Nachrichten und Apps fühlen sich mühelos an\n• Präzises GPS plus Gesundheits‑ und Sicherheitsfunktionen wie Herzfrequenz, Schlaf und Sturzerkennung\n• Flexibel zu mieten – 46‑mm‑Größe testen und ohne lange Bindung später upgraden",
+        "cons_de": "Nachteile\n• GPS‑Modell eignet sich weniger, wenn Sie Anrufe und Musik ohne iPhone möchten\n• 46‑mm‑Gehäuse kann an schmalen Handgelenken groß wirken"
     },
     {
         "slug": "apple-tablet-ipad-2025-wifi-6gb-128gb",
@@ -83,7 +89,9 @@ const data = [
             "Konnektivität": "WIFI"
         },
         "pros": "Pros\n• Fast and responsive iOS experience for study work and streaming  \n• 128GB gives plenty of room for apps notes and offline content  \n• Modern Apple look that keeps your setup current with easy Wi Fi connectivity and strong all day battery",
-        "cons": "Cons\n• Wi Fi only model may not suit travelers who need mobile data on the go  \n• 128GB is solid but some creators with very large video or photo libraries might prefer more space or cloud storage"
+        "cons": "Cons\n• Wi Fi only model may not suit travelers who need mobile data on the go  \n• 128GB is solid but some creators with very large video or photo libraries might prefer more space or cloud storage",
+        "pros_de": "Vorteile\n• Schnelle, reaktionsfreudige iOS‑Erfahrung für Studium, Arbeit und Streaming\n• 128 GB bieten viel Platz für Apps, Notizen und Offline‑Inhalte\n• Moderner Apple‑Look mit einfacher WLAN‑Anbindung und starker Akkulaufzeit",
+        "cons_de": "Nachteile\n• Nur‑WLAN‑Modell eignet sich weniger für Reisen ohne mobilen Datentarif\n• 128 GB sind solide, aber große Foto‑/Videobibliotheken könnten mehr Speicher oder Cloud bevorzugen"
     },
     {
         "slug": "apple-macbook-air-13-m4-10cpu-16gb-256gb-8gpu",
@@ -100,7 +108,9 @@ const data = [
             "Abmessungen und Gewicht": "30.41 x 21.5 x 1.13 cm • 1.24 kg"
         },
         "pros": "Pros:\n- Apple M4 with 16GB memory delivers fast performance for multitasking, creative apps, and everyday work\n- Lightweight 13 inch design with excellent battery life makes it easy to carry for study, work, and travel\n- Quiet fanless operation plus the flexibility of renting helps you stay current without long commitment",
-        "cons": "Cons:\n- 256GB storage may feel limited for large media libraries or heavy projects, some users might prefer external or cloud storage\n- Integrated 8 core GPU may not suit intensive 3D rendering or high end gaming"
+        "cons": "Cons:\n- 256GB storage may feel limited for large media libraries or heavy projects, some users might prefer external or cloud storage\n- Integrated 8 core GPU may not suit intensive 3D rendering or high end gaming",
+        "pros_de": "Vorteile\n- Apple M4 mit 16 GB Arbeitsspeicher liefert schnelle Performance für Multitasking, kreative Apps und den Alltag\n- Leichtes 13‑Zoll‑Design mit sehr guter Akkulaufzeit – ideal für Studium, Arbeit und Reisen\n- Lautloser, lüfterloser Betrieb; als Mietgerät flexibel aktuell bleiben ohne lange Bindung",
+        "cons_de": "Nachteile\n- 256 GB Speicher kann für große Medienbibliotheken oder Projekte knapp werden – extern/Cloud empfohlen\n- Integrierte 8‑Kern‑GPU ist weniger geeignet für intensives 3D‑Rendering oder High‑End‑Gaming"
     },
     {
         "slug": "sony-console-playstation-5-pro",
@@ -126,7 +136,9 @@ const data = [
             "Abwärtskompatibilität": "Kompatibel mit PlayStation 4-Spielen"
         },
         "pros": "Pros\n• Pro level graphics with smoother frame rates and improved ray tracing for a premium console experience\n• Great match for 4K TVs with faster load times and enhanced modes in many top titles\n• Smart rental choice to enjoy the newest PlayStation without a big upfront cost and with easy upgrade flexibility",
-        "cons": "Cons\n• Benefits over a standard PS5 may be less noticeable on a 1080p TV or for casual play\n• Larger console that needs enough shelf space and good ventilation"
+        "cons": "Cons\n• Benefits over a standard PS5 may be less noticeable on a 1080p TV or for casual play\n• Larger console that needs enough shelf space and good ventilation",
+        "pros_de": "Vorteile\n• Pro‑Grafik mit flüssigeren Bildraten und verbessertem Raytracing für ein Premium‑Konsolenerlebnis\n• Ideal für 4K‑TVs mit schnelleren Ladezeiten und erweiterten Modi in vielen Top‑Titeln\n• Clevere Mietoption: neueste PlayStation ohne hohe Anschaffungskosten und mit Upgrade‑Flexibilität",
+        "cons_de": "Nachteile\n• Vorteile gegenüber einer Standard‑PS5 sind auf einem 1080p‑TV oder bei Casual‑Play weniger sichtbar\n• Größere Konsole benötigt ausreichend Stellfläche und gute Belüftung"
     },
     {
         "slug": "meta-mixed-reality-meta-quest-3-512gb",
@@ -156,7 +168,9 @@ const data = [
             "Offiziell unterstützte Controller": "Xbox Wireless Controller, Xbox Elite Wireless Controller Serie 2, Xbox Adaptive Controller, Sony DualShock 4 Wireless Controller, Nintendo Switch Pro Controller"
         },
         "pros": "Pros\n• Large 512 GB storage lets you try many games and apps without constant deleting  \n• All in one wireless VR with sharp visuals and color passthrough mixed reality for flexible play at home without extra gear  \n• Fast performance and accurate tracking for smooth gameplay and quick setup",
-        "cons": "Cons\n• Battery life may not suit very long sessions, a short charge or a power bank helps  \n• Some users might prefer a PC link for maximum graphics which needs extra setup and a strong Wi Fi connection"
+        "cons": "Cons\n• Battery life may not suit very long sessions, a short charge or a power bank helps  \n• Some users might prefer a PC link for maximum graphics which needs extra setup and a strong Wi Fi connection",
+        "pros_de": "Vorteile\n• Großer 512‑GB‑Speicher – viele Spiele und Apps ohne ständiges Löschen\n• Kabelloses All‑in‑One‑VR mit scharfer Darstellung und Farb‑Passthrough‑MR – flexibles Spielen zu Hause ohne Zusatzgeräte\n• Schnelle Performance und präzises Tracking für flüssiges Gameplay und schnellen Aufbau",
+        "cons_de": "Nachteile\n• Akkulaufzeit eignet sich weniger für sehr lange Sessions – eine Kurzladung oder Powerbank hilft\n• Für maximale Grafik bevorzugen manche den PC‑Link – benötigt zusätzliches Setup und stabiles WLAN"
     },
     {
         "slug": "apple-watch-ultra-3-gps-cellular-titanium-case-ocean-band-49mm",
@@ -174,7 +188,9 @@ const data = [
             "Globale Positionsbestimmung": "GPS (L1 & L5), GLONASS, Galileo, QZSS, BeiDou, Satellitenverbindung"
         },
         "pros": "Pros\n- Rugged titanium case and Ocean Band handle tough workouts and water sports yet still look premium for everyday wear\n- GPS plus Cellular lets you leave your phone behind and stay connected to calls messages and maps\n- Big bright 49 mm display with strong battery life, great for long days and weekend adventures, and perfect to rent if you want top tier performance now with freedom to switch later",
-        "cons": "Cons\n- The 49 mm size may not suit smaller wrists or anyone who prefers a lighter more compact watch\n- To use cellular features you need an eSIM plan which may add monthly costs depending on your carrier"
+        "cons": "Cons\n- The 49 mm size may not suit smaller wrists or anyone who prefers a lighter more compact watch\n- To use cellular features you need an eSIM plan which may add monthly costs depending on your carrier",
+        "pros_de": "Vorteile\n- Robustes Titangehäuse und Ocean Band für harte Workouts und Wassersport, dennoch edler Look im Alltag\n- GPS + Cellular: Telefon zu Hause lassen und bei Anrufen, Nachrichten und Karten verbunden bleiben\n- Großes, helles 49‑mm‑Display mit starker Akkulaufzeit – ideal für lange Tage und Wochenenden; als Mietgerät flexibel",
+        "cons_de": "Nachteile\n- 49‑mm‑Größe eignet sich weniger für schmale Handgelenke oder sehr leichte Uhren\n- Für Cellular ist ein eSIM‑Tarif erforderlich, der je nach Anbieter Zusatzkosten verursachen kann"
     },
     {
         "slug": "sony-console-sony-playstation-5-slim-digital",
@@ -195,7 +211,9 @@ const data = [
             "Anzahl der USB-Anschlüsse": "4"
         },
         "pros": "Pros\n• Smooth 4K gaming and fast load times with the 1 TB SSD and ray tracing support\n• Slim space saving design that is easy to set up and move between rooms\n• Digital library means instant downloads and no discs to manage, great for flexible renting",
-        "cons": "Cons\n• All digital design may not suit players who own physical game discs or like Blu ray movies\n• Big game downloads can use a lot of data and storage, so some users might need to manage space more often"
+        "cons": "Cons\n• All digital design may not suit players who own physical game discs or like Blu ray movies\n• Big game downloads can use a lot of data and storage, so some users might need to manage space more often",
+        "pros_de": "Vorteile\n• Flüssiges 4K‑Gaming und schnelle Ladezeiten mit 1‑TB‑SSD und Raytracing‑Support\n• Schlankes, platzsparendes Design – leicht einzurichten und zwischen Räumen zu bewegen\n• Digitale Bibliothek: sofortige Downloads, keine Discs – ideal für flexible Miete",
+        "cons_de": "Nachteile\n• Reines Digital‑Design eignet sich weniger für Spieler mit physischen Discs oder Blu‑ray‑Filmen\n• Große Spieledownloads verbrauchen viel Daten und Speicher – ggf. häufiger Speicherverwaltung nötig"
     },
     {
         "slug": "apple-smartphone-iphone-16-pro-8gb-128gb",
@@ -213,7 +231,9 @@ const data = [
             "Konnektivität": "5G"
         },
         "pros": "Pros\n• Flagship performance for gaming, multitasking, and creative work, so you get pro level speed without long term commitment  \n• Excellent camera system for sharp photos and stable video, great for trips and social content  \n• Dual SIM makes it easy to keep work and personal lines separate or add a local plan while traveling",
-        "cons": "Cons\n• 128 GB storage may not suit heavy video creators or anyone who keeps lots of large files offline  \n• Premium features can be more than you need if you mainly text, browse, and stream"
+        "cons": "Cons\n• 128 GB storage may not suit heavy video creators or anyone who keeps lots of large files offline  \n• Premium features can be more than you need if you mainly text, browse, and stream",
+        "pros_de": "Vorteile\n• Flaggschiff‑Performance für Gaming, Multitasking und kreatives Arbeiten – Profi‑Tempo ohne Langzeitbindung\n• Exzellentes Kamerasystem für scharfe Fotos und stabile Videos – ideal für Reisen und Social‑Content\n• Dual‑SIM erleichtert die Trennung von Arbeit und Privat oder lokale Tarife auf Reisen",
+        "cons_de": "Nachteile\n• 128 GB eignen sich weniger für intensive Videoproduktion oder sehr große Offline‑Dateisammlungen\n• Premium‑Funktionen können über dem Bedarf liegen, wenn Sie hauptsächlich texten, browsen und streamen"
     },
     {
         "slug": "apple-smartphone-iphone-air-8gb-256gb",
@@ -231,7 +251,9 @@ const data = [
             "Konnektivität": "5G"
         },
         "pros": "Pros\n• Fast and reliable iOS experience that keeps everyday tasks and content creation smooth\n• 256GB storage means plenty of space for photos videos and apps with fewer clean ups\n• Rental friendly way to enjoy a premium iPhone with the freedom to upgrade when your needs change",
-        "cons": "Cons\n• May not suit power users who want the very best zoom or advanced pro video tools\n• Some users might prefer the deeper customization available on Android"
+        "cons": "Cons\n• May not suit power users who want the very best zoom or advanced pro video tools\n• Some users might prefer the deeper customization available on Android",
+        "pros_de": "Vorteile\n• Schnelle, zuverlässige iOS‑Erfahrung – Alltagsaufgaben und Content‑Erstellung laufen flüssig\n• 256 GB Speicher bieten reichlich Platz für Fotos, Videos und Apps – weniger Aufräumen nötig\n• Mietfreundlich: Premium‑iPhone genießen und bei Bedarf flexibel upgraden",
+        "cons_de": "Nachteile\n• Eher ungeeignet für Power‑User, die den besten Zoom oder erweiterte Pro‑Videofunktionen verlangen\n• Manche bevorzugen die tiefere Anpassbarkeit, die Android bietet"
     },
     {
         "slug": "apple-watch-series-11-gps-cellular-aluminium-case-46mm",
@@ -250,7 +272,9 @@ const data = [
             "Globale Positionsbestimmung": "GPS (L1), GLONASS, Galileo, QZSS, BeiDou"
         },
         "pros": "Pros\n1. Go phone free with GPS and Cellular for calls messages music and payments right from your wrist\n2. Large 46 mm display and lightweight aluminum case make workouts and everyday use smooth and stylish\n3. Great for renting try the latest Apple Watch features now and keep your options open with flexible upgrades",
-        "cons": "Cons\n1. Cellular functions require an eligible plan which can add cost depending on your carrier\n2. Needs daily charging so may not suit users who want multi day battery life"
+        "cons": "Cons\n1. Cellular functions require an eligible plan which can add cost depending on your carrier\n2. Needs daily charging so may not suit users who want multi day battery life",
+        "pros_de": "Vorteile\n1. Ohne Telefon unterwegs: GPS + Cellular für Anrufe, Nachrichten, Musik und Zahlungen direkt am Handgelenk\n2. Großes 46‑mm‑Display und leichtes Aluminiumgehäuse – angenehm für Training und Alltag\n3. Ideal zur Miete: neueste Apple‑Watch‑Features jetzt testen und flexibel upgraden",
+        "cons_de": "Nachteile\n1. Cellular benötigt einen geeigneten Tarif, der je nach Anbieter Kosten verursacht\n2. Tägliches Laden nötig – weniger geeignet für Nutzer mit Wunsch nach mehrtägiger Akkulaufzeit"
     },
     {
         "slug": "apple-watch-ultra-3-gps-cellular-titanium-case-trail-loop-m-l-49mm",
@@ -269,7 +293,9 @@ const data = [
             "Globale Positionsbestimmung": "GPS (L1 & L5), GLONASS, Galileo, QZSS, BeiDou, Satellitenverbindung"
         },
         "pros": "Pros\n• Rugged titanium build and bright 49 mm display that is easy to read outdoors\n• GPS and Cellular keep you connected without your phone great for runs rides and travel\n• Smart to rent for top performance now with the freedom to upgrade or switch when you want",
-        "cons": "Cons\n• The 49 mm case may feel big on smaller wrists\n• As a premium model the monthly price may not suit very tight budgets"
+        "cons": "Cons\n• The 49 mm case may feel big on smaller wrists\n• As a premium model the monthly price may not suit very tight budgets",
+        "pros_de": "Vorteile\n• Robustes Titangehäuse und helles 49‑mm‑Display – im Freien gut ablesbar\n• GPS und Cellular halten Sie ohne Telefon verbunden – ideal für Läufe, Radtouren und Reisen\n• Als Miete clever: Top‑Performance jetzt nutzen und später flexibel upgraden oder wechseln",
+        "cons_de": "Nachteile\n• 49‑mm‑Gehäuse kann an kleineren Handgelenken groß wirken\n• Als Premium‑Modell eventuell höhere Monatskosten – passt nicht in jedes Budget"
     },
     {
         "slug": "apple-watch-ultra-3-gps-cellular-titanium-case-milanese-band-l-49mm",
@@ -288,7 +314,9 @@ const data = [
             "Globale Positionsbestimmung": "GPS (L1 & L5), GLONASS, Galileo, QZSS, BeiDou, Satellitenverbindung"
         },
         "pros": "Pros\n- Rugged titanium case and bright 49 mm display built for outdoor workouts, with GPS plus Cellular so you can stay connected without your phone\n- Longer lasting battery than standard models and fast charging for fewer top ups during busy days\n- Premium look with the Milanese band and the flexibility to rent first so you can enjoy advanced features now and upgrade or return when your needs change",
-        "cons": "Cons\n- The larger 49 mm size may not suit smaller wrists or those who prefer a very light watch\n- Cellular features may require an extra plan from your carrier and can use more battery"
+        "cons": "Cons\n- The larger 49 mm size may not suit smaller wrists or those who prefer a very light watch\n- Cellular features may require an extra plan from your carrier and can use more battery",
+        "pros_de": "Vorteile\n- Robustes Titangehäuse und helles 49‑mm‑Display für Outdoor‑Workouts; mit GPS + Cellular bleiben Sie ohne Telefon verbunden\n- Längere Akkulaufzeit als Standardmodelle und Schnellladen für weniger Zwischenstopps\n- Edler Look mit Milanese‑Band; als Miete flexibel ausprobieren und später upgraden oder zurückgeben",
+        "cons_de": "Nachteile\n- Größere 49‑mm‑Größe eignet sich weniger für schmale Handgelenke oder sehr leichte Uhren\n- Cellular‑Funktionen benötigen ggf. einen Zusatz‑Tarif und verbrauchen mehr Akku"
     },
     {
         "slug": "apple-headphones-apple-airpods-pro-2-with-usb-c-noise-cancelling-in-ear-bluetooth-headphones",
@@ -304,7 +332,9 @@ const data = [
             "Geräuschunterdrückung": "ANC"
         },
         "pros": "Pros\n• USB C charging so one cable for phone laptop and earbuds\n• Excellent active noise cancellation and Transparency mode for focus or awareness on the go\n• Seamless pairing and switching across Apple devices plus Spatial Audio for an immersive feel",
-        "cons": "Cons\n• Works best with iPhone and Mac so Android users may not get the full experience\n• In ear fit may not suit everyone during long listening sessions"
+        "cons": "Cons\n• Works best with iPhone and Mac so Android users may not get the full experience\n• In ear fit may not suit everyone during long listening sessions",
+        "pros_de": "Vorteile\n• USB‑C‑Laden – ein Kabel für Smartphone, Laptop und Earbuds\n• Hervorragendes ANC und Transparenzmodus – fokussiert bleiben oder Umgebung wahrnehmen\n• Nahtloses Koppeln und Wechseln zwischen Apple‑Geräten, dazu Spatial Audio für ein immersives Gefühl",
+        "cons_de": "Nachteile\n• Funktioniert am besten im Apple‑Ökosystem – Android‑Nutzer erhalten ggf. nicht alle Features\n• In‑Ear‑Passform ist nicht für alle über lange Zeit angenehm"
     },
     {
         "slug": "apple-airpods-max-with-usb-c-over-ear-bluetooth-headphones",
@@ -322,7 +352,9 @@ const data = [
             "Intelligente Funktionen": "Sprachsteuerung mit Siri, Smartcase, Verschleißerkennung"
         },
         "pros": "Pros\n- Immersive sound with active noise cancelling and spatial audio for focused work, study, or travel\n- USB C charging and reliable all day battery make them easy to live with and renter friendly\n- Premium look and seamless pairing with Apple devices let you enjoy top tier gear without the commitment of buying",
-        "cons": "Cons\n- Bulkier and heavier than many headphones, which some users might not prefer for workouts or long wear\n- Best experience is within the Apple ecosystem, so Android users may not get all features like instant pairing and device switching"
+        "cons": "Cons\n- Bulkier and heavier than many headphones, which some users might not prefer for workouts or long wear\n- Best experience is within the Apple ecosystem, so Android users may not get all features like instant pairing and device switching",
+        "pros_de": "Vorteile\n- Eindrucksvoller Klang mit aktiver Geräuschunterdrückung und 3D‑Audio – ideal für Arbeit, Lernen und Reisen\n- USB‑C‑Laden und verlässliche Tages‑Akkulaufzeit – alltagstauglich und mieterfreundlich\n- Hochwertiger Look und nahtloses Koppeln mit Apple‑Geräten – Top‑Ausstattung ohne Kaufbindung",
+        "cons_de": "Nachteile\n- Wuchtiger und schwerer als viele Kopfhörer – weniger geeignet für Workouts oder sehr langes Tragen\n- Bestes Erlebnis im Apple‑Ökosystem; Android‑Nutzer bekommen ggf. nicht alle Features wie Instant‑Pairing und Gerätewechsel"
     },
     {
         "slug": "apple-tablet-11-ipad-air-2025-wifi-8gb-128gb",
@@ -340,7 +372,9 @@ const data = [
             "Konnektivität": "WIFI"
         },
         "pros": "Pros\n1. Fast and responsive performance for multitasking classes work and creative apps\n2. Slim 11 inch design is easy to carry with a sharp display that is great for reading sketching and streaming\n3. 128 GB gives plenty of room for everyday apps and content and renting lets you upgrade or switch later as your needs change",
-        "cons": "Cons\n1. Wi Fi only model may not suit users who need reliable data without a hotspot\n2. 128 GB may feel limited if you store many large games videos or raw photos"
+        "cons": "Cons\n1. Wi Fi only model may not suit users who need reliable data without a hotspot\n2. 128 GB may feel limited if you store many large games videos or raw photos",
+        "pros_de": "Vorteile\n1. Schnelle, reaktionsfreudige Performance für Multitasking, Studium und kreative Apps\n2. Schlankes 11‑Zoll‑Design mit scharfem Display – ideal zum Lesen, Skizzieren und Streamen\n3. 128 GB bieten viel Platz für Alltags‑Apps und Inhalte; als Miete später flexibel upgraden oder wechseln",
+        "cons_de": "Nachteile\n1. Nur‑WLAN‑Modell eignet sich weniger für Nutzer, die zuverlässige Daten ohne Hotspot brauchen\n2. 128 GB können knapp werden, wenn viele große Spiele, Videos oder RAW‑Fotos lokal gespeichert werden"
     },
     {
         "slug": "apple-airpods-4-with-active-noise-cancellation-in-ear-bluetooth-headphones",
@@ -358,7 +392,9 @@ const data = [
             "Wasser-/Spritzwassergeschützt": "IP54"
         },
         "pros": "Pros\n• Active Noise Cancellation for focused listening on commute study or work\n• Quick setup and smooth pairing with Apple devices plus reliable Bluetooth for easy daily use\n• Rent friendly choice try the latest Apple earbuds with no long term commitment and the option to upgrade when you want",
-        "cons": "Cons\n• May not suit Android focused users who want full ecosystem features and deep app integration\n• In ear fit and seal can vary some users might prefer the comfort and isolation of over ear headphones"
+        "cons": "Cons\n• May not suit Android focused users who want full ecosystem features and deep app integration\n• In ear fit and seal can vary some users might prefer the comfort and isolation of over ear headphones",
+        "pros_de": "Vorteile\n• Aktive Geräuschunterdrückung für fokussiertes Hören auf dem Weg, beim Lernen oder Arbeiten\n• Schnelles Setup und reibungsloses Koppeln mit Apple‑Geräten; zuverlässiges Bluetooth im Alltag\n• Mietfreundliche Wahl: neueste Apple‑Earbuds testen – ohne Langzeitbindung und später upgradefähig",
+        "cons_de": "Nachteile\n• Weniger geeignet für Nutzer, die volle Ökosystem‑Features und tiefe App‑Integration auf Android wollen\n• Sitz und Abdichtung im Ohr variieren – manche bevorzugen Komfort und Isolation von Over‑Ear‑Kopfhörern"
     },
     {
         "slug": "apple-watch-series-11-gps-cellular-aluminium-case-42mm",
@@ -377,7 +413,9 @@ const data = [
             "Globale Positionsbestimmung": "GPS (L1), GLONASS, Galileo, QZSS, BeiDou"
         },
         "pros": "Pros\n• GPS plus Cellular keeps you connected for calls texts and music even without your phone\n• Lightweight aluminum case and comfortable 42 mm size for workouts and everyday wear\n• Flexible rental friendly choice so you can try the latest look now and upgrade when you want",
-        "cons": "Cons\n• Works best with an iPhone and some features require an iPhone to set up\n• Cellular use needs a compatible eSIM plan from your carrier which can add monthly cost"
+        "cons": "Cons\n• Works best with an iPhone and some features require an iPhone to set up\n• Cellular use needs a compatible eSIM plan from your carrier which can add monthly cost",
+        "pros_de": "Vorteile\n• GPS + Cellular hält Sie auch ohne iPhone für Anrufe, Nachrichten und Musik verbunden\n• Leichtes Aluminiumgehäuse und angenehme 42‑mm‑Größe – gut für Sport und Alltag\n• Flexible, mietfreundliche Wahl – aktuellen Look jetzt testen und später upgraden",
+        "cons_de": "Nachteile\n• Funktioniert am besten mit iPhone; einige Features benötigen es für die Einrichtung\n• Für Cellular ist ein kompatibler eSIM‑Tarif erforderlich, der monatliche Kosten verursachen kann"
     },
     {
         "slug": "delonghi-coffee-machine-delonghi-magnifica-evo-ecam-290-81-tb",
@@ -401,7 +439,9 @@ const data = [
             "Fassungsvermögen Kaffeesatzbehälter": "14 Portionen"
         },
         "pros": "Pros\n• One touch bean to cup drinks with creamy milk options for cafe style results at home\n• Flexible drink presets and adjustable strength and grind so you can explore different tastes during your rental\n• Low effort upkeep with removable parts and guided cleaning plus auto off to save energy",
-        "cons": "Cons\n• Footprint and height may not suit very compact kitchens or low cabinets\n• Grinder can sound a bit loud during use which some users might notice in shared spaces"
+        "cons": "Cons\n• Footprint and height may not suit very compact kitchens or low cabinets\n• Grinder can sound a bit loud during use which some users might notice in shared spaces",
+        "pros_de": "Vorteile\n• One‑Touch von der Bohne in die Tasse – cremige Milchgetränke wie im Café zuhause\n• Flexible Voreinstellungen, anpassbare Stärke und Mahlgrad – verschiedene Geschmäcker während der Mietzeit ausprobieren\n• Pflegeleicht mit abnehmbaren Teilen, geführter Reinigung und Auto‑Off zum Energiesparen",
+        "cons_de": "Nachteile\n• Stellfläche und Höhe sind eventuell ungeeignet für sehr kompakte Küchen oder niedrige Hängeschränke\n• Das Mahlwerk kann während des Betriebs etwas laut sein – in geteilten Räumen möglicherweise hörbar"
     },
     {
         "slug": "apple-smartphone-iphone-16-pro-max-8gb-256gb",
@@ -419,7 +459,9 @@ const data = [
             "Konnektivität": "5G"
         },
         "pros": "Pros\n- Flagship level performance for smooth gaming video capture and multitasking\n- Big bright display and strong battery make it great for streaming travel and all day use\n- Dual SIM and 256GB storage add flexibility for work travel and plenty of space without worry",
-        "cons": "Cons\n- The large size may not suit users who prefer one handed use or smaller pockets\n- As a premium model the monthly price may be higher than mid range phones"
+        "cons": "Cons\n- The large size may not suit users who prefer one handed use or smaller pockets\n- As a premium model the monthly price may be higher than mid range phones",
+        "pros_de": "Vorteile\n- Flaggschiff‑Leistung für flüssiges Gaming, Videoaufnahme und Multitasking\n- Großes, helles Display und starke Batterie – ideal fürs Streaming, Reisen und den ganzen Tag\n- Dual‑SIM und 256 GB Speicher bieten Flexibilität für Arbeit/Reise und viel Platz ohne Sorgen",
+        "cons_de": "Nachteile\n- Große Bauform eignet sich weniger für Einhandbedienung oder kleine Taschen\n- Als Premiummodell ggf. höhere Monatskosten als Mittelklasse‑Smartphones"
     },
     {
         "slug": "apple-tablet-ipad-2025-wi-fi-cellular-6gb-128gb",
@@ -437,7 +479,9 @@ const data = [
             "Konnektivität": "Wi-Fi + Cellular"
         },
         "pros": "Pros\n* WiFi plus cellular keeps you connected wherever you are, ideal for travel study and remote work\n* Smooth performance for multitasking streaming and note taking, with iOS for straightforward setup and strong privacy features\n* Rental friendly choice try the current Apple tablet without a long commitment and upgrade or swap as your needs evolve",
-        "cons": "Cons\n* 128GB storage may not suit creators who keep lots of raw photos or large video files, consider cloud storage or a higher capacity option\n* Cellular use requires a separate data plan which adds cost, so mostly WiFi users might prefer a WiFi only model"
+        "cons": "Cons\n* 128GB storage may not suit creators who keep lots of raw photos or large video files, consider cloud storage or a higher capacity option\n* Cellular use requires a separate data plan which adds cost, so mostly WiFi users might prefer a WiFi only model",
+        "pros_de": "Vorteile\n* WLAN + Mobilfunk hält Sie überall verbunden – ideal für Reisen, Studium und Remote‑Work\n* Flüssige Performance für Multitasking, Streaming und Notizen; iOS sorgt für einfache Einrichtung und starke Privatsphäre\n* Mietfreundliche Option: aktuelles Apple‑Tablet ohne Langzeitbindung testen und später upgraden/tauschen",
+        "cons_de": "Nachteile\n* 128 GB sind evtl. knapp für viele RAW‑Fotos oder große Videodateien – Cloud oder größere Kapazität erwägen\n* Mobilfunk erfordert einen separaten Datentarif mit Zusatzkosten – reine WLAN‑Nutzer könnten das WLAN‑Modell bevorzugen"
     },
     {
         "slug": "canon-eos-r50-rf-s-18-45mm-rf-s-55-210mm-camera-kit",
@@ -456,7 +500,9 @@ const data = [
             "Zum Lieferumfang gehören": "Canon EOS R50, RF-S 18-45mm, RF-S 55-210mm, Objektivdeckel, Kameraabdeckung, Akku LP-E17, Netzkabel"
         },
         "pros": "Pros:\n• Two lens kit gives you real flexibility from 18 to 45 mm for everyday shots and 55 to 210 mm for distant subjects, ideal for travel and events\n• Fast Dual Pixel autofocus with smart subject tracking for sharp photos and smooth video, great for creators and first time mirrorless users\n• 4K video plus compact body and quiet STM lenses with optical stabilisation make it easy to capture steady content on the go",
-        "cons": "Cons:\n• No in body stabilisation, so low light video may benefit from a gimbal or tripod\n• Battery life is modest, so longer sessions may require a spare battery"
+        "cons": "Cons:\n• No in body stabilisation, so low light video may benefit from a gimbal or tripod\n• Battery life is modest, so longer sessions may require a spare battery",
+        "pros_de": "Vorteile\n• Zwei‑Objektiv‑Kit bietet echte Flexibilität: 18–45 mm für Alltag, 55–210 mm für entfernte Motive – ideal für Reisen und Events\n• Schneller Dual‑Pixel‑Autofokus mit intelligenter Motiverkennung für scharfe Fotos und ruhiges Video – top für Creator und Einsteiger in spiegellose Systeme\n• 4K‑Video, kompaktes Gehäuse und leise STM‑Objektive mit optischer Stabilisierung – unterwegs leicht stabile Aufnahmen machen",
+        "cons_de": "Nachteile\n• Keine kamerainterne Stabilisierung; für Low‑Light‑Video helfen Gimbal oder Stativ\n• Akkulaufzeit ist moderat – längere Sessions benötigen ggf. einen Ersatzakku"
     },
     {
         "slug": "apple-macbook-air-15-m4-10cpu-16gb-256gb-10gpu",
@@ -473,7 +519,9 @@ const data = [
             "Abmessungen und Gewicht": "34.04 x 23.76 x 1.15 cm • 1.51 kg"
         },
         "pros": "Pros\n1. Spacious 15 inch display in a thin light body makes work study and streaming comfortable without losing portability\n2. Apple M4 chip with 16 GB memory and integrated 10 core GPU delivers smooth performance for multitasking and creative apps\n3. Smart rental choice if you want a premium Mac for a project semester or travel without long term commitment",
-        "cons": "Cons\n1. 256 GB storage may not suit large media libraries or heavy video work consider cloud storage or an external drive\n2. Port selection is minimal so some users might want a USB C hub for older accessories"
+        "cons": "Cons\n1. 256 GB storage may not suit large media libraries or heavy video work consider cloud storage or an external drive\n2. Port selection is minimal so some users might want a USB C hub for older accessories",
+        "pros_de": "Vorteile\n1. Großes 15‑Zoll‑Display in dünnem, leichtem Gehäuse – bequem zum Arbeiten, Lernen und Streamen, ohne die Mobilität zu verlieren\n2. Apple M4 mit 16 GB RAM und integrierter 10‑Kern‑GPU liefert flüssige Performance für Multitasking und kreative Apps\n3. Clevere Mietwahl, wenn Sie einen Premium‑Mac für ein Projekt, ein Semester oder Reisen brauchen – ohne Langzeitbindung",
+        "cons_de": "Nachteile\n1. 256 GB Speicher können für große Medienbibliotheken oder intensives Videoprojekt zu wenig sein – Cloud oder externe SSD empfehlen sich\n2. Wenige Anschlüsse – ältere Peripherie könnte einen USB‑C‑Hub benötigen"
     },
     {
         "slug": "apple-series-10-gps-aluminium-case-and-sport-band-46mm",
@@ -492,7 +540,9 @@ const data = [
             "Globales Positionierungssystem": "Galileo, GLONASS, GPS"
         },
         "pros": "Pros\n- Large 46 mm display in a light aluminum case feels comfortable for daily wear and looks fresh on your wrist\n- Strong fitness and health tracking with GPS for accurate outdoor workouts plus smooth iPhone integration for notifications and Apple Pay\n- Great for renters who want the latest Apple Watch experience now with flexibility to upgrade later without a big upfront cost",
-        "cons": "Cons\n- GPS only model may not suit users who want full connectivity without their iPhone\n- The 46 mm size might feel a bit large for smaller wrists"
+        "cons": "Cons\n- GPS only model may not suit users who want full connectivity without their iPhone\n- The 46 mm size might feel a bit large for smaller wrists",
+        "pros_de": "Vorteile\n- Großes 46‑mm‑Display im leichten Aluminiumgehäuse – angenehm im Alltag und moderner Look\n- Umfassendes Fitness‑ und Gesundheitstracking mit GPS für genaue Outdoor‑Workouts; nahtlose iPhone‑Integration für Benachrichtigungen und Apple Pay\n- Ideal zur Miete für neueste Apple‑Watch‑Erfahrung jetzt – später flexibel upgraden ohne hohe Einstiegskosten",
+        "cons_de": "Nachteile\n- Reines GPS‑Modell ist weniger geeignet für volle Konnektivität ohne iPhone\n- 46‑mm‑Größe kann an kleineren Handgelenken etwas groß wirken"
     },
     {
         "slug": "delonghi-coffee-machine-delonghi-eletta-explore-ecam-450-55-g",
@@ -516,7 +566,9 @@ const data = [
             "Kapazität des Kaffeesatzbehälters": "14 Portionen"
         },
         "pros": "Pros\n- Try premium bean to cup coffee without the commitment of buying, with hot and cold recipes including iced options for trend friendly drinks at home\n- Automatic milk system and one touch drinks make weekdays easy, plus a to go function for your travel mug\n- Built in grinder and intuitive color display let you customize strength and size, so everyone can dial in their taste",
-        "cons": "Cons\n- The machine is fairly large and may not suit very small countertops or low shelves\n- The milk system and carafes add a bit more cleaning and fridge space than a simple capsule machine"
+        "cons": "Cons\n- The machine is fairly large and may not suit very small countertops or low shelves\n- The milk system and carafes add a bit more cleaning and fridge space than a simple capsule machine",
+        "pros_de": "Vorteile\n- Premium Bean‑to‑Cup‑Kaffee ohne Kaufbindung – heiße und kalte Rezepte inkl. Iced‑Optionen für trendige Drinks daheim\n- Automatisches Milchsystem und One‑Touch‑Getränke erleichtern den Alltag; To‑Go‑Funktion für den Reisebecher\n- Integriertes Mahlwerk und intuitives Farbdisplay – Stärke und Größe individuell anpassen, damit jeder seinen Geschmack trifft",
+        "cons_de": "Nachteile\n- Das Gerät ist relativ groß und passt evtl. nicht auf sehr kleine Arbeitsflächen oder unter niedrige Regale\n- Milchsystem und Kannen bedeuten etwas mehr Reinigung und Platz im Kühlschrank als bei Kapselmaschinen"
     },
     {
         "slug": "sony-alpha-7-iv-sel-fe-28-70mm",
@@ -538,7 +590,9 @@ const data = [
             "Zum Lieferumfang gehören": "Sony A7 IV Kamera, Sony NP-FZ100 Lithium-Ionen-Akku (2280mAh), Netzadapter und Netzkabel, Schultergurt, USB Typ-C zu Typ-A Kabel"
         },
         "pros": "Pros\n• Full frame image quality with strong dynamic range for crisp photos and flexible editing\n• Fast autofocus with real time eye tracking for people and animals so you can get sharp results with minimal setup\n• Video ready with 4K up to 60 frames per second a fully rotating touchscreen and in body stabilization plus the 28 to 70 lens covers everyday scenes with optical stabilization",
-        "cons": "Cons\n• The included kit lens has a modest aperture so it may not suit low light work or strong background blur Consider a brighter prime if that look matters to you\n• Larger than a compact camera and the menu can feel deep at first so beginners may want a little time to get comfortable"
+        "cons": "Cons\n• The included kit lens has a modest aperture so it may not suit low light work or strong background blur Consider a brighter prime if that look matters to you\n• Larger than a compact camera and the menu can feel deep at first so beginners may want a little time to get comfortable",
+        "pros_de": "Vorteile\n• Vollformat‑Bildqualität mit großem Dynamikumfang für knackige Fotos und flexible Nachbearbeitung\n• Schneller Autofokus mit Echtzeit‑Augenerkennung für Menschen und Tiere – scharfe Ergebnisse mit minimalem Setup\n• Videotauglich mit 4K bis 60 fps, voll drehbarem Touchscreen und IBIS; das 28–70‑mm‑Objektiv deckt Alltagsszenen mit optischer Stabilisierung ab",
+        "cons_de": "Nachteile\n• Das Kit‑Objektiv hat eine eher geringe Lichtstärke – für Low‑Light oder starkes Bokeh evtl. eine lichtstarke Festbrennweite wählen\n• Größer als eine Kompaktkamera und ein tiefes Menü – Einsteiger brauchen evtl. etwas Eingewöhnungszeit"
     },
     {
         "slug": "dji-mini-3-fly-more-combo-dji-rc",
@@ -554,7 +608,9 @@ const data = [
             "Abmessungen (zusammengeklappt)": "148,0 x 90,0 x 62,0 mm"
         },
         "pros": "Pros:\n1. Ultra portable at under 249 grams, easier to travel with and fly in more places in many regions\n2. Fly More Combo plus DJI RC adds extra batteries a charging hub a case and a controller with a built in screen, so you can shoot longer with quick setup and no phone required\n3. 4K video and true vertical shooting deliver crisp social ready content without heavy gear",
-        "cons": "Cons:\n1. Light body may not suit flights in stronger winds compared with larger drones\n2. Lacks advanced obstacle sensing, so some users might prefer a model with more assist features for complex environments"
+        "cons": "Cons:\n1. Light body may not suit flights in stronger winds compared with larger drones\n2. Lacks advanced obstacle sensing, so some users might prefer a model with more assist features for complex environments",
+        "pros_de": "Vorteile\n1. Unter 249 g – sehr kompakt, leichter zu reisen und in vielen Regionen einfacher zu fliegen\n2. Fly More Combo + DJI RC: Zusatzakkus, Ladehub, Tasche und Fernsteuerung mit Screen – länger filmen, schneller startklar, kein Smartphone nötig\n3. 4K‑Video und echtes vertikales Filmen – scharfer Social‑Content ohne schweres Equipment",
+        "cons_de": "Nachteile\n1. Leichter Aufbau eignet sich weniger bei stärkerem Wind als größere Drohnen\n2. Fehlende erweiterte Hinderniserkennung – für komplexe Umgebungen bevorzugen manche Nutzer Modelle mit mehr Assistenzfunktionen"
     },
     {
         "slug": "insta360-x5-essentials-bundle",
@@ -575,7 +631,9 @@ const data = [
             "Abmessungen (B x H x T)": "46 x 124,5 x 38,2 mm - 200g"
         },
         "pros": "Pros\n• 360 capture with smooth stabilization so action and travel clips look steady without extra gear  \n• Shoot once then reframe later in the Insta360 app, perfect for social ready vertical or wide formats  \n• Essentials Bundle includes the basics you need to start filming right away which is ideal for a short term rental",
-        "cons": "Cons\n• 360 files can be large and may require more storage and a recent phone or computer for editing  \n• The 360 workflow adds a small learning curve and may not suit users who want simple point and shoot results"
+        "cons": "Cons\n• 360 files can be large and may require more storage and a recent phone or computer for editing  \n• The 360 workflow adds a small learning curve and may not suit users who want simple point and shoot results",
+        "pros_de": "Vorteile\n• 360‑Aufnahmen mit stabiler Bildstabilisierung – Action‑ und Reiseclips wirken ruhig, ganz ohne Zusatz‑Gimbal\n• Einmal filmen, später in der Insta360‑App neu rahmen – perfekt für vertikale oder breite Social‑Formate\n• Essentials Bundle enthält alles Nötige für den schnellen Start – ideal für eine Kurzzeitmiete",
+        "cons_de": "Nachteile\n• 360‑Dateien können groß werden – mehr Speicher und ein aktuelles Smartphone/Notebook für den Schnitt nötig\n• 360‑Workflow hat eine kleine Lernkurve – weniger geeignet, wenn Sie nur point‑and‑shoot möchten"
     },
     {
         "slug": "roborock-s8-maxv-ultra-robot-cleaner",
@@ -593,7 +651,9 @@ const data = [
             "System oder kompatibel mit System": "Amazon Alexa, Apple Siri, Google Home"
         },
         "pros": "Pros\n• All in one dock auto empties the dustbin, washes and dries the mop, and refills water, keeping upkeep low during your rental  \n• Strong suction and combined vacuum plus mop deliver thorough cleaning on mixed floors with minimal effort  \n• Smart mapping and obstacle avoidance handle tight apartments and clutter, with flexible app controls for room schedules and no go zones",
-        "cons": "Cons\n• The dock is sizable and needs a dedicated spot with an outlet, which may not suit very small spaces  \n• Emptying and drying cycles can be louder for a short time, which some users might find noticeable"
+        "cons": "Cons\n• The dock is sizable and needs a dedicated spot with an outlet, which may not suit very small spaces  \n• Emptying and drying cycles can be louder for a short time, which some users might find noticeable",
+        "pros_de": "Vorteile\n• All‑in‑One‑Dock leert automatisch den Staubbehälter, wäscht und trocknet den Mopp und füllt Wasser nach – geringer Aufwand während der Mietzeit\n• Starke Saugleistung und kombinierte Saug‑/Wischfunktion reinigen Mischböden gründlich bei minimalem Einsatz\n• Smarte Kartierung und Hindernisvermeidung meistern enge Wohnungen und Unordnung; flexible App‑Steuerung für Raumpläne und No‑Go‑Zonen",
+        "cons_de": "Nachteile\n• Die Station ist recht groß und benötigt einen festen Platz mit Steckdose – in sehr kleinen Räumen ggf. unpraktisch\n• Entleer‑ und Trocknungszyklen können kurzzeitig lauter sein – manche Nutzer finden das bemerkbar"
     },
     {
         "slug": "apple-smartphone-iphone-15-pro-max-8gb-256gb",
@@ -14663,7 +14723,11 @@ const data = [
             "Integriertes Mikrofon": "Drei Mikrofone pro Ohrhörer",
             "Geräuschunterdrückung": "ANC",
             "Wasser-/Spritzwassergeschützt": "IP57"
-        }
+        },
+        "pros": "English\nPros\n• Clear detailed sound with active noise cancelling and ambient mode for focus or awareness\n• Comfortable in ear fit with a compact case and quick charge for easy use on the go\n• Rent with confidence try the latest Samsung earbuds now and upgrade or switch later",
+        "cons": "Cons\n• Some features work best with Samsung Galaxy phones so non Samsung users may not get the full experience\n• Battery life may not suit very long listening sessions without recharging",
+        "pros_de": "Deutsch\nVorteile\n• Klarer detaillierter Sound mit aktiver Geräuschunterdrückung und Transparenzmodus für Fokus oder Umfeld\n• Bequemer In Ear Sitz mit kompaktem Case und Schnellladen für unterwegs\n• Mieten statt kaufen maximale Flexibilität jetzt testen und später upgraden oder wechseln",
+        "cons_de": "Nachteile\n• Einige Funktionen wirken am besten mit Samsung Galaxy Smartphones daher erhalten Nutzer anderer Marken vielleicht nicht das volle Erlebnis\n• Die Akkulaufzeit passt eventuell nicht für sehr lange Hörsessions ohne Nachladen"
     },
     {
         "slug": "hp-15s-eq2258ng-r5-5500u-16gb-512gb",
@@ -14678,7 +14742,11 @@ const data = [
             "Arbeitsspeicher": "16GB",
             "Tastatursprache": "Deutsch",
             "Abmessungen und Gewicht": "35.6 x 24.2 x 1.49 cm • 1.6 kg"
-        }
+        },
+        "pros": "Pros\n• Smooth multitasking with AMD Ryzen 5 5500U and 16 GB RAM  \n• Fast startup and plenty of room thanks to the 512 GB SSD  \n• Practical choice for flexible renting needs with reliable everyday performance for study work and streaming",
+        "cons": "Cons\n• Integrated Radeon graphics may not suit demanding AAA gaming or heavy 4K video editing  \n• Some users might prefer a more color accurate display for creative work",
+        "pros_de": "Vorteile\n• Flottes Multitasking mit AMD Ryzen 5 5500U und 16 GB Arbeitsspeicher  \n• Schnelle Starts und viel Platz dank 512 GB SSD  \n• Praktische Wahl zum Mieten mit zuverlässiger Alltagsleistung für Studium Arbeit und Streaming",
+        "cons_de": "Nachteile\n• Integrierte Radeon Grafik eignet sich weniger für anspruchsvolle AAA Spiele oder intensiven 4K Videoschnitt  \n• Manche Nutzerinnen und Nutzer wünschen sich eventuell ein Display mit höherer Farbtreue für kreative Arbeit"
     },
     {
         "slug": "ecovacs-deebot-x2-omni-vacuum-cleaner",
@@ -14695,7 +14763,11 @@ const data = [
             "Fassungsvermögen des Wassertanks": "0,18 l",
             "Maximales Volumen des Staubbehälters": "420 ml",
             "Maximales Volumen des Wasserbehälters": "4 l"
-        }
+        },
+        "pros": "English\nPros\n• Vacuum and mop in one with a dock that auto empties, washes, and dries pads for low effort upkeep\n• Smart mapping and obstacle avoidance for reliable cleaning in complex apartment layouts\n• Strong suction and D shape front to reach edges and corners, great for pet hair",
+        "cons": "Cons\n• The dock takes noticeable floor space and needs a nearby outlet, may not suit very small apartments\n• Self cleaning and high power modes can be a bit loud, some users might prefer quieter operation",
+        "pros_de": "Deutsch\nVorteile\n• Saugen und Wischen in einem mit Dock, das Staub automatisch entleert sowie Pads wäscht und trocknet, sehr wenig Aufwand im Alltag\n• Smarte Kartierung und Hinderniserkennung für zuverlässige Reinigung in komplexen Wohnlayouts\n• Hohe Saugkraft und D Form vorn erreicht Kanten und Ecken, ideal bei Tierhaaren",
+        "cons_de": "Nachteile\n• Die Station benötigt spürbar Stellfläche und eine Steckdose in der Nähe, passt eventuell nicht in sehr kleine Wohnungen\n• Selbstreinigung und starke Leistungsstufen können etwas lauter sein, manche Nutzer bevorzugen eventuell leiseren Betrieb"
     },
     {
         "slug": "xgimi-mogo-2-pro-projector",
@@ -14725,7 +14797,11 @@ const data = [
             "Unterstützte Auflösungen": "Full HD (1920 x 1080 Pixel)",
             "Vertikale Keystone-Korrektur": "Ja",
             "Horizontale Keystone-Korrektur": "Ja"
-        }
+        },
+        "pros": "Pros\n• Compact Full HD projector with auto focus and auto keystone for quick and easy setup in any room  \n• Streaming apps and quality built in speakers make a simple all in one movie night with no extra boxes  \n• USB C power and light design are great for renters who want flexible use from living room to bedroom or on a weekend trip",
+        "cons": "Cons\n• Works best in dim to dark rooms and may not suit bright daylight viewing  \n• No built in battery so you will need a power outlet or a compatible USB C power bank",
+        "pros_de": "Vorteile\n• Kompakter Full HD Beamer mit Autofokus und automatischer Trapezkorrektur für schnellen und einfachen Aufbau  \n• Integrierte Streaming Apps und kräftige Lautsprecher sorgen für Filmabende ohne Zusatzgeräte  \n• USB C Stromversorgung und leichtes Design sind ideal für flexible Nutzung in verschiedenen Räumen oder unterwegs",
+        "cons_de": "Nachteile\n• Die Helligkeit kommt am besten in abgedunkelten Räumen zur Geltung und ist weniger geeignet für helles Tageslicht  \n• Kein integrierter Akku daher ist eine Steckdose oder eine kompatible USB C Powerbank nötig"
     },
     {
         "slug": "apple-macbook-pro-14-m3-max-14cpu-36gb-1tb-30gpu",
@@ -14740,7 +14816,11 @@ const data = [
             "Arbeitsspeicher": "36GB",
             "Tastatursprache": "Deutsch",
             "Abmessungen und Gewicht": "22.12 x 31.26 x 1.55 cm • 1.62 kg"
-        }
+        },
+        "pros": "Pros\n• Serious performance for creative work: Apple M3 Max with 36 GB memory and a 30 core GPU handles 4K to 8K video, 3D, and heavy multitasking with ease\n• 14 inch Liquid Retina XDR display and strong battery life make a great mobile studio for editing and color work\n• Renting with Grover gives you a premium setup without long term commitment and easy upgrades when your needs change",
+        "cons": "Cons\n• May be more power than casual users need, so a lighter or simpler Mac could be a better value\n• Some accessories may need adapters for USB C ports, which can add a small cost or an extra cable",
+        "pros_de": "Vorteile\n• Sehr hohe Leistung für Kreative: Apple M3 Max mit 36 GB Arbeitsspeicher und 30 Kern GPU bewältigt 4K bis 8K Video, 3D und intensives Multitasking\n• 14 Zoll Liquid Retina XDR Display und starke Akkulaufzeit machen es zum mobilen Studio für Schnitt und Farbkorrektur\n• Mieten bei Grover bietet ein Premium Setup ohne lange Bindung und mit einfacher Option zum Upgrade wenn sich deine Anforderungen ändern",
+        "cons_de": "Nachteile\n• Könnte für Alltagsnutzung mehr Leistung bieten als nötig, ein leichteres oder einfacheres Mac Modell kann preislich sinnvoller sein\n• Manche Zubehörteile benötigen eventuell Adapter für USB C Anschlüsse, was kleine Zusatzkosten oder ein zusätzliches Kabel bedeutet"
     },
     {
         "slug": "canon-rf-50mm-f1-2-l-usm",
@@ -14755,7 +14835,11 @@ const data = [
             "Filtergröße": "77 mm",
             "Bildstabilisator": "Nein",
             "Minimale Fokusentfernung": "1,31' / 40 cm"
-        }
+        },
+        "pros": "Pros\n• Creamy bokeh and strong subject separation with the bright F1.2 aperture\n• Excellent low light and portrait performance with fast quiet USM autofocus and robust L Series build\n• Great way to try a flagship portrait look without a big upfront spend",
+        "cons": "Cons\n• Some users might find it large and heavy for long sessions or everyday carry\n• The fixed 50 mm focal length may not suit those who want more framing flexibility",
+        "pros_de": "Vorteile\n• Traumhaftes Bokeh und starke Freistellung dank Lichtstärke F1.2\n• Sehr gut bei wenig Licht und für Portraits mit schnellem leisem USM Autofokus und robuster L Serie Qualität\n• Ideal um den Signature Look eines Spitzenobjektivs ohne hohe Anschaffungskosten auszuprobieren",
+        "cons_de": "Nachteile\n• Für manche etwas groß und schwer bei langen Sessions oder im Alltag\n• Die feste Brennweite von 50 mm bietet weniger Spielraum beim Bildausschnitt"
     },
     {
         "slug": "dyson-vacuum-cleaner-dyson-dyson-v11-total-clean",
@@ -14767,7 +14851,11 @@ const data = [
             "Ausstattung": "Ladekontrollleuchte",
             "Betriebsdauer": "60min",
             "Fassungsvermögen": "770ml"
-        }
+        },
+        "pros": "Pros\n• Strong suction with Auto mode adapts to floor type for efficient everyday cleaning\n• Cordless and space saving design is easy to store and ideal for quick cleanups in apartments or shared spaces\n• Useful tool kit and a clear LCD runtime display add flexibility and a modern feel",
+        "cons": "Cons\n• Battery life may not suit very large homes especially on Boost mode\n• The hold to run trigger may feel less comfortable during longer sessions",
+        "pros_de": "Vorteile\n• Starke Saugleistung mit Auto Modus passt sich dem Boden an und sorgt für effiziente Alltagsreinigung\n• Kabelloses und platzsparendes Design lässt sich leicht verstauen und ist ideal für schnelle Einsätze in der Wohnung\n• Umfangreiches Zubehör und ein klares LCD Display bieten Flexibilität und einen modernen Eindruck",
+        "cons_de": "Nachteile\n• Die Akkulaufzeit passt eventuell nicht für sehr große Wohnflächen besonders im Boost Modus\n• Die Dauertaste zum Saugen kann sich bei längeren Einsätzen weniger bequem anfühlen"
     },
     {
         "slug": "garmin-fenix-7x-pro-solar-stainless-steel-and-silicone-band-51mm",
@@ -14784,7 +14872,11 @@ const data = [
             "WIDERSTANDSFÄHIGKEIT": "Bis zu 10 ATM",
             "AKTIVITÄTSAUFZEICHNUNG": "80+ Sport-/Outdoor-Apps (Laufen, Mountainbiking, Mannschaftssportarten), Aktivität vs. Inaktivität, Höhenunterschiede, Blutsauerstoff, Herzfrequenz, Atemmuster, Trittfrequenz, Kalorienverbrauch, Radfahrgeschwindigkeit, geschwommene Strecke, zurückgelegte Strecke, Dauer der Übung, Herzfrequenz, geschwommene Runden, Tempo, Geschwindigkeit, erklommene Treppen, zurückgelegte Schritte",
             "GLOBALE POSITIONSBESTIMMUNG": "Galileo, GLONASS, GPS"
-        }
+        },
+        "pros": "English\nPros\n• Solar charging extends battery life so you charge less during busy weeks and trips\n• Large readable display plus LED flashlight and a tough stainless steel build for training and outdoor use\n• Advanced GPS maps and training insights let you track many sports and try pro features without long commitment",
+        "cons": "Cons\n• The 51 mm case may feel large on smaller wrists\n• Solar benefits depend on how much time you spend in bright light",
+        "pros_de": "Deutsch\nVorteile\n• Solaraufladung verlängert die Laufzeit sodass du seltener laden musst\n• Großes gut ablesbares Display mit LED Taschenlampe und robustes Edelstahlgehäuse für Training und Outdoor\n• Erweiterte GPS Karten und Trainingsanalysen für viele Sportarten ideal zum Ausprobieren ohne langfristige Bindung",
+        "cons_de": "Nachteile\n• Das 51 mm Gehäuse kann an schmalen Handgelenken groß wirken\n• Der Nutzen durch Solar hängt davon ab wie viel Zeit du bei gutem Licht verbringst"
     },
     {
         "slug": "hp-15-fd0055ng",
@@ -14799,7 +14891,11 @@ const data = [
             "Arbeitsspeicher": "8GB",
             "Tastatursprache": "Deutsch",
             "Abmessungen und Gewicht": "35.98 x 23.6 x 1.86 cm • 1.6 kg"
-        }
+        },
+        "pros": "Pros\n• Fast 13th gen Intel Core i5 performance with 8 GB memory for smooth everyday multitasking school work and office apps\n• 512 GB SSD for quick startup and plenty of space so renting stays flexible without extra clutter\n• Intel Iris Xe graphics handle streaming video calls and light creative tasks with ease",
+        "cons": "Cons\n• 8 GB memory may not suit power users who run many heavy apps or large creative projects\n• Integrated graphics is not ideal for demanding AAA gaming or advanced 3D work",
+        "pros_de": "Vorteile\n• Schnelle Leistung mit Intel Core i5 der 13. Generation und 8 GB Arbeitsspeicher für flüssiges Multitasking Studium und Office\n• 512 GB SSD startet zügig und bietet viel Platz dadurch bleibt die Miete flexibel und unkompliziert\n• Intel Iris Xe Grafik eignet sich gut für Streaming Videocalls und leichte kreative Aufgaben",
+        "cons_de": "Nachteile\n• 8 GB Arbeitsspeicher könnte für sehr viele gleichzeitige anspruchsvolle Anwendungen nicht ausreichen\n• Integrierte Grafik ist nicht ideal für anspruchsvolle AAA Spiele oder fortgeschrittene 3D Arbeit"
     },
     {
         "slug": "roborock-vacuum-cleaner-roborock-s8plus",
@@ -14817,7 +14913,11 @@ const data = [
             "Fassungsvermögen": "0.65l (0.30l nass, 0.35l trocken)",
             "Geräuschentwicklung": "67dB(A)",
             "Empfohlene Raumgröße": "max. 300m²"
-        }
+        },
+        "pros": "Pros\n• Powerful and efficient clean with dual rubber brushes smart LiDAR mapping and a vibrating mop for everyday dust and light spills\n• Auto empty dock cuts routine maintenance so you spend less time on chores\n• Ideal for renting try a premium robot without a big upfront cost and keep the option to upgrade later",
+        "cons": "Cons\n• The dock and robot need some floor space and an outlet may not suit very tight rooms\n• Mopping is for maintenance cleans rather than deep scrubs some users might prefer a separate mop for heavy stains",
+        "pros_de": "Vorteile\n• Leistungsstarke und effiziente Reinigung mit zwei Gummibürsten smarter LiDAR Kartierung und vibrierender Wischfunktion für Staub und leichte Flecken\n• Absaugstation reduziert den Aufwand und spart Zeit bei der regelmäßigen Pflege\n• Ideal zum Mieten premium Roboter ohne hohe Anschaffungskosten und später flexibel upgraden",
+        "cons_de": "Nachteile\n• Station und Roboter benötigen etwas Stellfläche und eine Steckdose für sehr kleine Zimmer eventuell weniger passend\n• Die Wischfunktion ist für die Pflege zwischendurch und ersetzt keine gründliche Bodenreinigung manche Nutzer bevorzugen für hartnäckige Flecken ein separates Gerät"
     },
     {
         "slug": "philips-tv-philips-55pus7609-12",
@@ -14843,7 +14943,11 @@ const data = [
             "Schnittstelle für Panelmontage": "200 x 300 mm",
             "Ethernet LAN (RJ-45) Anschlüsse": "1",
             "High Dynamic Range (HDR) Technologie": "High Dynamic Range 10 (HDR10), High Dynamic Range 10+ (HDR10 Plus), Hybrid Log-Gamma (HLG)"
-        }
+        },
+        "pros": "Pros\n- Big 55 inch 4K screen with crisp detail and vibrant colors for movies sports and casual gaming\n- Smart TV with popular streaming apps so you can watch right away without an extra box\n- Easy setup and simple connections for consoles and laptops a flexible pick for short or long rentals",
+        "cons": "Cons\n- Built in speakers are modest some users may prefer adding a soundbar for richer audio\n- May not suit competitive gamers who want very high refresh rates",
+        "pros_de": "Vorteile\n- Großes 55 Zoll 4K Display mit klaren Details und kräftigen Farben für Filme Sport und entspanntes Gaming\n- Smart TV mit beliebten Streaming Apps direkt startklar ohne zusätzliche Box\n- Einfache Einrichtung und unkomplizierte Anschlüsse für Konsolen und Laptops flexibel für kurze oder längere Mieten",
+        "cons_de": "Nachteile\n- Die integrierten Lautsprecher sind eher schlicht manche Nutzer ergänzen gern mit einer Soundbar für satteren Klang\n- Für sehr ambitioniertes Gaming mit sehr hohen Bildraten möglicherweise weniger geeignet"
     },
     {
         "slug": "delonghi-coffee-machine-delonghi-magnifica-evo-ecam-290-61-sb",
@@ -14867,7 +14971,11 @@ const data = [
             "Fassungsvermögen Bohnenbehälter": "250g",
             "Fassungsvermögen des Wassertanks": "1,8 l, abnehmbar mit integriertem Wasserfilter",
             "Kapazität des Kaffeesatzbehälters": "14 Portionen"
-        }
+        },
+        "pros": "English — Pros\n• One touch coffees from espresso to milk drinks for cafe like variety at home  \n• Adjustable strength and grind settings to suit different tastes and guests  \n• Easy setup and cleaning with removable parts a practical pick if you want premium coffee without long commitment",
+        "cons": "English — Cons\n• Larger than a pod machine so may not suit very small countertops  \n• Requires regular cleaning and descaling to keep flavors consistent which some users might find a bit routine",
+        "pros_de": "Deutsch — Vorteile\n• Getränke auf Knopfdruck von Espresso bis Milchvarianten für Café Feeling zu Hause  \n• Einstellbare Kaffeestärke und Mahlgrad für unterschiedliche Vorlieben und Gäste  \n• Einfache Inbetriebnahme und Reinigung mit herausnehmbaren Teilen ideal wenn du Premium Kaffee ohne Kaufbindung testen willst",
+        "cons_de": "Deutsch — Nachteile\n• Etwas größer als eine Kapselmaschine passt eventuell nicht auf sehr kleine Arbeitsflächen  \n• Regelmäßige Reinigung und Entkalkung nötig damit der Geschmack konstant bleibt manche Nutzer könnten den Aufwand als etwas routinemäßig empfinden"
     },
     {
         "slug": "zotac-graphics-card-zotac-geforce-rtx-4090-trinity-oc-triple-fan",
@@ -14875,7 +14983,11 @@ const data = [
         "specifications": {
             "Memory": "24GB (GDDR6X)",
             "Dimensions": "7.83 x 19.9 x 10.3 cm • 2.29 kg"
-        }
+        },
+        "pros": "Pros\n• Flagship performance for 4K and high refresh gaming with ray tracing and DLSS 3, also strong for creative workloads  \n• Triple fan cooling helps keep temperatures and noise balanced during long sessions  \n• Rent to access top tier power without the upfront cost and switch easily when your needs change  ",
+        "cons": "Cons\n• Large size and high power draw may not suit small cases or modest power supplies  \n• May be overkill for casual gaming some users might prefer a more affordable GPU  ",
+        "pros_de": "Vorteile\n• Spitzenleistung für 4K und hohe Bildraten mit Raytracing und DLSS 3 auch stark für kreative Workflows  \n• Triple Fan Kühlung hält Temperaturen und Geräuschpegel ausgewogen bei langen Sessions  \n• Mieten statt kaufen Zugriff auf Top Leistung ohne hohe Anfangskosten und später flexibel wechseln oder aufrüsten  ",
+        "cons_de": "Nachteile\n• Großes Format und hoher Strombedarf passen möglicherweise nicht in kleine Gehäuse oder zu knapper Stromversorgung  \n• Für Gelegenheitsspieler eventuell zu viel Leistung eine günstigere Karte könnte besser passen"
     },
     {
         "slug": "shark-iw3611-detect-pro-cordless-vacuum-cleaner",
@@ -14888,7 +15000,11 @@ const data = [
             "Besonderheiten": "DirtDetect, EdgeDetect, FloorDetect, LightDetect, Anti-Hair Wrap-Technologie entfernt beim Reinigen Haare von der Bürstenrolle – perfekt für Haushalte mit Haustieren, LED-Display zeigt Batteriestatus, Schmutzerkennung und Modustyp in Echtzeit an",
             "Maximale Betriebsdauer": "60 Min",
             "Maximales Volumen des Staubbehälters": "0,42 l"
-        }
+        },
+        "pros": "Pros\n- Smart dirt detection helps optimize power for efficient cleaning and better battery use\n- Cordless and lightweight for flexible cleaning in small spaces and quick touch ups\n- Solid multi surface performance from hard floors to rugs with a modern look that feels current",
+        "cons": "Cons\n- Dust cup capacity may require more frequent emptying than a full size corded vacuum\n- May not suit very large homes that need long deep cleaning sessions",
+        "pros_de": "Vorteile\n- Intelligente Schmutzerkennung optimiert die Leistung für effizientes Saugen und eine bessere Akkunutzung\n- Kabellos und leicht für flexible Reinigung in kleinen Räumen und schnelle Zwischenreinigungen\n- Gute Leistung auf verschiedenen Bodenarten und modernes Design",
+        "cons_de": "Nachteile\n- Der Staubbehälter ist kleiner und muss eventuell häufiger geleert werden als bei großen kabelgebundenen Geräten\n- Könnte für sehr große Wohnungen mit langen intensiven Reinigungen weniger geeignet sein"
     },
     {
         "slug": "sony-tv-sony-kd55x75wlpaep",
@@ -14906,7 +15022,11 @@ const data = [
             "HDR (High Dynamic Range)": "Dolby Vision, HDR10, Hybrid Log-Gamma (HLG)",
             "Abmessungen mit Standfuß": "1243 mm / 789 mm / 334 mm",
             "Abmessungen ohne Standfuß": "1243 mm / 721 mm / 71 mm"
-        }
+        },
+        "pros": "Pros\n• 55 inch 4K HDR BRAVIA display with Sony processing for a sharp natural picture in movies sports and casual gaming\n• Google TV with Chromecast built in for quick access to top streaming apps and effortless casting from your phone\n• Slim modern design that fits most setups and feels like an upgrade without a big upfront cost",
+        "cons": "Cons\n• 60 Hertz panel may not suit competitive gamers who want ultra smooth 120 frames per second\n• Standard LED contrast means blacks are not as deep as OLED in very dark rooms",
+        "pros_de": "Vorteile\n• 55 Zoll 4K HDR BRAVIA Display mit Sony Bildverarbeitung für ein klares natürliches Bild bei Filmen Sport und entspanntem Gaming\n• Google TV mit integriertem Chromecast für schnellen Zugriff auf große Streaming Apps und einfaches Casting vom Smartphone\n• Schlankes modernes Design passt in viele Wohnsituationen und wirkt wie ein Upgrade ohne hohe Anschaffungskosten",
+        "cons_de": "Nachteile\n• 60 Hertz Panel ist für sehr anspruchsvolle Gamer die 120 Bilder pro Sekunde möchten eventuell weniger geeignet\n• Der Kontrast eines Standard LED Panels erreicht in sehr dunklen Räumen nicht die Tiefe eines OLED"
     },
     {
         "slug": "siemens-eq-900-tq903d03-coffee-machine",
@@ -14923,7 +15043,11 @@ const data = [
             "Inhalt Bohnenbehälter": "375g",
             "Fassungsvermögen des Wassertanks": "2,3 l",
             "Fassungsvermögen des Milchbehälters": "0,7 l"
-        }
+        },
+        "pros": "English\nPros\n• Barista level variety at one touch from espresso to milk drinks with adjustable strength temperature and volume\n• Intuitive large touch display with user profiles makes it easy for roommates or families to get their favorite cup every time\n• Perfect for renting enjoy a premium machine without the big purchase and keep flexibility if your routine changes",
+        "cons": "Cons\n• Takes up noticeable counter space and may not suit very small kitchens\n• Requires regular cleaning and descaling especially with milk drinks which some users might find time consuming",
+        "pros_de": "Deutsch\nVorteile\n• Barista Erlebnis auf Knopfdruck von Espresso bis Cappuccino mit anpassbarer Stärke Temperatur und Menge\n• Großes Touchdisplay und Nutzerprofile sorgen für einfache Bedienung auch in Wohngemeinschaften oder Familien\n• Ideal zum Mieten Premium Genuss ohne hohe Anschaffungskosten und mit flexibler Laufzeit",
+        "cons_de": "Nachteile\n• Benötigt spürbaren Platz auf der Arbeitsfläche und passt eventuell nicht in sehr kleine Küchen\n• Regelmäßige Reinigung und Entkalkung vor allem bei Milchgetränken kann für manche Nutzer zeitaufwendig wirken"
     },
     {
         "slug": "epson-projector-epson-eh-ls500-android-tv-edition",
@@ -14938,7 +15062,11 @@ const data = [
             "Projektionsabstand": "0,4 m - 0,82 m",
             "Projektionsgröße": "65 bis 130 Zoll (1,65 m bis 3,30 m)",
             "Bildschirmauflösung": "3840 x 2160 Pixel"
-        }
+        },
+        "pros": "Pros\n- Ultra short throw design delivers a cinema size image from close to the wall, great for small spaces and renters with no ceiling drilling\n- Bright 4K UHD with a long lasting laser light source for crisp viewing and minimal maintenance during your rental\n- Quick to place on a media cabinet and simple to move or return, ideal for temporary setups and shared apartments",
+        "cons": "Cons\n- For the best contrast a dedicated screen that rejects ambient light or a very flat white wall is recommended, which may add a bit of setup\n- Built in speakers are fine for casual use but some users might prefer external audio for a more immersive feel",
+        "pros_de": "Vorteile\n- Ultrakurzdistanz Design liefert ein Bild in Kinogröße aus kurzer Distanz zur Wand, ideal für kleine Räume und Mietwohnungen ohne Deckenmontage\n- Helle 4K UHD Darstellung mit langlebiger Laser Lichtquelle für klare Bilder und wenig Aufwand während der Miete\n- Einfach auf ein Lowboard stellen und schnell wieder umziehen oder zurückgeben, perfekt für temporäre Setups und WGs",
+        "cons_de": "Nachteile\n- Für besten Kontrast empfiehlt sich eine spezielle Leinwand zur Reduktion von Umgebungslicht oder eine sehr glatte weiße Wand, was etwas mehr Einrichtung bedeuten kann\n- Die eingebauten Lautsprecher sind solide, aber manche Nutzer bevorzugen externes Audio für mehr Kinogefühl"
     },
     {
         "slug": "roborock-vacuum-cleaner-roborock-roborock-s7plus",
@@ -14953,7 +15081,11 @@ const data = [
             "Auto-Entleerungsstation": "Sechs Wochen ohne Entleerung • Zertifizierte konstante Saugleistung • Zertifizierte Allergieverträglichkeit • Geeignet für Staubbeutel • Intelligente Staubsammlung • Staubbehältererkennung",
             "MAX. VOLUMEN DES WASSERTANKS": "0,3L (bis 200 qm)",
             "MAX. VOLUMEN DES STAUBBEHÄLTERS": "0,47 L"
-        }
+        },
+        "pros": "English\nPros\n• Sonic mopping and strong suction clean hard floors and carpets in one pass\n• Auto empty dock cuts daily upkeep which is convenient for a rental and busy weeks\n• Smart maps room based and zone cleaning with app control for flexible routines",
+        "cons": "Cons\n• The dock needs some floor space and a nearby power outlet so it may stand out in smaller rooms\n• Mopping is best for routine upkeep rather than stubborn dried stains",
+        "pros_de": "Deutsch\nVorteile\n• Sonisches Wischen und starke Saugkraft reinigen Hartböden und Teppiche in einem Durchgang\n• Absaugstation reduziert den Pflegeaufwand praktisch zur Miete und bei vollen Wochen\n• Intelligente Karten Raum und Zonenreinigung mit App Steuerung für flexible Abläufe",
+        "cons_de": "Nachteile\n• Die Station braucht etwas Stellfläche und eine Steckdose und kann in kleinen Räumen auffallen\n• Die Wischfunktion eignet sich eher für regelmäßige Pflege als für hartnäckige eingetrocknete Flecken"
     },
     {
         "slug": "apple-tablet-11-ipad-pro-2022-5g-8gb-256gb",
@@ -14969,7 +15101,11 @@ const data = [
             "Rückkamera": "12MP Wide + 10MP Ultra-wide + LiDAR",
             "Betriebssystem": "iPadOS 16",
             "Konnektivität": "5G"
-        }
+        },
+        "pros": "English\nPros\n- M2 chip delivers fast performance for creative apps gaming and multitasking\n- Wi Fi and Cellular with 5G keeps you connected at home work and on the go for maximum flexibility\n- 11 inch Liquid Retina display with ProMotion feels smooth and modern great for drawing streaming and note taking",
+        "cons": "Cons\n- 11 inch size may feel small if you want a full laptop like workspace\n- 256 GB storage may not suit very large 4K video projects unless you rely on cloud storage",
+        "pros_de": "Deutsch\nVorteile\n- M2 Chip bietet starke Performance fuer kreative Apps Games und Multitasking\n- WLAN und Mobilfunk mit 5G haelt dich zu Hause im Buero und unterwegs flexibel verbunden\n- 11 Zoll Liquid Retina Display mit ProMotion wirkt sehr fluessig ideal zum Zeichnen Streamen und Notizen",
+        "cons_de": "Nachteile\n- Die 11 Zoll Groesse kann fuer ein echtes Laptop Gefuehl etwas klein sein\n- 256 GB Speicher koennen fuer sehr grosse 4K Projekte ohne Cloud Speicher knapp werden"
     },
     {
         "slug": "lg-tv-lg-oled65b36la",
@@ -14997,7 +15133,11 @@ const data = [
             "Anzahl der USB 2.0-Anschlüsse": "2",
             "Schnittstelle für Panelmontage": "300 x 200 mm",
             "High Dynamic Range (HDR)-Technologie": "Dolby Vision, Hoher Dynamikbereich 10 (HDR10), Hybrid Log-Gamma (HLG)"
-        }
+        },
+        "pros": "English\nPros:\n• OLED 4K delivers deep blacks vibrant colors and wide contrast for a cinematic experience\n• 120 Hz panel with VRR and low input lag via HDMI 2.1 makes it great for next gen gaming\n• Smart TV with webOS major streaming apps and a slim design for easy renter friendly setup",
+        "cons": "Cons:\n• Peak brightness is lower than some premium TVs so it works best in moderate to dark rooms\n• The 65 inch size may not suit very small spaces or short viewing distances",
+        "pros_de": "Deutsch\nVorteile:\n• OLED 4K bietet tiefes Schwarz lebendige Farben und hohen Kontrast für ein Kinoerlebnis zu Hause\n• 120 Hz Panel mit VRR und geringem Input Lag über HDMI 2.1 ideal für Gaming auf aktuellen Konsolen\n• Smart TV mit webOS den wichtigsten Streaming Apps und schlankem Design für einfache Einrichtung",
+        "cons_de": "Nachteile:\n• Die Spitzenhelligkeit ist niedriger als bei manchen Premiummodellen daher am besten in mittelhellen bis dunklen Räumen\n• 65 Zoll kann für sehr kleine Räume oder kurze Sitzabstände weniger geeignet sein"
     },
     {
         "slug": "lg-monitor-lg-ultragear-32gr93u-32-32gr93u-b-aeu",
@@ -15009,7 +15149,11 @@ const data = [
             "Reaktionszeit": "1ms",
             "Abmessungen und Gewicht": "71.3 x 61.12 x 27.8 cm • 8.3 kg",
             "High Dynamic Range (HDR)": "Yes"
-        }
+        },
+        "pros": "Pros\n- 32 inch 4K IPS with up to 144 Hz and 1 ms class response for sharp detail and smooth play\n- HDMI 2.1 with VRR for current consoles plus DisplayPort for powerful PCs\n- Great rental choice to try true 4K high refresh gaming without the commitment of buying",
+        "cons": "Cons\n- The 32 inch size may not suit very small desks\n- To drive 4K at high frame rates you will want a strong graphics card or a current console",
+        "pros_de": "Vorteile\n- 32 Zoll 4K IPS mit bis zu 144 Hz und sehr schneller Reaktionszeit für klare Details und flüssiges Gameplay\n- HDMI 2.1 mit VRR für aktuelle Konsolen sowie DisplayPort für starke PCs\n- Ideal zum Mieten um echtes 4K Gaming mit hoher Bildrate flexibel auszuprobieren",
+        "cons_de": "Nachteile\n- Die 32 Zoll Größe passt eventuell nicht auf sehr kleine Schreibtische\n- Für 4K mit hoher Bildrate ist eine leistungsstarke Grafikkarte oder eine aktuelle Konsole empfehlenswert"
     },
     {
         "slug": "asus-rog-fa507ui-hq010w-r9-8945h-16gb-1tb-rtx-4070",
@@ -15024,7 +15168,11 @@ const data = [
             "Arbeitsspeicher": "16GB",
             "Tastatursprache": "Deutsch",
             "Abmessungen und Gewicht": "1 x 1 x 1 cm • 1 kg"
-        }
+        },
+        "pros": "English\nPros\n• Strong gaming performance with AMD Ryzen 7 8945HS and NVIDIA GeForce RTX 4070 for smooth AAA and esports titles\n• Fast 1 TB SSD and 16 GB RAM for quick load times and responsive multitasking\n• Great for renting try a powerful gaming laptop now with the flexibility to switch as your needs change",
+        "cons": "Cons\n• Some users might find 16 GB memory limiting for heavy content creation or streaming while gaming\n• Powerful components can draw more power and fans can get noticeable under load so battery playtime may be shorter",
+        "pros_de": "Deutsch\nVorteile\n• Starke Gaming Leistung mit AMD Ryzen 7 8945HS und NVIDIA GeForce RTX 4070 für flüssige AAA Titel und Esports\n• Schneller 1 TB SSD Speicher und 16 GB RAM für kurze Ladezeiten und flüssiges Multitasking\n• Ideal zur Miete flexibel testen ohne hohe Anfangskosten und bei Bedarf später unkompliziert wechseln",
+        "cons_de": "Nachteile\n• 16 GB Arbeitsspeicher kann für sehr aufwendige Projekte oder gleichzeitiges Streamen beim Zocken knapp werden\n• Unter Last werden die Lüfter hörbar und die Akkulaufzeit fällt beim Gaming eher kürzer aus"
     },
     {
         "slug": "asus-vivobook-16-i7-16gb-512gb",
@@ -15039,7 +15187,11 @@ const data = [
             "Arbeitsspeicher": "16GB",
             "Tastatursprache": "Deutsch",
             "Abmessungen und Gewicht": "35.9 x 25 x 2 cm • 1.88 kg"
-        }
+        },
+        "pros": "English\nPros\n• Intel Core i7 1255U and 16 GB RAM keep work study and multitasking smooth\n• Spacious 16 inch display and fast 512 GB SSD support productivity and media on the go\n• Intel Iris Xe graphics and a clean modern look give renters trend forward tech without a long commitment",
+        "cons": "Cons\n• Integrated graphics may not suit heavy AAA gaming or advanced 3D rendering\n• Larger 16 inch footprint means some users might find it less compact than 14 inch options",
+        "pros_de": "Deutsch\nVorteile\n• Intel Core i7 1255U und 16 GB RAM sorgen für flüssiges Multitasking bei Studium Arbeit und Alltag\n• Großes 16 Zoll Display und schnelle 512 GB SSD unterstützen produktives Arbeiten und Medien unterwegs\n• Intel Iris Xe Grafik und ein modernes Design bieten trendige Technik zur Miete ohne lange Bindung",
+        "cons_de": "Nachteile\n• Integrierte Grafik eignet sich eventuell nicht für anspruchsvolle AAA Spiele oder fortgeschrittenes 3D Rendering\n• Durch das 16 Zoll Format finden manche Nutzerinnen und Nutzer es weniger kompakt als 14 Zoll Geräte"
     },
     {
         "slug": "sony-tv-sony-kd43x75wlpaep",
@@ -15057,7 +15209,11 @@ const data = [
             "HDR (High Dynamic Range)": "Dolby Vision, HDR10, Hybrid Log-Gamma (HLG)",
             "Abmessungen mit Standfuß": "972mm / 632mm / 266mm",
             "Abmessungen ohne Standfuß": "972mm / 567mm / 70mm"
-        }
+        },
+        "pros": "Pros\n• Sharp 4K picture with HDR in a compact 43 inch size that fits flats and smaller living rooms\n• Google TV with voice control and Chromecast built in for quick access to apps and easy casting from your phone\n• Simple setup and lightweight design make it renter friendly and easy to relocate",
+        "cons": "Cons\n• 43 inch screen may feel small for very large rooms or a main home cinema\n• 60 Hz panel and basic speakers may not suit competitive gamers or audio enthusiasts without a soundbar",
+        "pros_de": "Vorteile\n• Scharfes 4K Bild mit HDR im kompakten 43 Zoll Format passend für Wohnungen und kleinere Wohnzimmer\n• Google TV mit Sprachsteuerung und integriertem Chromecast für schnellen App Zugriff und einfaches Casting vom Smartphone\n• Einfache Einrichtung und geringes Gewicht machen es mieterfreundlich und leicht umzuziehen",
+        "cons_de": "Nachteile\n• 43 Zoll kann in sehr großen Räumen kleiner wirken\n• 60 Hz Panel und eher einfaches Audio sind für ambitionierte Gamer oder Klangfans ohne Soundbar eventuell weniger passend"
     },
     {
         "slug": "roborock-vacuum-cleaner-roborock-s7-maxv-plus",
@@ -15073,7 +15229,11 @@ const data = [
             "Volumen Wasserbehälter": "0,2 L",
             "Zum Lieferumfang gehören": "Benutzerhandbuch, Roborock S7 MaxV Plus mit Absaugstation, Ladestation mit Netzteil, Staubfilter, Tücher, Bedienungsanleitung",
             "Volumen des Staubbehälters": "0,4 L"
-        }
+        },
+        "pros": "English\nPros\n• Powerful vacuum and sonic mop handle daily dust and light spills in one pass  \n• Auto empty dock cuts routine maintenance to a minimum great for busy renters  \n• Smart mapping and obstacle avoidance adapt well to mixed floors and apartment layouts",
+        "cons": "Cons\n• Dock and robot need some floor space and a nearby outlet which may not suit very compact rooms  \n• Initial mapping and settings can take a little time to fine tune",
+        "pros_de": "Deutsch\nVorteile\n• Starke Saugleistung und vibrierende Wischfunktion für gründliche Reinigung in einem Durchgang  \n• Absaugstation reduziert den Pflegeaufwand deutlich ideal für wenig Zeit  \n• Clevere Kartierung und Hinderniserkennung funktionieren gut bei gemischten Böden und Wohnungsgrundrissen",
+        "cons_de": "Nachteile\n• Station und Gerät benötigen etwas Stellfläche und eine Steckdose was in sehr kleinen Räumen unpraktisch sein kann  \n• Erste Einrichtung und Kartierung brauchen etwas Zeit bis alles optimal läuft"
     },
     {
         "slug": "msi-geforce-rtx-5090-suprim-soc-32gb-gddr7",
@@ -15082,7 +15242,11 @@ const data = [
             "Speicher": "32 GB (GDDR7)",
             "Abmessungen": "7,6 x 35,9 x 1,5 cm • 2,84 kg",
             "Boost-Taktfrequenz": "2565 MHz"
-        }
+        },
+        "pros": "Pros\n• Built for high resolution gaming and heavy creative workloads with 32 GB GDDR7 for large projects\n• Premium Suprim build with advanced cooling for stable and quiet performance under load\n• Renting lets you try the newest generation without long commitment and upgrade easily",
+        "cons": "Cons\n• Large size and higher power needs may not suit compact cases or modest power supplies\n• May be overkill for casual use a more affordable tier could fit better",
+        "pros_de": "Vorteile\n• Ausgelegt für Gaming in hoher Auflösung und anspruchsvolle kreative Workflows mit 32 GB GDDR7 für große Projekte\n• Hochwertige Suprim Verarbeitung mit fortschrittlicher Kühlung für stabile und leise Performance unter Last\n• Mieten statt kaufen testet die neueste Generation ohne lange Bindung und ermöglicht flexible Upgrades",
+        "cons_de": "Nachteile\n• Große Abmessungen und höherer Strombedarf passen eventuell nicht in kleine Gehäuse oder zu schwächeren Netzteilen\n• Für gelegentliche Nutzung eventuell zu viel Leistung eine günstigere Stufe kann besser passen"
     },
     {
         "slug": "optoma-projector-optoma-photon-go",
@@ -15123,7 +15287,11 @@ const data = [
             "Dynamisches Kontrastverhältnis": "2.500.000:1",
             "Keystone-Korrektur - horizontal": "±10°",
             "Vertikale automatische Keystone-Korrektur": "Ja"
-        }
+        },
+        "pros": "English\nPros\n• Full HD picture quality for crisp movies and games\n• Easy to set up and store a space saving alternative to a big TV\n• Flexible rental try the big screen now and upgrade whenever you want",
+        "cons": "Cons\n• Works best in dim or dark rooms so may not suit very bright spaces\n• For streaming apps you may need an external device such as a stick via HDMI",
+        "pros_de": "Deutsch\nVorteile\n• Full HD Bild für klare Filme und Games\n• Schnell eingerichtet und leicht zu verstauen platzsparende Alternative zu einem großen TV\n• Flexible Miete jetzt testen und bei Bedarf einfach upgraden",
+        "cons_de": "Nachteile\n• Entfaltet seine Stärke vor allem in abgedunkelten Räumen weniger geeignet bei viel Umgebungslicht\n• Für Streaming Apps wird eventuell ein externes Gerät wie ein Stick über HDMI benötigt"
     },
     {
         "slug": "philips-tv-philips-43pus8209-12",
@@ -15147,7 +15315,11 @@ const data = [
             "Bildwiederholrate (nativ)": "60 Hz",
             "Anzahl USB 2.0-Anschlüsse": "2",
             "Installiertes Betriebssystem": "Titan OS"
-        }
+        },
+        "pros": "Pros\n• QLED 4K picture with rich color and sharp detail for movies gaming and sports\n• Compact 43 inch size fits smaller rooms and is easy to move for flexible rentals\n• Smart TV with popular streaming apps so you can start watching without extra devices",
+        "cons": "Cons\n• 43 inch screen may feel modest for very large rooms or long viewing distances\n• Built in speakers are fine for everyday use but movie fans might prefer a soundbar",
+        "pros_de": "Vorteile\n• QLED 4K liefert kräftige Farben und klare Details für Filme Gaming und Sport\n• Kompakte 43 Zoll Größe passt gut in kleinere Räume und ist flexibel für Mietzeiträume\n• Smart TV mit beliebten Streaming Apps für einen schnellen Start ohne zusätzliche Geräte",
+        "cons_de": "Nachteile\n• 43 Zoll kann in sehr großen Räumen etwas klein wirken\n• Die integrierten Lautsprecher sind solide doch Filmfans möchten eventuell eine Soundbar ergänzen"
     },
     {
         "slug": "acer-projector-acer-pl3510atv",
@@ -15177,7 +15349,11 @@ const data = [
             "Zum Lieferumfang gehören": "Bedienungsanleitung, Fernbedienung, HDMI-Kabel, Netzkabel, Tragetasche",
             "Native Auflösung des Projektors": "1080p (1920x1080)",
             "Kompatibilität mit Bildschirmgrößen": "736,6 - 7620 mm (29 - 300\")"
-        }
+        },
+        "pros": "Pros EN\n1. Full HD picture quality for sharp movies games and presentations\n2. Built in Android TV for easy streaming and casting no extra devices needed\n3. Eco minded Vero design with a long lasting light source to keep upkeep low during your rental",
+        "cons": "Cons EN\n1. Not 4K may not suit users who want the highest possible resolution\n2. Built in speaker is basic some users might prefer external audio for a fuller sound",
+        "pros_de": "Vorteile DE\n1. Full HD Bild für klare Filme Games und Präsentationen\n2. Integriertes Android TV für einfaches Streaming und Casting ohne zusätzliche Geräte\n3. Umweltbewusstes Vero Design mit langlebiger Lichtquelle geringe Wartung während der Miete",
+        "cons_de": "Nachteile DE\n1. Kein 4K daher eventuell nicht ideal für alle die maximale Schärfe suchen\n2. Der eingebaute Lautsprecher ist schlicht einige Nutzer bevorzugen für satten Klang externe Audio"
     },
     {
         "slug": "samsung-tablet-galaxy-tab-s10-ultra-5g-12gb-256gb",
@@ -15193,7 +15369,11 @@ const data = [
             "Rückkamera": "13MP Primary +8MP Ultrawide",
             "Betriebssystem": "Android",
             "Konnektivität": "5G"
-        }
+        },
+        "pros": "Pros\n• Big immersive display that is great for streaming sketching and split screen multitasking\n• Fast performance and 256 GB storage suit work and play while you rent only as long as you need\n• 5G connectivity keeps you productive on the go and is ideal for flexible renters",
+        "cons": "Cons\n• Its large size may not suit users who want something ultra light for quick reading or travel\n• 5G use requires a compatible data plan and accessories like a keyboard or cover may be optional",
+        "pros_de": "Vorteile\n• Riesiges Display ideal zum Streamen Zeichnen und für Multitasking mit geteiltem Bildschirm\n• Starke Performance und 256 GB Speicher für Arbeit und Entertainment du mietest nur so lange wie du es brauchst\n• 5G Verbindung hält dich unterwegs produktiv und passt zu flexiblen Mietgewohnheiten",
+        "cons_de": "Nachteile\n• Das große Format ist eventuell nichts für alle die ein sehr leichtes Gerät für Lesen oder Reisen suchen\n• Für 5G brauchst du einen passenden Datentarif und Zubehör wie Tastatur oder Hülle ist nicht immer enthalten"
     },
     {
         "slug": "denon-dht-s416-soundbar-subwoofer",
@@ -15209,7 +15389,11 @@ const data = [
             "Besondere Merkmale": "Wireless Subwoofer, Google Chromecast, HDMI ARC, Bluetooth-Unterstützung, Dolby Digital Decoding",
             "Gesamtleistung (W)": "",
             "Signalübertragung": "Kabelgebunden, Kabellos"
-        }
+        },
+        "pros": "Pros\n- Strong cinematic sound for its size with a wireless subwoofer for flexible placement\n- Chromecast built in and Bluetooth for easy streaming from your phone\n- Quick HDMI ARC setup and a slim design that fits small living rooms and rental spaces",
+        "cons": "Cons\n- May not suit users seeking true surround or Dolby Atmos level immersion\n- Inputs are limited compared with a full AV receiver",
+        "pros_de": "Vorteile\n- Kräftiger Kino Klang für die Größe mit kabellosem Subwoofer für flexible Platzierung\n- Chromecast integriert und Bluetooth für einfaches Streaming vom Smartphone\n- Schnelle Einrichtung über HDMI ARC und schlankes Design ideal für kleine Wohnungen und Mieträume",
+        "cons_de": "Nachteile\n- Eignet sich weniger für Nutzer die echten Surround Sound oder Dolby Atmos erwarten\n- Anschlüsse sind begrenzt im Vergleich zu einem AV Receiver"
     },
     {
         "slug": "razer-blade-14-2024-ryzen-9-8945hs-32gb-1tb-rtx-4070",
@@ -15224,7 +15408,11 @@ const data = [
             "Arbeitsspeicher": "32GB",
             "Tastatursprache": "Deutsch",
             "Abmessungen und Gewicht": "22.8 x 18 x 31.1 cm • 1.84 kg"
-        }
+        },
+        "pros": "Pros\n* Strong performance for gaming and creative work with AMD Ryzen 9 8945HS and NVIDIA GeForce RTX 4070\n* 32 GB memory and 1 TB SSD deliver smooth multitasking and plenty of space for modern games\n* Premium yet compact 14 inch design that fits study work and travel great for short term needs without long term commitment",
+        "cons": "Cons\n* Compact 14 inch size means fewer ports and limited upgrade options compared to larger laptops\n* May not suit casual users who do not need dedicated graphics or extra power",
+        "pros_de": "Vorteile\n* Starke Leistung für Gaming und kreative Workflows mit AMD Ryzen 9 8945HS und NVIDIA GeForce RTX 4070\n* 32 GB Arbeitsspeicher und 1 TB SSD sorgen für flüssiges Multitasking und viel Platz für aktuelle Games\n* Hochwertiges und kompaktes 14 Zoll Design passt ins Studium den Job und auf Reisen ideal zum Mieten für kurzfristige Projekte ohne lange Bindung",
+        "cons_de": "Nachteile\n* Das kompakte 14 Zoll Format bietet weniger Anschlüsse und nur begrenzte Aufrüstbarkeit im Vergleich zu größeren Notebooks\n* Könnte für Nutzerinnen und Nutzer ohne Bedarf an dedizierter Grafik oder hoher Leistung weniger passend sein"
     },
     {
         "slug": "samsung-tv-samsung-gu43cu7179uxzg",
@@ -15242,7 +15430,9 @@ const data = [
             "HDR (High Dynamic Range)": "HDR10+",
             "Abmessungen mit Standfuß": "963.9 x 627.8 x 192.5 mm",
             "Abmessungen ohne Standfuß": "963.9 x 558.9 x 59.6 mm"
-        }
+        },
+        "pros": "Pros Deutsch\n• 4K Crystal UHD bietet scharfe Details und lebendige Farben mit HDR für Filme Sport und Gaming\n• Smart TV mit Tizen vereint die wichtigsten Streaming Apps und ist schnell eingerichtet\n• Kompakte 43 Zoll Größe passt gut in kleinere Räume und zur Miete kannst du später flexibel upgraden",
+        "cons": "Cons Deutsch\n• 60 Hertz Bildwiederholrate eignet sich weniger für Gaming mit 120 fps\n• Die integrierten Lautsprecher sind alltagstauglich manche Nutzer bevorzugen für kräftigeren Klang eine Soundbar"
     },
     {
         "slug": "pioneer-ddj-flx4-dj-studio-equipment",
@@ -15258,7 +15448,11 @@ const data = [
             "Intelligente Funktionen": "Mit der Smart Fader-Funktion können Sie sofort loslegen. Sie passt Lautstärke, Basslautstärke und BPM automatisch an, sodass Sie durch einfaches Bewegen der Kanalfader oder des Crossfaders sanfte Übergänge zwischen Ihren Tracks schaffen können. Und mit Smart CFX können Sie eine Effektkombination zaubern, die den Sound noch dramatischer macht. Alles, was Sie tun müssen, ist einen Regler zu drehen",
             "Übersetzungsverhältnis": "103dB",
             "Im Lieferumfang enthalten": "DDJ-FLX4, Schnellstartanleitung, Gebrauchsanweisung, Serato Flyer, USB-C-Kabel, Garantie (in einigen Regionen)"
-        }
+        },
+        "pros": "Pros\n• Quick plug and play setup with rekordbox and Serato on laptop or mobile  \n• Compact 2 channel design with Smart Fader and Smart CFX makes learning and casual gigs smooth  \n• Streaming friendly with mic audio routed to USB and simple USB C power for clean cable management",
+        "cons": "Cons\n• 2 channels and a compact footprint may not suit advanced multi deck or club workflows  \n• Requires compatible software and device so planning your setup is important",
+        "pros_de": "Vorteile\n• Einfache Einrichtung dank plug and play mit rekordbox und Serato auf Laptop oder Mobilgerät  \n• Kompaktes 2 Kanal Layout mit Smart Fader und Smart CFX erleichtert den Einstieg und entspannte Gigs  \n• Streaming freundlich durch Mikrofon zu USB und einfache USB C Stromversorgung für ein aufgeräumtes Setup",
+        "cons_de": "Nachteile\n• 2 Kanäle und das kompakte Format passen eventuell nicht für anspruchsvolle Multi Deck oder Club Workflows  \n• Benötigt kompatible Software und ein Gerät daher sollte das Setup im Voraus geplant werden"
     },
     {
         "slug": "msi-meg-trident-x2-14nuf7-280at",
@@ -15272,7 +15466,11 @@ const data = [
             "Dimensions": "21.5 x 42.96 x 48.96 cm • 14.06 kg",
             "Operating System": "Windows® 11 Home",
             "Keyboard Language": ""
-        }
+        },
+        "pros": "Pros\n• Strong gaming and creation performance with Intel Core i7 14th generation and MSI GeForce RTX 4070 Ti\n• 32 GB memory and fast 1 TB SSD for quick loads and smooth multitasking, good for streaming and creative work\n• Compact premium desktop that saves space and looks modern, great if you want top tier power without the commitment of buying",
+        "cons": "Cons\n• May not suit casual or budget focused users who do not need this level of performance\n• Compact design can limit internal upgrade options compared with larger towers",
+        "pros_de": "Vorteile\n• Hohe Leistung für aktuelles Gaming und Content Creation mit Intel Core i7 der 14. Generation und MSI GeForce RTX 4070 Ti\n• 32 GB Arbeitsspeicher und schnelle 1 TB SSD für kurze Ladezeiten und flüssiges Multitasking, ideal auch für Streaming und kreative Workflows\n• Kompaktes Premium Gehäuse spart Platz und passt gut in moderne Setups, stark für alle die Spitzenleistung wollen ohne sich festzulegen",
+        "cons_de": "Nachteile\n• Für Gelegenheitsspieler mit kleinem Budget eventuell mehr Leistung als nötig\n• Das kompakte Design bietet weniger Aufrüstoptionen als größere Tower"
     },
     {
         "slug": "dyson-vacuum-cleaner-dyson-gen5detect-absolute",
@@ -15294,7 +15492,11 @@ const data = [
             "Vakuumstab-Baugruppe": "Ja",
             "Multifunktionsbürste": "Ja",
             "Reinigungsoberflächen": "Teppich, Hartboden, Polster"
-        }
+        },
+        "pros": "English\nPros\n• Latest Dyson performance without the commitment of buying\n• Laser dust reveal and strong suction help you clean more effectively\n• Long battery life up to 70 minutes with versatile tools for different floors",
+        "cons": "Cons\n• May feel a bit heavier than very compact stick vacuums\n• Premium model so the rental fee may not suit very tight budgets",
+        "pros_de": "Deutsch\nVorteile\n• Neueste Dyson Performance ohne Kaufbindung\n• Laserbeleuchtung macht Staub sichtbar und die starke Saugleistung entfernt ihn gründlich\n• Lange Laufzeit bis zu 70 Minuten und viele Aufsätze für unterschiedliche Böden",
+        "cons_de": "Nachteile\n• Kann auf Dauer etwas schwerer wirken als sehr kompakte Stabstaubsauger\n• Als Premium Modell könnte die Miete für sehr knappe Budgets weniger passen"
     },
     {
         "slug": "canon-eos-r100-rf-s-18-45mm-is-stm-rf-s-55-210-is-stm",
@@ -15307,7 +15509,11 @@ const data = [
             "Speicher": "Einzelner SD-Kartensteckplatz",
             "Lieferumfang": "Canon R100 Kamera, Canon LP-E17 Akku, Canon RF-S 18-45mm Objektiv, Canon RF-S 55-210mm Objektiv, Canon Trageriemen, Kamera- und Objektivabdeckung",
             "Konnektivität": "WLAN, Bluetooth, App-Steuerung"
-        }
+        },
+        "pros": "Pros\n• Two lens kit covers wide to telephoto 18 to 45 mm and 55 to 210 mm so you can capture travel portraits and distant subjects with one rental\n• Optical stabilization in both lenses helps keep photos and clips steady without extra gear\n• Compact and beginner friendly with guided modes plus fast Bluetooth and Wi Fi pairing to the Canon Camera Connect app for quick sharing",
+        "cons": "Cons\n• Variable aperture lenses and no stabilization in the camera body may not suit low light handheld video\n• 4K video features are more limited than on advanced models so creators who need high frame rates and more controls might prefer another option",
+        "pros_de": "Vorteile\n• Zwei Zoomobjektive 18 bis 45 mm und 55 bis 210 mm decken Weitwinkel bis Tele ab ideal für Reise Portraits und entfernte Motive mit nur einer Miete\n• Optische Stabilisierung in beiden Objektiven hilft Fotos und Videos verwackelungsarm zu halten ohne zusätzliches Zubehör\n• Kompakt und einsteigerfreundlich mit geführten Modi sowie schneller Bluetooth und WLAN Kopplung zur Canon Camera Connect App für einfaches Teilen",
+        "cons_de": "Nachteile\n• Variable Lichtstärke und kein Stabilisator im Gehäuse sind bei wenig Licht aus der Hand eventuell weniger geeignet\n• 4K Video ist funktionsärmer als bei höherwertigen Modellen daher für Creator mit hohen Ansprüchen möglicherweise nicht die beste Wahl"
     },
     {
         "slug": "samsung-smartphone-galaxy-z-flip-5-5g-12gb-256gb",
@@ -15322,7 +15528,11 @@ const data = [
             "Rückkamera": "12MP + 12MP",
             "Betriebssystem": "Android 13",
             "Konnektivität": "5G"
-        }
+        },
+        "pros": "English\nPros\n• Trendy foldable design that fits any pocket and lets you try the latest without a long term commitment\n• Fast 5G and strong performance for smooth multitasking streaming and social content\n• Dual SIM and 256 GB storage for travel friendly flexibility and plenty of space",
+        "cons": "Cons\n• May not suit very heavy screen time days compared to some large non foldable phones\n• Some users might miss a dedicated zoom camera if mobile photography is a priority",
+        "pros_de": "Deutsch\nVorteile\n• Trendiges klappbares Design passt in jede Tasche und erlaubt dir das Neueste zu nutzen ohne langfristige Bindung\n• Schnelles 5G und starke Performance für flüssiges Multitasking Streaming und Social Media\n• Dual SIM und 256 GB Speicher bieten flexible Nutzung auf Reisen und viel Platz",
+        "cons_de": "Nachteile\n• Bei sehr langer Bildschirmzeit könnte die Akkulaufzeit weniger passen als bei großen nicht faltbaren Smartphones\n• Manche Nutzerinnen und Nutzer könnten eine echte Zoom Kamera vermissen wenn mobile Fotografie im Fokus steht"
     },
     {
         "slug": "hp-monitor-hp-omen-34c-34-780k8e9",
@@ -15334,7 +15544,11 @@ const data = [
             "Reaktionszeit": "1ms",
             "Abmessungen und Gewicht": "80.8 x 36.6 x 10.8 cm • 10.59 kg",
             "High Dynamic Range (HDR)": "Yes"
-        }
+        },
+        "pros": "English\nPros:\n- Immersive 34 inch curved ultra wide display with 3440 x 1440 resolution and a high refresh rate for smooth gaming and easy multitasking\n- Adaptive sync and fast response for clear motion and tear free play\n- Rent to try an ultra wide setup without long commitment and switch models easily",
+        "cons": "Cons:\n- The large curved panel may not suit compact desks or very short viewing distances\n- Some users might find color accuracy more tuned for gaming than for color critical creative work",
+        "pros_de": "Deutsch\nVorteile:\n- Immersives 34 Zoll Curved Ultra Wide Display mit 3440 x 1440 Auflösung und hoher Bildwiederholrate für flüssiges Gaming und effizientes Multitasking\n- Adaptive Sync und schnelle Reaktionszeit für klare Bewegungen und ein ruckelfreies Bild\n- Miete statt Kauf testet das Ultrawide Setup ohne lange Bindung und ermöglicht später einen einfachen Wechsel",
+        "cons_de": "Nachteile:\n- Das große Curved Panel passt eventuell nicht auf sehr kleine Schreibtische oder bei kurzer Sitzdistanz\n- Manche Nutzer finden die Farbtreue eher auf Gaming als auf farbkritische Kreativarbeit ausgelegt"
     },
     {
         "slug": "acer-projector-acer-h6523bd",
@@ -15349,7 +15563,11 @@ const data = [
             "Projektionsabstand": "1.00 - 9,76 m",
             "Projektionsgröße": "0,71 - 7,62 m",
             "Bildschirmauflösung": "1920 x 1080 Pixel"
-        }
+        },
+        "pros": "Pros\n• Full HD visuals for a crisp big screen experience at home  \n• Flexible placement with keystone correction and a compact design that fits many setups  \n• Simple HDMI connectivity for laptop console or streaming stick",
+        "cons": "Cons\n• Delivers its best picture in a dim or dark room so it may not suit very bright spaces  \n• The built in speaker is basic and an external speaker or soundbar will improve audio",
+        "pros_de": "Vorteile\n• Full HD Bild für ein scharfes Kinogefühl zu Hause  \n• Flexible Aufstellung dank Keystone Korrektur und kompaktem Design für viele Raumkonzepte  \n• Einfache Verbindung über HDMI für Laptop Konsole oder Streaming Stick",
+        "cons_de": "Nachteile\n• Beste Bildqualität im abgedunkelten Raum daher weniger passend für sehr helle Umgebungen  \n• Der eingebaute Lautsprecher ist eher schlicht mit externer Box oder Soundbar klingt es deutlich besser"
     },
     {
         "slug": "acer-predator-orion-5000-po5-655-i7-14700f-32gb-1tb-rtx-4080-super",
@@ -15363,7 +15581,11 @@ const data = [
             "Dimensions": "21.9 x 50.4 x 48.5 cm • 17.5 kg",
             "Operating System": "Windows® 11 Home",
             "Keyboard Language": ""
-        }
+        },
+        "pros": "Pros\n• Serious performance for 4K gaming and creative workloads with Intel Core i7 14700F and GeForce RTX 4080 Super\n• Supports the latest graphics tech including ray tracing and DLSS for smooth frames and detailed visuals\n• Rental friendly setup with 32 GB memory and a fast 1 TB SSD so you can dive into big games and projects right away",
+        "cons": "Cons\n• The full size desktop may not suit very small desks or minimal setups\n• 1 TB storage can fill up quickly with modern games some users might want to add external or cloud storage",
+        "pros_de": "Vorteile\n• Hohe Leistung für 4K Gaming und kreative Workflows mit Intel Core i7 14700F und GeForce RTX 4080 Super\n• Unterstützt aktuelle Grafiktechnologien wie Ray Tracing und DLSS für flüssige Bildraten und detailreiche Darstellung\n• Mietfreundliches Setup mit 32 GB Arbeitsspeicher und schneller 1 TB SSD damit du große Spiele und Projekte direkt starten kannst",
+        "cons_de": "Nachteile\n• Das große Gehäuse passt eventuell nicht in sehr kompakte Setups\n• 1 TB Speicher ist bei aktuellen Spielen schnell gefüllt manche Nutzer möchten zusätzlichen Speicher einplanen"
     },
     {
         "slug": "optoma-cinemax-d2-smart-laser-projector",
@@ -15378,7 +15600,11 @@ const data = [
             "Projektionsabstand": "0,47 m - 0,66 m",
             "Projektionsgröße": "2,16 m - 3,05 m",
             "Bildschirmauflösung": "3840 x 2160 pixels"
-        }
+        },
+        "pros": "Pros\n• Big 4K UHD image from very close to the wall thanks to an ultra short throw design  \n• Laser light source for sharp picture and long life with minimal maintenance  \n• Gaming friendly low latency and smart streaming built in for easy setup",
+        "cons": "Cons\n• For the best results you will want a proper screen or a very flat light colored wall which can add cost  \n• Needs a wide low TV stand to position correctly and may not suit very narrow furniture",
+        "pros_de": "Vorteile\n• Riesiges 4K UHD Bild aus kurzer Distanz dank Ultrakurzdistanz Design  \n• Laser Lichtquelle für klare Darstellung und lange Lebensdauer bei wenig Wartung  \n• Gaming freundlich mit geringer Latenz und integrierten Smart Streaming Funktionen",
+        "cons_de": "Nachteile\n• Für beste Ergebnisse ist eine geeignete Leinwand oder eine sehr glatte helle Wand empfehlenswert was zusätzliche Kosten bedeuten kann  \n• Benötigt ein ausreichend tiefes TV Möbel für die Aufstellung und passt nicht in sehr enge Nischen"
     },
     {
         "slug": "eufy-vacuum-cleaner-eufy-robovac-lr-35-hybrid-74134807-9eed-4b0e-9aa8-bbbe98d2baef",
@@ -15395,7 +15621,11 @@ const data = [
             "Untergrundempfehlung": "Boden",
             "Zusammensetzung der Batteriezelle": "Lithium-Ionen",
             "Sind Batterien im Lieferumfang enthalten": "Ja"
-        }
+        },
+        "pros": "English\nPros\n• Vacuum and mop in one with laser mapping for efficient coverage and smart navigation\n• Auto empty base reduces routine upkeep so it fits a busy rental lifestyle\n• App and voice assistant control with room selection schedules and no go zones for flexible cleaning",
+        "cons": "Cons\n• Mop is best for light maintenance rather than deep cleaning or heavy spills\n• The base requires some floor space which may not suit very compact rooms",
+        "pros_de": "Deutsch\nVorteile\n• Saugen und Wischen in einem mit Laser Kartierung für effiziente Abdeckung und smarte Navigation\n• Automatische Leerstation verringert den täglichen Aufwand passt gut zu einem schnellen Mietalltag\n• App und Sprachsteuerung mit Raumwahl Zeitplänen und Sperrzonen für flexible Reinigung",
+        "cons_de": "Nachteile\n• Die Wischfunktion ist eher für leichte Pflege geeignet und nicht für hartnäckige Verschmutzungen\n• Die Station braucht etwas Stellfläche was in sehr kleinen Räumen weniger passt"
     },
     {
         "slug": "kenwood-kitchen-machine-kenwood-titanium-chef-patissier-xl",
@@ -15408,7 +15638,11 @@ const data = [
             "Besonderheiten": "Wärmefunktion: Mit der Wärmefunktion können Sie Zutaten in der Rührschüssel ganz einfach erhitzen und so bessere und schnellere Ergebnisse erzielen – ganz ohne Aufwand. EasyWeigh-Waage: Die integrierte EasyWeigh-Waage spart Zeit und reduziert Unordnung beim Backen, sodass Sie alles wiegen können Geben Sie die Zutaten direkt in die Schüssel, 2,4-Zoll-Touchscreen: Mit dem intuitiven 2,4-Zoll-BakeAssist™-Touchscreen können Sie Ihre Maschine einfach bedienen. Mit den 6 voreingestellten SimpleTouch-Programmen können Sie Teig gehen lassen, Schokolade schmelzen, Teig kneten, einen Biskuitkuchen zubereiten, Eiweiß schlagen oder Schweizer Baiser zubereiten. Mit nur einem Fingertipp gelingen Backprojekte spielend leicht. BowlBright™ Rührschüssel-Innenbeleuchtung: Die integrierte und patentierte BowlBright™ Rührschüssel-Innenbeleuchtung befindet sich im Rührarm",
             "Fassungsvermögen": "7l (Schüssel)",
             "Geschwindigkeitsstufen": "13 Geschwindigkeitsstufen"
-        }
+        },
+        "pros": "Pros\n• Powerful performance and large capacity for bread dough and big batches\n• Integrated weighing and bowl warming cut extra tools and speed up prep\n• Versatile attachments support mixing whipping kneading and more",
+        "cons": "Cons\n• Footprint and weight may not suit very small kitchens\n• At higher speeds it can be a bit loud compared to compact mixers",
+        "pros_de": "Vorteile\n• Starke Leistung und große Schüssel für Brotteig und größere Mengen\n• Integrierte Waage und Schüssel mit Wärmefunktion sparen Zubehör und Zeit\n• Vielseitige Aufsätze für Rühren Schlagen Kneten und mehr",
+        "cons_de": "Nachteile\n• Größe und Gewicht sind in sehr kleinen Küchen weniger praktisch\n• Bei hoher Stufe etwas lauter als kompakte Geräte"
     },
     {
         "slug": "samsung-monitor-samsung-samsung-odyssey-g4-g4b-25-25-ls25bg400euxen",
@@ -15420,7 +15654,11 @@ const data = [
             "Reaktionszeit": "1ms",
             "Abmessungen und Gewicht": "55.8 x 55.2 x 24.4 cm • 4.5 kg",
             "High Dynamic Range (HDR)": "Yes"
-        }
+        },
+        "pros": "English\nPros\n• High refresh and fast response for fluid gameplay and low blur\n• Variable refresh rate support to reduce screen tearing with compatible devices\n• Compact 25 inch size fits small desks and makes dual setups easy",
+        "cons": "Cons\n• Full HD resolution may not suit users who want ultra sharp 1440p detail\n• To benefit from the high refresh your PC or console needs to deliver high frame rates",
+        "pros_de": "Deutsch\nVorteile\n• Sehr flüssiges Spielen dank hoher Bildwiederholrate und schneller Reaktionszeit\n• Unterstützung für variable Bildwiederholrate reduziert Tearing mit kompatiblen Geräten\n• Kompakte 25 Zoll Größe passt gut auf kleine Schreibtische und eignet sich für Dual Setups",
+        "cons_de": "Nachteile\n• Full HD Auflösung ist für manche nicht ideal wenn sehr hohe Detailtreue gewünscht ist\n• Um die hohe Bildwiederholrate wirklich zu nutzen braucht der PC oder die Konsole entsprechend viele Bilder pro Sekunde"
     },
     {
         "slug": "samsung-monitor-samsung-samsung-odyssey-g5-g55t-34-34-lc34g55twwpxen",
@@ -15432,7 +15670,11 @@ const data = [
             "Reaktionszeit": "1ms",
             "Abmessungen und Gewicht": "80.6 x 47.5 x 27.2 cm • 5.6 kg",
             "High Dynamic Range (HDR)": "Yes"
-        }
+        },
+        "pros": "Pros\n1. Immersive 34 inch curved ultrawide that makes games cinematic and gives you a roomy workspace for multitasking\n2. Smooth high refresh with adaptive sync for tear free gameplay\n3. VA panel brings strong contrast with HDR support for richer looking scenes",
+        "cons": "Cons\n1. Stand adjustability is limited so a monitor arm may suit those who want more ergonomic setup options\n2. Connectivity is basic HDMI and DisplayPort cover essentials but there are not many extra ports",
+        "pros_de": "Vorteile\n1. Immersives 34 Zoll Curved Ultrawide macht Games cineastisch und bietet viel Platz zum Multitasking\n2. Hohe Bildwiederholrate mit Adaptive Sync für flüssiges Spielen ohne Tearing\n3. VA Panel mit starkem Kontrast und HDR Unterstützung für sattere Bildwirkung",
+        "cons_de": "Nachteile\n1. Der Standfuß bietet nur begrenzte Verstellmöglichkeiten eine Monitorhalterung kann für mehr Ergonomie sinnvoll sein\n2. Die Anschlussvielfalt ist eher grundlegend HDMI und DisplayPort decken das Wichtigste ab"
     },
     {
         "slug": "jbl-bluetooth-speaker-jbl-partybox-110-party-bluetooth-speaker",
@@ -15450,7 +15692,11 @@ const data = [
             "Besondere Merkmale": "Unglaublicher JBL-Sound mit schillernder Lichtshow, Mit dem Teleskopgriff und den eingebauten Leichtlaufrädern kannst Du die Party von der Terrasse in den Park mitnehmen, Verbinde kompatible Lautsprecher kabellos über TWS für richtig lauten Sound, das Bedienfeld der JBL PartyBox 110 hat eine praktische eingebaute Hintergrundbeleuchtung, die sich im Dunkeln aktiviert, zwei Mikrofon- und Gitarreneingänge machen aus jeder Party eine Karaoke-Party.",
             "Widerstandsfähigkeit": "IPX4 spritzwassergeschützt",
             "Intelligente Funktionen": "App-steuerbar"
-        }
+        },
+        "pros": "English\nPros\n• Big room filling sound with punchy bass and crisp highs great for parties or workouts\n• Built in light show and splash resistant IPX4 design for fun indoors and outdoors\n• Flexible inputs and pairing options Bluetooth USB Mic or Guitar plus stereo pairing of two units",
+        "cons": "Cons\n• Some users might find the size and weight less convenient for frequent carrying\n• Battery life up to 12 hours may not suit very long events at maximum volume",
+        "pros_de": "Deutsch\nVorteile\n• Kräftiger Sound mit sattem Bass und klaren Höhen ideal für Partys und Workouts\n• Integrierte Lichtshow und spritzwassergeschütztes Design nach IPX4 für drinnen und draußen\n• Flexible Anschlüsse und Kopplung Bluetooth USB Mikro oder Gitarre sowie Stereo Pairing mit zwei Geräten",
+        "cons_de": "Nachteile\n• Das Gewicht und die Größe sind für häufiges Tragen eventuell weniger praktisch\n• Die Akkulaufzeit bis zu 12 Stunden passt eventuell nicht für sehr lange Events bei hoher Lautstärke"
     },
     {
         "slug": "samsung-odyssey-gaming-monitor-s27bg400eu-27",
@@ -15462,7 +15708,11 @@ const data = [
             "Reaktionszeit": "1ms",
             "Abmessungen und Gewicht": "57.1 x 24.5 x 61.5 cm • 5.3 kg",
             "High Dynamic Range (HDR)": "Yes"
-        }
+        },
+        "pros": "English\nPros\n• 240 Hz refresh rate and 1 ms response for ultra smooth competitive gameplay\n• Adaptive sync with G Sync compatibility and FreeSync Premium reduces tearing across many setups\n• Height adjustable and pivot ready stand makes it easy to fit your desk and play style",
+        "cons": "Cons\n• Full HD resolution on a 27 inch screen may not suit users who want the extra sharpness of 1440p\n• To reach the highest refresh rate you need a compatible graphics card and a DisplayPort connection",
+        "pros_de": "Deutsch\nVorteile\n• 240 Hertz Bildwiederholrate und 1 ms Reaktionszeit für sehr flüssiges Gaming\n• Adaptive Sync mit G Sync Kompatibilität und FreeSync Premium reduziert Tearing auf vielen Systemen\n• Höhenverstellbarer und drehbarer Standfuß passt sich flexibel an deinen Schreibtisch an",
+        "cons_de": "Nachteile\n• Full HD auf 27 Zoll bietet weniger Schärfe als 1440p und passt eventuell nicht für alle Ansprüche\n• Für die maximale Bildwiederholrate wird eine kompatible Grafikkarte und ein DisplayPort Anschluss benötigt"
     },
     {
         "slug": "apple-smartphone-iphone-13-mini-4gb-256gb",
@@ -15479,12 +15729,20 @@ const data = [
             "Rückkamera": "12mp + 12mp",
             "Betriebssystem": "iOS 15",
             "Konnektivität": "5G"
-        }
+        },
+        "pros": "English\nPros\n• Compact flagship that is easy to use with one hand and powered by A15 for smooth performance\n• 256 GB storage gives plenty of room for photos videos and apps during your rental\n• Dual SIM with eSIM is ideal for travel or keeping work and personal numbers separate",
+        "cons": "Cons\n• Smaller display may not suit users who watch a lot of movies or game for long sessions\n• Battery life is fine for daily use but heavy users might prefer a larger model for extra endurance",
+        "pros_de": "Deutsch\nVorteile\n• Kompaktes Premium Smartphone das sich bequem mit einer Hand bedienen lässt und dank A15 Bionic sehr flüssig läuft\n• 256 GB Speicher bietet viel Platz für Fotos Videos und Apps während der Mietdauer\n• Dual SIM mit eSIM ist ideal für Reisen oder um berufliche und private Nummern zu trennen",
+        "cons_de": "Nachteile\n• Das kleinere Display eignet sich eventuell weniger für langes Streaming oder Gaming\n• Die Akkulaufzeit ist alltagstauglich doch Vielnutzer könnten ein größeres Modell wegen der längeren Ausdauer bevorzugen"
     },
     {
         "slug": "sony-lens-sel50f18f-syx-objektiv-50-mm-f-1-8",
         "name": "Sony FE 50mm F1.8",
-        "specifications": null
+        "specifications": null,
+        "pros": "English\nPros\n• Bright F1.8 aperture for smooth background blur and confident low light shots\n• Lightweight and compact prime that is easy to carry for travel portraits and everyday content\n• Great value way to explore the classic 50 mm look on Sony E without long term commitment",
+        "cons": "Cons\n• Autofocus may feel modest for fast action so it suits portraits street and video better than sports\n• Peak sharpness is at mid apertures so you may want to stop down for the crispest results",
+        "pros_de": "Deutsch\nVorteile\n• Lichtstarke F1.8 Blende für weiches Bokeh und zuverlässige Aufnahmen bei wenig Licht\n• Leichtes kompaktes Normalobjektiv ideal für Reisen Porträts und Alltagscontent\n• Preisbewusste Möglichkeit den klassischen 50 mm Look auf Sony E auszuprobieren ohne langfristige Bindung",
+        "cons_de": "Nachteile\n• Der Autofokus wirkt bei schnellen Motiven eher gemächlich daher besser für Porträts Streetfotografie und Video als für Sport\n• Die höchste Schärfe liegt oft bei mittleren Blenden daher für besonders knackige Ergebnisse etwas abblenden"
     },
     {
         "slug": "sony-tv-xr42a90kaep",
@@ -15502,7 +15760,11 @@ const data = [
             "HDR (High Dynamic Range)": "HDR10, Hybrid Log Gamma (HLG), Dolby Vision",
             "Abmessungen mit Standfuß": "933mm / 551mm / 225mm",
             "Abmessungen ohne Standfuß": "933mm / 546mm / 57mm"
-        }
+        },
+        "pros": "English\nPros\n- OLED picture with deep blacks and lifelike contrast for cinema nights and gaming\n- 4K 120 Hz with VRR and low input lag for smooth console play\n- Rent to enjoy a premium TV without a big upfront payment and keep monthly flexibility",
+        "cons": "Cons\n- 42 inch may not suit very large rooms or long viewing distances\n- In very bright rooms OLED can appear less bright than some LED TVs",
+        "pros_de": "Deutsch\nVorteile\n- OLED Bild mit tiefem Schwarz und lebendigem Kontrast für Filmabende und Gaming\n- 4K mit 120 Hertz VRR und geringer Eingabeverzögerung für flüssiges Spielen\n- Mieten statt kaufen spart hohe Anschaffungskosten und bleibt monatlich flexibel",
+        "cons_de": "Nachteile\n- 42 Zoll ist für sehr große Räume oder weite Sitzabstände eventuell zu klein\n- In sehr hellen Räumen wirkt OLED im Vergleich zu manchen LED TVs möglicherweise weniger hell"
     },
     {
         "slug": "denon-dj-sc-live-2-dj-studio-equipment",
@@ -15515,7 +15777,11 @@ const data = [
             "Anzahl der Kanäle": "2-Kanal",
             "Besondere Merkmale": "Die bahnbrechende Integration des SC LIVE 2 in Amazon Music und andere beliebte Streaming-Dienste bietet DJs sofortigen Zugriff auf über 100 Millionen Songs in CD-Qualität aus allen Musikgenres. Mit dem integrierten Wi-Fi und der blitzschnellen Onboard-Songanalyse können Sie jetzt ein komplettes DJ-Set auflegen, ohne Musik zu besitzen oder vorzubereiten. Der SC LIVE 2 vereint die Leistung eines modularen Setups nach Club-Standard in einem kompakten und intuitiven 2-Deck-Standalone-DJ-Controller. Die leistungsstarken, integrierten Lautsprecher bieten die perfekte Soundlösung für Livestreaming, Üben, Content-Erstellung und persönliches Monitoring während Live-Shows. Der dedizierte Lautstärkeregler und der Ein-/Ausschalter bieten volle Kontrolle, um den Anforderungen jedes Gigs gerecht zu werden",
             "Im Lieferumfang enthalten": "Netzgerät, USB-Kabel, Display-Reinigungstuch"
-        }
+        },
+        "pros": "Pros\n• True standalone performance with Engine DJ and a 7 inch touchscreen so no laptop needed\n• WiFi streaming from leading platforms plus SD and USB options for flexible sets anywhere\n• Compact two deck layout with performance pads and onboard speakers great for practice and pop up gigs",
+        "cons": "Cons\n• Two channels only may not suit DJs who want complex multi source mixing\n• Onboard speakers are best for home practice some users might prefer external monitors for parties",
+        "pros_de": "Vorteile\n• Echter Standalone Betrieb mit Engine DJ und 7 Zoll Touchscreen kein Laptop nötig\n• WiFi Streaming von führenden Plattformen sowie SD und USB für flexible Sets überall\n• Kompaktes Zwei Deck Layout mit Performance Pads und integrierten Lautsprechern ideal zum Üben und für spontane Sessions",
+        "cons_de": "Nachteile\n• Nur zwei Kanäle könnte für DJs mit komplexen Setups weniger passend sein\n• Die integrierten Lautsprecher sind vor allem zum Üben geeignet für Feiern sind externe Boxen oft die bessere Wahl"
     },
     {
         "slug": "razer-blade-18-i9-13950hx-32gb-2tb-rtx-4090",
@@ -15530,7 +15796,11 @@ const data = [
             "Arbeitsspeicher": "32GB",
             "Tastatursprache": "Deutsch",
             "Abmessungen und Gewicht": "39.9 x 27.5 x 2.19 cm • 3.2 kg"
-        }
+        },
+        "pros": "English\nPros\n• Desktop level performance from Intel Core i9 13950HX and GeForce RTX 4090 for AAA gaming VR and creative work\n• Large 18 inch display and premium build look modern and pro for gaming or streaming setups\n• 32 GB RAM and 2 TB SSD provide ample space for big game libraries and project files great for short term needs without a long commitment",
+        "cons": "Cons\n• The size and weight may not suit frequent travel or small desks\n• High performance hardware can drain the battery faster during intensive gaming",
+        "pros_de": "Deutsch\nVorteile\n• Leistung auf Desktop Niveau dank Intel Core i9 13950HX und GeForce RTX 4090 für AAA Gaming VR und kreative Workflows\n• Großes 18 Zoll Display und hochwertiges Gehäuse wirken modern und professionell für Gaming oder Streaming Setups\n• 32 GB RAM und 2 TB SSD bieten viel Platz für Spiele und Projekte ideal für zeitlich begrenzte Einsätze ohne langfristige Bindung",
+        "cons_de": "Nachteile\n• Größe und Gewicht eignen sich weniger für häufiges Reisen oder sehr kleine Schreibtische\n• Leistungsstarke Hardware kann den Akku bei intensivem Gaming schneller leeren"
     },
     {
         "slug": "garmin-fenix-7-pro-solar-stainless-steel-and-silicone-band-47mm",
@@ -15547,7 +15817,11 @@ const data = [
             "WIDERSTANDSFÄHIGKEIT": "Bis zu 10 ATM",
             "AKTIVITÄTSAUFZEICHNUNG": "80+ Sport-/Outdoor-Apps (Laufen, Mountainbiking, Mannschaftssportarten), Aktivität vs. Inaktivität, Höhenunterschiede, Blutsauerstoff, Herzfrequenz, Atemmuster, Trittfrequenz, Kalorienverbrauch, Radfahrgeschwindigkeit, geschwommene Strecke, zurückgelegte Strecke, Dauer der Übung, Herzfrequenz, geschwommene Runden, Tempo, Geschwindigkeit, erklommene Treppen, zurückgelegte Schritte",
             "GLOBALE POSITIONSBESTIMMUNG": "Galileo, GLONASS, GPS"
-        }
+        },
+        "pros": "Pros\n• Solar charging extends battery life between charges ideal for travel and long training days\n• Tough stainless steel build with 10 ATM water resistance and an LED flashlight for low light safety\n• Multisport GPS and advanced training metrics with preloaded maps lets you try a premium outdoor watch without the commitment of buying",
+        "cons": "Cons\n• The 47 mm case may feel large on smaller wrists\n• The transflective display prioritizes outdoor visibility over the vivid colors of AMOLED screens",
+        "pros_de": "Vorteile\n• Solarladung für deutlich längere Laufzeit zwischen Ladevorgängen ideal für Reisen und lange Trainings\n• Robustes Edelstahl Gehäuse mit 10 ATM Wasserdichtigkeit und integrierter LED Taschenlampe für mehr Sicherheit bei wenig Licht\n• Multisport GPS und fortgeschrittene Trainingsfunktionen mit vorinstallierten Karten perfekt zum Ausprobieren eines Premium Outdoor Modells ohne Kaufbindung",
+        "cons_de": "Nachteile\n• Das 47 mm Gehäuse kann an sehr schmalen Handgelenken groß wirken\n• Das transflektive Display setzt auf beste Ablesbarkeit im Freien statt auf sehr satte Farben wie bei AMOLED"
     },
     {
         "slug": "samsung-monitor-samsung-samsung-27-odyssey-g6-qhd-monitor-27-ls27bg650euxen",
@@ -15559,7 +15833,11 @@ const data = [
             "Reaktionszeit": "1ms",
             "Abmessungen und Gewicht": "21.4 x 68.8 x 46.1 cm • 8.8 kg",
             "High Dynamic Range (HDR)": "Yes"
-        }
+        },
+        "pros": "Pros\n• QHD resolution on 27 inches delivers crisp detail and extra workspace\n• Very fast 240 Hz refresh with a low response time for smooth competitive play\n• Modern gaming spec you can try through rental before deciding to buy",
+        "cons": "Cons\n• To fully benefit from 240 Hz at QHD you often need a strong graphics card\n• May not suit users who prefer a larger or ultrawide display for productivity",
+        "pros_de": "Vorteile\n• QHD Auflösung auf 27 Zoll sorgt für klare Details und mehr Platz\n• Sehr schnelle 240 Hz Bildwiederholrate mit kurzer Reaktionszeit für flüssiges Gaming\n• Moderne Gaming Ausstattung die sich per Miete risikolos ausprobieren lässt",
+        "cons_de": "Nachteile\n• Um 240 Hz bei QHD auszureizen wird oft eine leistungsstarke Grafikkarte benötigt\n• Könnte weniger passend sein wenn du für Produktivität eine größere oder ultrabreite Anzeige bevorzugst"
     },
     {
         "slug": "samsung-tablet-galaxy-tab-a9-wifi-4gb-64gb",
@@ -15581,7 +15859,11 @@ const data = [
             "Mobile network connection": "No",
             "Rear camera resolution (numeric)": "8 MP",
             "Front camera resolution (numeric)": "5 MP"
-        }
+        },
+        "pros": "English\nPros\n• Large display that feels great for streaming reading and light work on the go\n• Reliable everyday performance for browsing video calls and study or side projects\n• Storage you can expand with a microSD card for extra flexibility",
+        "cons": "Cons\n• 4 GB RAM and 64 GB storage may not suit heavy multitasking or big creative workloads\n• Stylus or keyboard are not included",
+        "pros_de": "Deutsch\nVorteile\n• Großes Display ideal zum Streamen Lesen und für leichte Arbeit unterwegs\n• Zuverlässige Alltagsleistung für Surfen Videoanrufe sowie Schule oder Nebenprojekte\n• Speicher per microSD Karte erweiterbar für mehr Flexibilität",
+        "cons_de": "Nachteile\n• 4 GB RAM und 64 GB Speicher sind für intensives Multitasking oder große Kreativprojekte eventuell nicht ideal\n• Stift oder Tastatur sind nicht enthalten"
     },
     {
         "slug": "sonos-one-sl",
@@ -15590,7 +15872,11 @@ const data = [
             "Produkttyp": "Tragbare Lautsprecher",
             "Anschlüsse": "Kabellos, Kabelverbindung",
             "Abmessungen und Gewicht": "11.9 cm x 11.9 cm x 16.1 cm, 1.85 kg"
-        }
+        },
+        "pros": "Pros\n• Rich room filling sound in a compact footprint\n• Flexible for renters move it easily between rooms or pair with another Sonos for stereo or multiroom\n• Mic free design for more privacy while still allowing easy control via the Sonos app and Apple AirPlay 2",
+        "cons": "Cons\n• No built in voice assistant may not suit hands free fans\n• WiFi only playback not Bluetooth so best for home use with a stable network",
+        "pros_de": "Vorteile\n• Satter Klang bei kompakter Größe\n• Flexibel für Mieter lässt sich leicht zwischen Räumen umstellen oder mit einem zweiten Sonos zu Stereo oder Multiroom erweitern\n• Mikrofonfrei für mehr Privatsphäre Steuerung per App und Apple AirPlay 2",
+        "cons_de": "Nachteile\n• Kein integrierter Sprachassistent könnte für Fans von Sprachsteuerung weniger passend sein\n• Spielt über WLAN nicht über Bluetooth daher am besten mit stabilem Heimnetz"
     },
     {
         "slug": "samsung-smartphone-galaxy-z-flip-5-5g-12gb-512gb",
@@ -15605,7 +15891,11 @@ const data = [
             "Rückkamera": "12MP + 12MP",
             "Betriebssystem": "Android 13",
             "Konnektivität": "5G"
-        }
+        },
+        "pros": "Pros\n1. Stylish foldable design with a larger cover screen for quick replies and widgets without opening the phone\n2. 512 GB storage plus 5G and Dual SIM for fast data and flexible use for work and travel\n3. Great rental pick if you want current foldable tech with a premium feel and monthly flexibility",
+        "cons": "Cons\n1. Battery life may not suit very heavy users who stream or game for many hours\n2. Some users might find the inner crease visible and the tall narrow display shape not ideal",
+        "pros_de": "Vorteile\n1. Stylishes Falthandy mit großem Außendisplay für schnelle Antworten und Widgets ohne aufzuklappen\n2. 512 GB Speicher sowie 5G und Dual SIM für schnelles Netz und flexible Nutzung auf Reisen oder für Arbeit und Privat\n3. Ideal zum Mieten wenn du ein aktuelles Foldable mit Premium Gefühl testen willst und monatliche Flexibilität schätzt",
+        "cons_de": "Nachteile\n1. Die Akkulaufzeit passt eventuell nicht für sehr intensive Nutzung mit vielen Stunden Streaming oder Gaming\n2. Manche Nutzer empfinden die innere Knickstelle als sichtbar und das hohe schlanke Display Format als weniger passend"
     },
     {
         "slug": "samsung-smartwatch-samsung-samsung-galaxy-watch6-aluminium-case-and-sport-band-40mm",
@@ -15622,7 +15912,11 @@ const data = [
             "Wasser-/Staubdicht": "5ATM / IP68 / MIL-STD-810H",
             "Lebensdauer der Batterie": "Bis zu 40 Stunden",
             "Globale Positionsbestimmung": "Galileo, GLONASS, GPS"
-        }
+        },
+        "pros": "Pros\n- Bright AMOLED display with slim bezels in a compact 40 mm size that looks modern and fits most wrists\n- Advanced health and fitness tracking like heart rate, sleep insights and automatic workout detection\n- Lightweight aluminium case with sapphire crystal and fast charging, great for daily use and easy to upgrade later when renting",
+        "cons": "Cons\n- Battery life around one to two days may not suit longer trips without charging\n- Not compatible with iPhone, full experience is with an Android phone",
+        "pros_de": "Vorteile\n- Helles AMOLED Display mit schmalem Rand im kompakten 40 mm Format, modern und angenehm am Handgelenk\n- Umfangreiche Gesundheits und Fitness Funktionen wie Herzfrequenz, Schlafanalyse und automatische Trainingserkennung\n- Leichtes Aluminium Gehäuse mit Saphirglas und schneller Aufladung, ideal für den Alltag und durch Miete flexibel wechselbar",
+        "cons_de": "Nachteile\n- Akkulaufzeit von etwa ein bis zwei Tagen passt eventuell nicht für längere Reisen ohne Laden\n- Nicht mit iPhone kompatibel, der volle Funktionsumfang ist mit einem Android Smartphone verfügbar"
     },
     {
         "slug": "elgato-facecam-mk-2",
@@ -15641,7 +15935,11 @@ const data = [
             "Befestigungspunkt": "1/4-Zoll-Gewinde",
             "Zum Lieferumfang gehören": "Facecam MK.2, Monitorhalterung mit 1/4\"-Gewinde, USB-A auf USB-C 3.0 Kabel (200 cm)",
             "Unterstützte Auflösungen": "(UNKOMPRIMIERT*): 1080p60, 1080p30, 720p120, 720p60, 720p30, 540p120, 540p60, 540p30"
-        }
+        },
+        "pros": "English\nPros\n- Crisp Full HD at up to 60 fps for smooth streams and professional looking calls\n- Save your tuned settings on the camera so switching between devices stays consistent\n- Simple USB setup with versatile monitor or tripod mounting",
+        "cons": "Cons\n- Fixed focus may not suit very close product demos or wide room shots\n- No built in microphone so you will need a headset or external mic",
+        "pros_de": "Deutsch\nVorteile\n- Klare Full HD Qualität mit bis zu 60 fps für flüssige Streams und professionelle Calls\n- Feinjustierte Einstellungen lassen sich direkt auf der Kamera speichern ideal beim Gerätewechsel\n- Einfache USB Einrichtung und flexible Montage am Monitor oder Stativ",
+        "cons_de": "Nachteile\n- Fester Fokus eignet sich eventuell weniger für sehr nahe Aufnahmen oder weite Räume\n- Kein integriertes Mikrofon daher am besten mit Headset oder externem Mikro nutzen"
     },
     {
         "slug": "samsung-tablet-galaxy-tab-s9-wifi-256gb-12gb",
@@ -15657,7 +15955,11 @@ const data = [
             "Rückkamera": "13MP",
             "Betriebssystem": "Android",
             "Konnektivität": "WIFI"
-        }
+        },
+        "pros": "English\nPros\n• Smooth performance for multitasking and creative apps, ideal for study work and streaming\n• Vivid AMOLED display with fast refresh for sharp visuals and fluid scrolling\n• 256 GB storage gives plenty of room for apps videos and projects, great for short or flexible rentals",
+        "cons": "Cons\n• Wi Fi only, may not suit users who need on the go data without tethering\n• Works best with accessories like a keyboard or stylus, which some users may prefer to rent separately",
+        "pros_de": "Deutsch\nVorteile\n• Flüssige Leistung für Multitasking und kreative Apps, ideal für Studium Arbeit und Streaming\n• Leuchtstarkes AMOLED Display mit schneller Bildwiederholrate für scharfe Inhalte und flüssiges Scrollen\n• 256 GB Speicher bieten viel Platz für Apps Videos und Projekte und passen gut zu flexiblen Mietzeiträumen",
+        "cons_de": "Nachteile\n• Nur WLAN, eignet sich eventuell weniger für alle die unterwegs ohne Tethering mobiles Internet brauchen\n• Funktioniert am besten mit Zubehör wie Tastatur oder Stift, das manche Nutzerinnen und Nutzer eventuell separat mieten möchten"
     },
     {
         "slug": "garmin-fenix-7-solar-stainless-steel-case-silicone-band-47mm",
@@ -15676,7 +15978,11 @@ const data = [
             "Widerstandsfähigkeit": "Bis zu 10 ATM + staubgeschützt",
             "Aktivitätsaufzeichnung": "Aktivität vs. Inaktivität, Höhenänderungen Inaktivität, Höhenänderungen, Blutsauerstoff, Atemmuster, Trittfrequenz, Kalorienverbrauch, Radfahrgeschwindigkeit, geschwommene Strecke, zurückgelegte Strecke, Dauer der Übung, Herzfrequenz, geschlafene Stunden, geschwommene Runden, Tempo, Geschwindigkeit, erklommene Treppen, Schritte",
             "Globale Positionsbestimmung": "GPS, NFC, GLONASS"
-        }
+        },
+        "pros": "EN\nPros\n• Solar charging extends battery life on long adventures great when daily charging is not an option\n• Rugged stainless steel 47 mm build with touch and buttons plus precise multi band GPS and reliable mapping and navigation\n• Ideal to rent for training blocks or travel enjoy premium fitness tracking music storage and Garmin Pay without the full purchase commitment",
+        "cons": "Cons\n• The 47 mm case may feel large or a bit heavy for smaller wrists\n• Solar benefits depend on strong sunlight so indoor or winter use may see less impact",
+        "pros_de": "DE\nVorteile\n• Solarladung verlängert die Akkulaufzeit auf Touren ideal wenn tägliches Laden nicht möglich ist\n• Robustes Edelstahlgehäuse in 47 mm mit Touch und Tasten dazu präzises Multi Band GPS sowie verlässliche Karten und Navigation\n• Perfekt zur Miete für Trainingsphasen oder Reisen Premium Tracking Musikspeicher und Garmin Pay ohne Kaufbindung",
+        "cons_de": "Nachteile\n• Das 47 mm Gehäuse kann sich an schmalen Handgelenken groß oder etwas schwer anfühlen\n• Der Solareffekt hängt vom Sonnenlicht ab daher in Innenräumen oder im Winter möglicherweise weniger spürbar"
     },
     {
         "slug": "samsung-tablet-galaxy-tab-s8-wifi-128gb",
@@ -15692,7 +15998,11 @@ const data = [
             "Rückkamera": "13MP + 6MP Ultrawide",
             "Betriebssystem": "Android 12",
             "Konnektivität": "WiFi"
-        }
+        },
+        "pros": "Pros\n• Fast performance keeps apps games and video calls smooth\n• 11 inch 120 Hz display looks crisp and feels responsive for work study and streaming\n• Flexible setup with S Pen support DeX mode and strong battery life makes it easy to use anywhere",
+        "cons": "Cons\n• WiFi only model may not suit those who need mobile data on the go\n• 128 GB storage can fill up with lots of videos and large games cloud storage helps",
+        "pros_de": "Vorteile\n• Starke Performance für flüssiges Multitasking Gaming und Videoanrufe\n• 11 Zoll Display mit 120 Hz wirkt scharf und reaktionsschnell für Arbeit Studium und Streaming\n• Flexibel im Alltag dank S Pen Unterstützung DeX und ausdauerndem Akku",
+        "cons_de": "Nachteile\n• Nur WLAN passt eventuell nicht für alle die unterwegs mobiles Netz brauchen\n• 128 GB Speicher kann sich bei vielen Videos und großen Spielen rasch füllen Cloud Speicher hilft"
     },
     {
         "slug": "samsung-monitor-samsung-business-monitor-s6u-27-ls27a600uuuxen",
@@ -15704,7 +16014,11 @@ const data = [
             "Reaktionszeit": "5ms",
             "Abmessungen und Gewicht": "61.55 x 19.64 x 55.2 cm • 6.7 kg",
             "High Dynamic Range (HDR)": "Yes"
-        }
+        },
+        "pros": "Pros\n• 27 inch QHD 2560 x 1440 delivers crisp text and roomy workspace for smooth multitasking\n• USB C with charging enables a one cable laptop setup for power and display\n• Ergonomic stand with height tilt swivel and pivot plus slim bezels for a clean modern desk",
+        "cons": "Cons\n• 75 Hz refresh may not suit fast paced esports or very high frame rate gaming\n• Solid everyday color but some creators might prefer a wider gamut display",
+        "pros_de": "Vorteile\n• 27 Zoll QHD 2560 x 1440 sorgt für scharfe Darstellung und viel Platz für entspanntes Multitasking\n• USB C mit Ladefunktion ermöglicht ein Ein Kabel Setup am Laptop für Strom und Bild\n• Ergonomischer Standfuß mit Höhe Neigung Drehung und Pivot sowie schmale Ränder für einen aufgeräumten modernen Arbeitsplatz",
+        "cons_de": "Nachteile\n• 75 Hz ist für sehr schnelle Spiele eventuell nicht ideal\n• Für farbkritische Projekte bevorzugen manche Nutzer vielleicht einen Monitor mit größerem Farbraum"
     },
     {
         "slug": "hp-convertible-hp-envy-x360-15-eu0356ng-touch-15-6-fhd-amd-ryzen-5-5500u-8gb-1tb-ssd-amd-radeon-graphics",
@@ -15719,7 +16033,11 @@ const data = [
             "Arbeitsspeicher": "8GB",
             "Tastatursprache": "Deutsch",
             "Abmessungen und Gewicht": "35.9 x 22.82 x 1.84 cm • 1.86 kg"
-        }
+        },
+        "pros": "Pros\n- Flexible 2 in 1 design with 360 degree hinge for typing sketching and streaming in one device\n- Smooth everyday performance with AMD Ryzen 5 and a fast 1 TB SSD for multitasking and quick launches\n- Great pick to rent if you want modern looks and the freedom to upgrade later if your needs grow",
+        "cons": "Cons\n- 8 GB memory may not suit heavy video editing or very large projects\n- Integrated Radeon graphics are fine for casual gaming but not ideal for demanding AAA titles or advanced 3D work",
+        "pros_de": "Vorteile\n- Flexibles 2 in 1 Design mit 360 Grad Scharnier zum Tippen Zeichnen und Streamen in einem Gerät\n- Flüssige Alltagsleistung mit AMD Ryzen 5 und schneller 1 TB SSD für Multitasking und schnelle Starts\n- Ideal zum Mieten wenn du ein modernes Gerät willst und später bei Bedarf einfach aufrüstest",
+        "cons_de": "Nachteile\n- 8 GB Arbeitsspeicher eignet sich eventuell nicht für intensiven Videoschnitt oder sehr große Projekte\n- Integrierte Radeon Grafik reicht für Gelegenheitsspiele ist aber für anspruchsvolle AAA Titel oder fortgeschrittene 3D Arbeit weniger geeignet"
     },
     {
         "slug": "yamaha-dtx432k-e-drum-set",
@@ -15731,7 +16049,11 @@ const data = [
             "Connectivity": "App-steuerbar",
             "Key Features": "DTX402 Drum Module, 287 Sounds , 10 Benutzer-Kits, Metronom, 10 Coaching-Programme ",
             "Operating Mode": "Plug-In"
-        }
+        },
+        "pros": "Pros\n• Quiet practice with responsive pads and a compact footprint that fits small spaces\n• Built in training modes and app support to track progress and keep you motivated\n• Easy computer and phone connectivity for recording and virtual instruments adds flexibility for home studio and lessons",
+        "cons": "Cons\n• May not suit advanced drummers who want larger pads and a broader sound library\n• The compact layout feels less like an acoustic kit for some users",
+        "pros_de": "Vorteile\n• Leises Üben mit ansprechenden Pads und kompakter Stellfläche passt gut in kleine Räume\n• Trainingsmodi und App Unterstützung helfen dir Fortschritte zu messen und motiviert zu bleiben\n• Einfache Verbindung mit Computer und Smartphone für Recording und virtuelle Instrumente sorgt für flexible Nutzung zu Hause und im Unterricht",
+        "cons_de": "Nachteile\n• Für sehr fortgeschrittene Drummer mit Wunsch nach größeren Pads und mehr Klangvielfalt eventuell nicht die beste Wahl\n• Das kompakte Layout fühlt sich für manche weniger wie ein akustisches Schlagzeug an"
     },
     {
         "slug": "sony-gm-lens-e-mount-16-35mm-f2-8",
@@ -15746,7 +16068,11 @@ const data = [
             "Bildstabilisator": "Ja",
             "Anwendungsbereich": "Landschaft, Architektur und Innenaufnahme, Low-light",
             "Bajonettanschluss": "Sony E-Mount"
-        }
+        },
+        "pros": "English\nPros\n- Versatile 16 to 35 mm zoom from ultra wide to wide great for travel interiors landscapes and video\n- Bright constant f 2.8 for low light and subject separation with fast quiet autofocus\n- Premium G Master look sharp across the frame and works with 82 mm filters",
+        "cons": "Cons\n- No optical stabilization which may matter if your camera lacks in body stabilization\n- Some users might find it a bit heavy for long handheld shoots or very compact setups",
+        "pros_de": "Deutsch\nVorteile\n- Vielseitiger 16 bis 35 mm Zoom von Ultraweitwinkel bis Weitwinkel ideal für Reisen Innenräume Landschaft und Video\n- Durchgehende Lichtstärke f 2.8 für wenig Licht und schönes Freistellen plus schneller leiser Autofokus\n- G Master Look sehr scharf über das gesamte Bildfeld kompatibel mit 82 mm Filtern",
+        "cons_de": "Nachteile\n- Keine optische Stabilisierung wichtig wenn deine Kamera keine Stabilisierung im Gehäuse hat\n- Könnte für lange Aufnahmen aus der Hand oder sehr kompakte Setups etwas schwer wirken"
     },
     {
         "slug": "samsung-tv-samsung-gu43du7179uxzg",
@@ -15774,7 +16100,11 @@ const data = [
             "High Dynamic Range (HDR)-Technologie": "Filmmaker-Modus, Hoher Dynamikbereich 10+ (HDR10 Plus), Hybrid Log-Gamma (HLG)",
             "Schnittstelle für Schalttafeleinbau": "200 x 200 mm",
             "Technologie zur Bewegungsinterpolation": "Motion Xcelerator"
-        }
+        },
+        "pros": "English\nPros\n- Sharp 4K picture with vibrant color for movies sports and casual gaming\n- Smart TV with built in streaming apps so you can start watching right away\n- Slim 43 inch design fits small spaces and is easy to set up or move in a rental",
+        "cons": "Cons\n- 43 inch size may not suit large rooms or viewers who sit far from the screen\n- Built in speakers are fine for everyday use but movie fans might prefer a soundbar",
+        "pros_de": "Deutsch\nVorteile\n- Scharfes 4K Bild mit lebendigen Farben für Filme Sport und entspanntes Gaming\n- Smart TV mit integrierten Streaming Apps für einen schnellen Start\n- Schlankes 43 Zoll Design passt gut in kleine Räume und ist im Mietalltag leicht aufzustellen oder umzuziehen",
+        "cons_de": "Nachteile\n- Die Größe von 43 Zoll eignet sich eventuell weniger für sehr große Räume oder große Sitzabstände\n- Die eingebauten Lautsprecher sind für den Alltag in Ordnung aber Filmfans möchten eventuell eine Soundbar nutzen"
     },
     {
         "slug": "acer-h-6521-abd",
@@ -15789,7 +16119,11 @@ const data = [
             "Projektionsabstand": "1 - 9,5 m",
             "Projektionsgröße": "0,73 - 7,62 m",
             "Bildschirmauflösung": "1920 x 1200 Pixel"
-        }
+        },
+        "pros": "Pros\n• Full HD plus picture for sharp movies sports and gaming\n• Big screen experience at home with flexible placement that suits living rooms bedrooms or shared spaces\n• Multiple connection options like HDMI for quick plug and play with laptops consoles and streaming sticks",
+        "cons": "Cons\n• For the best contrast you may want to dim the lights some users might prefer blackout conditions for a cinema feel\n• Some users might notice fan noise in very quiet scenes which may not suit ultra quiet setups",
+        "pros_de": "Vorteile\n• Full HD plus Bild für scharfe Filme Sport und Gaming\n• Großes Kino Gefühl zu Hause mit flexibler Aufstellung für Wohnzimmer Schlafzimmer oder WG Räume\n• Mehrere Anschlussmöglichkeiten wie HDMI für schnelle Verbindung mit Laptops Konsolen und Streaming Sticks",
+        "cons_de": "Nachteile\n• Für bestmöglichen Kontrast solltest du den Raum abdunkeln manche Nutzer bevorzugen dafür fast völlige Dunkelheit\n• In sehr ruhigen Szenen kann das Lüftergeräusch hörbar sein und passt daher nicht für extrem leise Umgebungen"
     },
     {
         "slug": "samsung-monitor-samsung-samsung-smart-monitor-m7-m70b-32-32-ls32bm700upxen",
@@ -15801,7 +16135,11 @@ const data = [
             "Reaktionszeit": "4ms",
             "Abmessungen und Gewicht": "71.6 x 51.7 x 19.3 cm • 6.6 kg",
             "High Dynamic Range (HDR)": "Yes"
-        }
+        },
+        "pros": "English\nPros\n• 32 inch 4K display gives a roomy workspace for multitasking and sharp streaming\n• Built in smart apps and remote let you watch or work without a PC, great for small spaces\n• USB C with power delivery can charge compatible laptops while sending video and data with one cable",
+        "cons": "Cons\n• 60 Hz refresh rate may not suit competitive gaming\n• Stand adjustment is limited, some users might prefer a monitor arm for height and positioning",
+        "pros_de": "Deutsch\nVorteile\n• 32 Zoll 4K Auflösung bietet viel Platz für Multitasking und gestochen scharfes Streaming\n• Integrierte Smart Apps und Fernbedienung erlauben Nutzung ohne PC, ideal für kleine Räume\n• USB C mit Stromversorgung kann kompatible Laptops laden und gleichzeitig Bild sowie Daten über ein Kabel übertragen",
+        "cons_de": "Nachteile\n• Die Bildwiederholrate von 60 Hz ist für sehr ambitioniertes Gaming eventuell nicht ideal\n• Die Verstellmöglichkeiten des Standfußes sind begrenzt, manche Nutzer greifen lieber zu einer Monitorhalterung"
     },
     {
         "slug": "samsung-smartphone-s22-ultra-12gb-256gb",
@@ -15817,7 +16155,11 @@ const data = [
             "Rückkamera": "108MP+10MP+10MP+12MP",
             "Betriebssystem": "Android 12, One UI 4",
             "Konnektivität": "5G"
-        }
+        },
+        "pros": "English\nPros\n• Flagship performance and modern design plus 256 GB storage for smooth gaming streaming and multitasking\n• Pro level camera with strong low light results and S Pen for precise editing and note taking\n• Dual SIM flexibility ideal for travel or separating work and personal life",
+        "cons": "Cons\n• Large size and weight may not suit users who prefer a compact phone\n• Feature rich interface and S Pen tools can take time to learn if you want something very simple",
+        "pros_de": "Deutsch\nVorteile\n• Flaggschiff Leistung und modernes Design dazu 256 GB Speicher für flüssiges Gaming Streaming und Multitasking\n• Pro Kamera mit starken Nachtfunktionen und S Pen für präzises Bearbeiten und Notizen\n• Dual SIM sorgt für Flexibilität ideal auf Reisen oder zur Trennung von Arbeit und Privat",
+        "cons_de": "Nachteile\n• Das große Format und das Gewicht passen eventuell nicht zu allen die ein kompaktes Handy bevorzugen\n• Die vielen Funktionen und S Pen Features erfordern etwas Eingewöhnung wenn du es gerne sehr schlicht magst"
     },
     {
         "slug": "acer-predator-gd711",
@@ -15832,7 +16174,11 @@ const data = [
             "Projektionsgröße": "0,69 - 7,62 m",
             "Bildschirmauflösung": "3840 x 2160 Pixel",
             "Bildseitenverhältnis": "16:9"
-        }
+        },
+        "pros": "Pros\n• 4K UHD visuals for a cinematic experience in games, movies and sports\n• Smooth gaming feel with fast refresh options and low input lag\n• Long lasting LED light source means low upkeep during your rental",
+        "cons": "Cons\n• May not suit very bright rooms without dimming the lights\n• Built in speaker is fine for casual use but movie and gaming fans might prefer external audio",
+        "pros_de": "Vorteile\n• 4K UHD Bild für Kino Feeling beim Zocken Streamen und Sport\n• Flüssiges Gameplay dank schneller Bildraten und geringer Eingabeverzögerung\n• Langlebige LED Lichtquelle mit wenig Aufwand während der Miete",
+        "cons_de": "Nachteile\n• In sehr hellen Räumen weniger geeignet ohne Abdunkeln\n• Der integrierte Lautsprecher ist okay für satten Klang empfiehlt sich eine externe Audio Lösung"
     },
     {
         "slug": "hp-omen-25l-gt15-2006ng-i7-14700f-16gb-1tb-rtx-4070-ti",
@@ -15846,7 +16192,11 @@ const data = [
             "Dimensions": "16.5 x 39.6 x 44.8 cm • 13.8 kg",
             "Operating System": "Windows® 11 Home",
             "Keyboard Language": ""
-        }
+        },
+        "pros": "Pros\n1. RTX 4070 Ti plus Intel Core i7 14700F deliver smooth play in QHD and beyond and handle streaming and creative apps with ease\n2. 1TB SSD keeps boots and loads fast with room for a sizable game library\n3. Great for renting if you want high end gaming now and the freedom to switch later",
+        "cons": "Cons\n1. 16GB RAM may not suit heavy creators or serious multitaskers who would prefer 32GB\n2. 1TB storage can fill up with large AAA titles so some users might want extra external or cloud storage",
+        "pros_de": "Vorteile\n1. RTX 4070 Ti und Intel Core i7 14700F sorgen für flüssiges QHD Gaming und stemmen Streaming sowie kreative Apps\n2. 1TB SSD für schnelle Starts und kurze Ladezeiten mit Platz für viele Spiele\n3. Ideal zur Miete wenn du starke Gaming Leistung jetzt willst und später flexibel wechseln möchtest",
+        "cons_de": "Nachteile\n1. 16GB RAM könnte für sehr anspruchsvolle Creator oder starkes Multitasking nicht ausreichen 32GB wären entspannter\n2. 1TB Speicher kann sich mit großen Titeln schnell füllen manche Nutzer möchten zusätzlichen externen oder Cloud Speicher"
     },
     {
         "slug": "samsung-monitor-samsung-odyssey-g9-c49g94tssr-49-lc49g94tssrxzg",
@@ -15858,7 +16208,11 @@ const data = [
             "Reaktionszeit": "1ms",
             "Abmessungen und Gewicht": "114.76 x 41.64 x 53.72 cm • 16.7 kg",
             "High Dynamic Range (HDR)": "Yes"
-        }
+        },
+        "pros": "Pros\n• Immersive 49 inch curved ultrawide with Dual QHD 5120 x 1440 can replace a two monitor setup for gaming work and streaming\n• 240 Hz refresh and 1 ms response with FreeSync Premium Pro and G Sync compatible for super smooth play\n• HDR 1000 and QLED panel deliver vivid colors and strong contrast for a premium look",
+        "cons": "Cons\n• The large size needs plenty of desk space and thoughtful cable management\n• To fully benefit from the resolution and 240 Hz a powerful graphics card is recommended",
+        "pros_de": "Vorteile\n• Immersiver 49 Zoll gebogener Ultrawide Bildschirm mit Dual QHD 5120 x 1440 kann zwei Monitore ersetzen für Gaming Arbeit und Streaming\n• 240 Hz und 1 ms mit FreeSync Premium Pro und G Sync kompatibel für sehr flüssiges Spielen\n• HDR 1000 und QLED sorgen für kräftige Farben und starken Kontrast",
+        "cons_de": "Nachteile\n• Durch die Größe wird viel Schreibtischfläche und gutes Kabelmanagement benötigt\n• Um Auflösung und 240 Hz voll auszunutzen ist eine leistungsstarke Grafikkarte sinnvoll"
     },
     {
         "slug": "apple-smartphone-apple-iphone-12-pro-128gb-2020",
@@ -15875,7 +16229,11 @@ const data = [
             "Rückkamera": "12mp + 12mp + 12mp",
             "Betriebssystem": "iOS14",
             "Konnektivität": "5G"
-        }
+        },
+        "pros": "Pros\n• Fast A14 Bionic and 5G for smooth apps gaming and streaming\n• Pro camera system with Night mode and Dolby Vision video for stand out photos and clips\n• Flexible for renters with easy upgrade options and Dual SIM for travel or separate work and personal lines",
+        "cons": "Cons\n• 60 hertz display may not suit users who want extra smooth scrolling\n• Battery life is good but power users might prefer a newer model for longer endurance",
+        "pros_de": "Vorteile\n• Sehr schnell dank A14 Bionic und 5G für flüssige Apps Gaming und Streaming\n• Pro Kamera mit Nachtmodus und Dolby Vision Video für starke Fotos und Clips\n• Flexibel zur Miete mit einfacher Option zum Upgrade und Dual SIM für Reisen oder getrennte berufliche und private Nummern",
+        "cons_de": "Nachteile\n• Display mit 60 Hertz könnte Nutzer die besonders sanftes Scrollen wünschen weniger überzeugen\n• Akkulaufzeit ist gut, sehr intensive Nutzer bevorzugen eventuell ein neueres Modell mit mehr Ausdauer"
     },
     {
         "slug": "irobot-vacuum-cleaner-irobot-roomba-i8178",
@@ -15890,7 +16248,11 @@ const data = [
             "Betriebsdauer": "75min",
             "Reinigungsmodi": "4 Stufen, Schmutzsensor",
             "Fassungsvermögen": "0.57l (0.21l nass, 0.36l trocken)"
-        }
+        },
+        "pros": "English\nPros\n• Vacuum and mop in one keeps small spaces fresh with less effort\n• Smart mapping plus strong pick up with rubber brushes handles pet hair and mixed floors\n• Easy setup and scheduling suits flexible living and busy routines",
+        "cons": "Cons\n• Mopping is for light upkeep and may not suit tough dried stains\n• Requires Wi Fi and some space for the dock",
+        "pros_de": "Deutsch\nVorteile\n• Saugen und Wischen in einem spart Zeit und hält kleine Wohnungen mühelos sauber\n• Intelligente Kartierung und starke Aufnahme mit Gummibürsten bewältigen Tierhaare und unterschiedliche Bodenarten\n• Einfache Einrichtung und flexible Zeitpläne passen gut zu einem mobilen Lebensstil",
+        "cons_de": "Nachteile\n• Die Wischfunktion eignet sich vor allem für leichte Pflege und weniger für stark eingetrocknete Flecken\n• Benötigt WLAN sowie etwas Platz für die Ladestation"
     },
     {
         "slug": "jbl-charge-5-portable-bluetooth-speaker",
@@ -15908,7 +16270,11 @@ const data = [
             "Operating mode": "Battery-powered",
             "Special features": "Equipped with two pumping JBL bass radiators, a separate tweeter and a long-throw driver, thus ensuring enormous sound quality. Thanks to the powerful battery, there are no limits to the enjoyment of music and the location does not matter at all; Whether by the pool, in the garden or on the beach - you can enjoy music both inside and outside.",
             "Intelligent functions": ""
-        }
+        },
+        "pros": "English\nPros\n• Strong JBL sound with punchy bass in a portable body, great for parties and outdoor hangs\n• Up to 20 hours of playtime and a power bank feature to keep your phone charged on the go\n• IP67 water and dust resistance plus PartyBoost pairing for flexible setups with other JBL speakers",
+        "cons": "Cons\n• Bigger and heavier than mini speakers, may not suit ultralight travel\n• No built in microphone or aux input, so it focuses on wireless music only",
+        "pros_de": "Deutsch\nVorteile\n• Kräftiger JBL Sound mit deutlichem Bass im tragbaren Format, ideal für draußen und kleine Partys\n• Bis zu 20 Stunden Laufzeit und Powerbank Funktion zum Laden des Smartphones unterwegs\n• IP67 Schutz vor Wasser und Staub und PartyBoost Kopplung für flexible Setups mit weiteren JBL Lautsprechern",
+        "cons_de": "Nachteile\n• Etwas größer und schwerer als Mini Lautsprecher, weniger geeignet für sehr leichtes Gepäck\n• Kein eingebautes Mikrofon und kein Klinkenanschluss, daher Fokus auf kabellose Musik"
     },
     {
         "slug": "samsung-smartphone-s22-ultra-enterprise-edition-8gb-128gb",
@@ -15924,7 +16290,11 @@ const data = [
             "Rückkamera": "108MP+10MP+10MP+12MP",
             "Betriebssystem": "Android 12, One UI 4",
             "Konnektivität": "5G"
-        }
+        },
+        "pros": "English\nPros\n• Flagship level performance with S Pen for smooth multitasking and note taking\n• Versatile camera and bright 120 Hz display great for social content and streaming\n• Dual SIM and Enterprise features for flexibility plus added security while you rent",
+        "cons": "Cons\n• Large 6.8 inch design and weight may not suit those who prefer compact phones\n• 128 GB storage can fill up fast with 4K or 8K video some users might prefer cloud storage",
+        "pros_de": "Deutsch\nVorteile\n• Leistung auf Topniveau mit S Pen für flüssiges Multitasking und Notizen\n• Vielseitige Kamera und helles 120 Hz Display ideal für Social Content und Streaming\n• Dual SIM und Enterprise Funktionen bieten Flexibilität und zusätzliche Sicherheit während der Miete",
+        "cons_de": "Nachteile\n• Das große 6,8 Zoll Design und das Gewicht sind für Fans kompakter Smartphones eventuell weniger passend\n• 128 GB Speicher kann sich bei vielen 4K oder 8K Videos schnell füllen manche Nutzer bevorzugen dann Cloud Speicher"
     },
     {
         "slug": "ecovacs-vacuum-cleaner-ecovacs-deebot-t9-saugroboter",
@@ -15939,7 +16309,11 @@ const data = [
             "Max. Laufzeit": "175 Minuten",
             "Max. Volumen des Wassertanks": "0.24L",
             "Max. Volumen des Staubbehälters": "0,42 l"
-        }
+        },
+        "pros": "Pros\n• Powerful suction and an oscillating mop handle everyday mess on mixed floors\n• Auto empty station cuts day to day upkeep so you can set and forget\n• Smart mapping with 3D obstacle avoidance plus room based cleaning in the app",
+        "cons": "Cons\n• Uses disposable bags for the station which adds a small ongoing cost\n• Mopping is for maintenance cleaning and may not suit heavy stains",
+        "pros_de": "Vorteile\n• Starke Saugleistung und vibrierende Wischfunktion für den Alltag auf gemischten Böden\n• Absaugstation entleert automatisch und reduziert den Aufwand zwischen den Reinigungen\n• Intelligente Karten mit 3D Hinderniserkennung sowie Raum und Zonenreinigung per App",
+        "cons_de": "Nachteile\n• Benötigt Staubbeutel für die Station mit kleinen laufenden Kosten\n• Die Wischfunktion ist für Pflege gedacht und eignet sich weniger für sehr hartnäckige Flecken"
     },
     {
         "slug": "apple-tv-64gb-4k-wifi-gen-3",
@@ -15955,7 +16329,11 @@ const data = [
             "Zum Lieferumfang gehören": "Apple TV 4K, Siri Remote, Netzkabel",
             "Interne Speicherkapazität": "64 GB",
             "Unterstützte Videoformate": "AVC, H.264, HEVC, M4V, MP4, MPEG4"
-        }
+        },
+        "pros": "Pros\n• Smooth 4K HDR streaming with Dolby Vision and Dolby Atmos  \n• Fast A15 chip keeps apps and games responsive with 64 GB for plenty of content  \n• Works seamlessly with iPhone iPad and Mac using AirPlay and the Siri Remote",
+        "cons": "Cons\n• WiFi only no Ethernet may not suit homes that rely on a wired connection for the most stable streaming  \n• Best experience is within the Apple ecosystem some Android users might find fewer integrations",
+        "pros_de": "Vorteile\n• Flüssiges 4K HDR Streaming mit Dolby Vision und Dolby Atmos  \n• Schneller A15 Chip sorgt für zügige Apps und Spiele plus 64 GB Speicher für viele Inhalte  \n• Nahtlose Nutzung mit iPhone iPad und Mac über AirPlay und die Siri Remote",
+        "cons_de": "Nachteile\n• Nur WiFi kein Ethernet Anschluss kann für Haushalte mit Bedarf an kabelgebundener Verbindung weniger geeignet sein  \n• Das beste Erlebnis bietet das Apple Ökosystem Nutzer mit Android finden eventuell weniger Integrationen"
     },
     {
         "slug": "razer-blade-18-i9-16gb-1tb-rtx-4060-eng",
@@ -15970,7 +16348,11 @@ const data = [
             "Arbeitsspeicher": "16GB",
             "Tastatursprache": "Englisch",
             "Abmessungen und Gewicht": "39.98 x 27.53 x 2.18 cm • 3.2 kg"
-        }
+        },
+        "pros": "Pros\n• Powerful Intel Core i9 13950HX and NVIDIA GeForce RTX 4060 deliver smooth AAA gaming and creative performance\n• Expansive 18 inch display boosts immersion and makes multitasking comfortable\n• Fast 1 TB SSD and 16 GB DDR5 memory keep load times short and workflows snappy",
+        "cons": "Cons\n• Large 18 inch form factor may feel less portable and needs more desk space\n• 16 GB RAM may not suit heavy video editing or streaming while gaming",
+        "pros_de": "Vorteile\n• Starke Leistung mit Intel Core i9 13950HX und NVIDIA GeForce RTX 4060 für flüssiges Gaming und kreative Anwendungen\n• Großes 18 Zoll Display für ein intensives Erlebnis und entspanntes Multitasking\n• Schnelle 1 TB SSD und 16 GB DDR5 Arbeitsspeicher für kurze Ladezeiten und zügige Abläufe",
+        "cons_de": "Nachteile\n• Das 18 Zoll Format ist weniger mobil und benötigt mehr Platz auf dem Schreibtisch\n• 16 GB Arbeitsspeicher eignet sich eventuell nicht für sehr anspruchsvolle Videobearbeitung oder gleichzeitiges Streaming beim Spielen"
     },
     {
         "slug": "samsung-tv-samsung-gq55q60cauxzg",
@@ -15988,7 +16370,11 @@ const data = [
             "HDR (High Dynamic Range)": "HDR10+ Certification: HDR10+ Adaptive",
             "Abmessungen mit Standfuß": "1232.1 x 745.9 x 224.0 mm",
             "Abmessungen ohne Standfuß": "1232.1 x 708.3 x 25.7 mm"
-        }
+        },
+        "pros": "Pros\n• Vivid QLED 4K picture with Quantum Dot and HDR for sharp movies sports and streaming\n• Ultra slim design that looks premium and fits easily in most living rooms\n• Smart TV with Tizen major apps voice control and a SolarCell remote that reduces battery swaps",
+        "cons": "Cons\n• 60 hertz panel without HDMI 2.1 may not suit competitive next gen console gaming\n• Built in speakers are modest and some users might prefer adding a soundbar",
+        "pros_de": "Vorteile\n• Kräftiges QLED 4K Bild mit Quantum Dot und HDR für Filme Sport und Streaming\n• Sehr schlankes Design wirkt modern und passt leicht in die meisten Wohnzimmer\n• Tizen Smart TV mit den wichtigsten Apps Sprachsteuerung und SolarCell Fernbedienung die Batteriewechsel reduziert",
+        "cons_de": "Nachteile\n• 60 Hertz Panel ohne HDMI 2.1 daher vielleicht nicht ideal für kompetitives Next Gen Konsolen Gaming\n• Eingebaute Lautsprecher sind solide manche Nutzer bevorzugen für mehr Wumms eine Soundbar"
     },
     {
         "slug": "htc-virtual-reality-xr-elite-deluxe-pack",
@@ -16011,7 +16397,11 @@ const data = [
             "Bildwiederholfrequenz": "90 Hz",
             "Speicher & Arbeitsspeicher": "128 GB Speicher, 12 GB RAM",
             "IPD (Interpupillarer Abstand)": "Geeignet für 54-73 mm"
-        }
+        },
+        "pros": "Pros\n• Flexible mixed reality headset with color passthrough for MR demos and training\n• Lightweight compact design with hot swap battery and adjustable diopters for glasses free use and comfort\n• Easy setup with inside out tracking no base stations and optional PC VR via WiFi or USB C streaming",
+        "cons": "Cons\n• Battery life may not suit long sessions users who need many hours can swap or use external power\n• For the best graphics a capable gaming PC is needed for PC VR streaming which adds setup steps and cost",
+        "pros_de": "Vorteile\n• Flexible Mixed Reality mit Farb Passthrough ideal für Demos Schulungen und Kollaboration\n• Leichtes kompaktes Design mit austauschbarem Akku im laufenden Betrieb und Dioptrien Einstellung auch ohne Brille bequem\n• Einfache Einrichtung mit Inside Out Tracking keine Basisstationen nötig und optionalem PC VR Streaming per WiFi oder USB C",
+        "cons_de": "Nachteile\n• Akkulaufzeit könnte für sehr lange Sessions nicht ausreichen mit wechselbarem Akku oder externer Stromversorgung gut lösbar\n• Für maximale Grafikqualität wird ein leistungsstarker PC für PC VR Streaming benötigt was zusätzliche Einrichtung und Kosten bedeutet"
     },
     {
         "slug": "samsung-galaxy-watch-5-40mm",
@@ -16030,7 +16420,11 @@ const data = [
             "Wasser-/Staubdicht": "5ATM / IP68 / MIL-STD-810H",
             "Aktivitätstracking": "Blutsauerstoff, Blutdruck, Herzfrequenz, Bioelektrische Impedanzanalyse (BIA), Schritte",
             "Globale Positionierung": "Galileo, GLONASS, GPS"
-        }
+        },
+        "pros": "Pros\n• Sleek aluminum build with sapphire crystal display for a premium look that handles daily wear\n• Compact 40 mm size is light and comfy, with easy strap swaps to match your style\n• Modern fitness and wellness tracking plus Wear OS with Google apps, great for trying the latest features without buying",
+        "cons": "Cons\n• Battery life may not suit heavy tracking or always on display users who want multi day endurance\n• Best experience is with Android especially Samsung phones, so it may not suit iPhone users",
+        "pros_de": "Vorteile\n• Schlankes Aluminiumgehäuse mit Saphirglas für einen hochwertigen Look und gute Alltagstauglichkeit\n• Kompakte 40 mm sitzen bequem und die Armbänder lassen sich schnell wechseln\n• Umfangreiche Fitness und Wellness Funktionen sowie Wear OS mit Google Apps ideal zum Ausprobieren ohne Kaufbindung",
+        "cons_de": "Nachteile\n• Die Akkulaufzeit kann bei intensiver Nutzung oder Always On Anzeige kürzer ausfallen und ist eher nicht für mehrere Tage gedacht\n• Beste Erfahrung mit Android besonders mit Samsung Geräten daher weniger geeignet für iPhone Nutzer"
     },
     {
         "slug": "xiaomi-smartphone-redmi-note-11-pro-5g-6gb-128gb",
@@ -16046,12 +16440,20 @@ const data = [
             "Rückkamera": "108MP+8MP+2MP",
             "Betriebssystem": "Android 11, MIUI 13",
             "Konnektivität": "5G"
-        }
+        },
+        "pros": "English\nPros\n• Smooth 120 Hz AMOLED display and 5G performance for modern streaming and gaming without flagship prices\n• Long lasting 5000 mAh battery with fast charging keeps downtime low during your rental\n• Dual SIM and 128 GB storage add flexibility for travel and work with plenty of space and easy upgrades later",
+        "cons": "Cons\n• Large 6.67 inch size may not suit those who prefer compact one handed use\n• Camera is strong for everyday shots but low light results are not at flagship level",
+        "pros_de": "Deutsch\nVorteile\n• Flüssiges 120 Hz AMOLED Display und 5G Leistung für modernes Streaming und Gaming ohne den Preis eines Flaggschiffs\n• Ausdauernder 5000 mAh Akku mit Schnellladen reduziert Ausfallzeiten während der Miete\n• Dual SIM und 128 GB Speicher bieten Flexibilität für Reise und Job mit viel Platz und der Möglichkeit später leicht zu wechseln",
+        "cons_de": "Nachteile\n• Das große 6,67 Zoll Format eignet sich eventuell nicht für Nutzer die ein kompaktes Gerät für Einhandbedienung bevorzugen\n• Die Kamera ist gut für Alltagsfotos doch bei wenig Licht nicht auf Flaggschiffniveau"
     },
     {
         "slug": "dji-osmo-action-4-adventure-combo",
         "name": "DJI Osmo Action 4 Adventure Combo",
-        "specifications": null
+        "specifications": null,
+        "pros": "Pros\n- Smooth 4K footage with strong stabilization and confident low light performance\n- Adventure Combo keeps you rolling with extra batteries and a compact charging case\n- Quick magnetic mount and two touch screens make framing and mode changes fast on the go",
+        "cons": "Cons\n- May not suit creators who need 5K or higher resolution for heavy cropping\n- Some features work best with the DJI Mimo app which adds a small learning step",
+        "pros_de": "Vorteile\n- Ruhiges 4K Bild mit starker Stabilisierung und sehr guter Leistung bei wenig Licht\n- Adventure Combo liefert Zusatzakkus und ein kompaktes Ladecase für lange Drehtage\n- Magnetische Befestigung und zwei Touchscreens ermöglichen schnelle Einrichtung und präzise Bildkontrolle unterwegs",
+        "cons_de": "Nachteile\n- Eignet sich eventuell weniger wenn du 5K oder höher für starkes Zuschneiden brauchst\n- Der volle Funktionsumfang zeigt sich mit der DJI Mimo App was eine kurze Einarbeitung erfordert"
     },
     {
         "slug": "samsung-galaxy-watch-active4-40mm",
@@ -16071,7 +16473,11 @@ const data = [
             "Activity Tracking": "Blutsauerstoff, Blutdruck, Elektrokardiographie, Herzfrequenz, zurückgelegte Schritte",
             "Widerstandsfähigkeit": "5ATM / IP68 / MIL-STD-810G",
             "Globale Positionsbestimmung": "Galileo, GLONASS, GPS"
-        }
+        },
+        "pros": "Pros\n• Slim 40 mm aluminium design with bright AMOLED is light and stylish for all day wear\n• Fast Wear OS experience with Google apps plus many watch faces and apps to personalize your rental\n• Advanced health tracking including body composition sleep insights and precise GPS for workouts",
+        "cons": "Cons\n• Battery life may not suit those who want several days between charges especially with GPS and always on display enabled\n• Works best with a Samsung or Android phone and is not compatible with iPhone",
+        "pros_de": "Vorteile\n• Schlankes 40 mm Aluminiumgehäuse mit hellem AMOLED ist leicht und modern für den ganzen Tag\n• Schnelles Wear OS mit Google Apps sowie vielen Zifferblättern und Apps zur einfachen Personalisierung deiner Miete\n• Umfassendes Gesundheits und Fitness Tracking inklusive Körperzusammensetzung Schlafanalyse und präzisem GPS für Workouts",
+        "cons_de": "Nachteile\n• Die Akkulaufzeit kann für alle die mehrere Tage ohne Laden möchten knapp sein besonders mit GPS und Always On Display\n• Funktioniert am besten mit einem Samsung oder Android Smartphone und ist nicht mit iPhone kompatibel"
     },
     {
         "slug": "samsung-tv-samsung-gu55u8079fuxzg",
@@ -16100,7 +16506,11 @@ const data = [
             "Schnittstelle für Panelmontage": "200 x 200 mm",
             "Technologie zur Bewegungsinterpolation": "Motion Xcelerator",
             "Technologie für hohen Dynamikbereich (HDR)": "Filmmaker-Modus, Hoher Dynamikbereich 10+ (HDR10 Plus), Hybrid Log-Gamma (HLG)"
-        }
+        },
+        "pros": "English\nPros\n• 55 inch 4K UHD with HDR delivers crisp detail and vibrant colors for movies sports and games\n• Smart TV with Tizen gives fast access to popular apps and easy wireless screen mirroring\n• Slim design with narrow bezels looks modern and is a simple upgrade without the commitment of buying",
+        "cons": "Cons\n• 60 Hz refresh rate may not suit competitive gamers who want very high frame rates\n• Some users might find the built in speakers modest a sound bar can boost audio",
+        "pros_de": "Deutsch\nVorteile\n• 55 Zoll 4K UHD mit HDR bietet klare Details und lebendige Farben für Filme Sport und Gaming\n• Smart TV mit Tizen ermöglicht schnellen Zugriff auf wichtige Apps und einfaches kabelloses Screen Mirroring\n• Schlankes Design mit schmalem Rahmen wirkt modern und ist ein unkompliziertes Upgrade ohne Kaufbindung",
+        "cons_de": "Nachteile\n• 60 Hz Bildwiederholrate ist eventuell für sehr ambitionierte Gamer weniger geeignet\n• Einige Nutzer finden die integrierten Lautsprecher eher schlicht eine Soundbar kann den Klang deutlich verbessern"
     },
     {
         "slug": "sonos-era-100-bluetooth-speaker",
@@ -16115,7 +16525,11 @@ const data = [
             "Lieferumfang": "Sonos Era 100, Netzkabel",
             "Konnektivität": "Wi-Fi, Bluetooth 5.3",
             "Besondere Merkmale": "Dolby Atmos, AirPlay 2, Sprachassistent, Touch-Steuerung, feuchtigkeitsresistent"
-        }
+        },
+        "pros": "Pros\n• Big stereo sound from a compact speaker with rich bass and clear vocals\n• Wi Fi and Bluetooth for flexible streaming, plus AirPlay support\n• Easy to expand pair two for stereo or add to a Sonos soundbar for surround and effortless multi room",
+        "cons": "Cons\n• Not battery powered so it needs a power outlet and is less suitable for on the go listening\n• Line in requires a USB C adapter which is an extra accessory",
+        "pros_de": "Vorteile\n• Großer Stereoklang aus einem kompakten Speaker mit sattem Bass und klaren Stimmen\n• Wi Fi und Bluetooth für flexible Wiedergabe, dazu AirPlay Unterstützung\n• Einfach erweiterbar als Stereo Paar oder als Surrounds mit einer Sonos Soundbar und nahtlosem Multiroom",
+        "cons_de": "Nachteile\n• Nicht akkubetrieben, daher Steckdose nötig und weniger geeignet für unterwegs\n• Line in nur über USB C Adapter möglich, zusätzliches Zubehör erforderlich"
     },
     {
         "slug": "yamaha-musical-instrument-yamaha-p-225-88-key-digital-piano",
@@ -16129,7 +16543,11 @@ const data = [
             "OPERATING MODE": "PA-150B or an equivalent recommended by Yamaha (Output: DC 12 V, 1.5 A)",
             "INCLUDED ACCESSORIES": "Music rest",
             "AMPLIFIERS & SPEAKERS": "2 x 7 W, 2 x 12 cm drivers"
-        }
+        },
+        "pros": "English\nPros\n• Realistic piano feel with 88 key graded hammer action for confident practice and performance\n• Compact and light design that is easy to move or store, great for apartments and flexible setups\n• Quiet practice ready with headphone output and simple USB connection for learning apps and recording",
+        "cons": "Cons\n• Built in speakers are fine for home use but may not fill larger rooms without an external amp\n• May not suit advanced players who want deep editing or a very wide range of sounds",
+        "pros_de": "\nDeutsch\nVorteile\n• Natürliches Spielgefühl dank 88 Tasten mit gewichteter Hammermechanik für Übung und Auftritt\n• Kompakt und leicht, einfach zu transportieren und zu verstauen, ideal für kleine Wohnungen und flexible Setups\n• Leises Üben per Kopfhörer sowie einfacher USB Anschluss für Lern Apps und Recording",
+        "cons_de": "Nachteile\n• Die integrierten Lautsprecher sind für Zuhause gut, größere Räume könnten ohne externen Verstärker nicht optimal abgedeckt sein\n• Könnte für sehr fortgeschrittene Spielerinnen und Spieler, die viele Sounds und tiefe Editierfunktionen wünschen, weniger passend sein"
     },
     {
         "slug": "inno3d-graphics-card-inno3d-geforce-rtx-4090-ichill-x3",
@@ -16137,7 +16555,11 @@ const data = [
         "specifications": {
             "Memory": "24GB (GDDR6X)",
             "Dimensions": "7.83 x 19.9 x 10.3 cm • 2.29 kg"
-        }
+        },
+        "pros": "English\nPros\n• Elite performance for 4K gaming ray tracing and creative work without the long term commitment of buying\n• 24 GB memory handles large textures complex 3D scenes and AI workloads with ease\n• Quiet and cool iCHILL triple fan design plus DLSS 3 and AV1 encoding for future ready gaming and streaming",
+        "cons": "Cons\n• Large size and higher power needs so check case clearance and power supply before renting\n• May be more performance than needed for casual 1080p play",
+        "pros_de": "Deutsch\nVorteile\n• Leistung auf Flaggschiff Niveau für 4K Gaming Raytracing und Kreativanwendungen ohne langfristige Kaufbindung\n• 24 GB Speicher für große Texturen komplexe 3D Szenen und KI Aufgaben\n• Leises und kühles iCHILL Design mit drei Lüftern sowie DLSS 3 und AV1 Encoding für zukunftssicheres Gaming und Streaming",
+        "cons_de": "Nachteile\n• Sehr groß und mit höherem Energiebedarf daher vor der Miete Gehäusefreiheit und Netzteil prüfen\n• Könnte für reines 1080p Gaming mehr Leistung bieten als nötig"
     },
     {
         "slug": "lenovo-thinkpad-e16-i7-1355u-16gb-512gb-eng",
@@ -16152,7 +16574,11 @@ const data = [
             "Arbeitsspeicher": "16GB",
             "Tastatursprache": "Englisch",
             "Abmessungen und Gewicht": "35.6 x 27.9 x 1.7 cm • 1.77 kg"
-        }
+        },
+        "pros": "Pros\n• Strong performance for work and study with Intel Core i7 1355U and 16 GB memory\n• Fast startup and responsive feel from the 512 GB SSD\n• Spacious 16 inch display for comfortable multitasking and split screen work",
+        "cons": "Cons\n• The 16 inch size is less travel friendly and may not suit users who want an ultra light device\n• Integrated graphics are fine for everyday use but some users might find them limiting for heavy gaming or 3D rendering",
+        "pros_de": "Vorteile\n• Starke Leistung für Arbeit und Studium dank Intel Core i7 1355U und 16 GB Arbeitsspeicher\n• Schnelles Systemgefühl durch die 512 GB SSD\n• Großes 16 Zoll Display für entspanntes Multitasking und geteilte Fenster",
+        "cons_de": "Nachteile\n• Das 16 Zoll Format ist unterwegs weniger handlich und passt eventuell nicht zu allen, die maximale Mobilität wünschen\n• Die integrierte Grafik ist für den Alltag gut, kann bei aufwendigen Games oder 3D Aufgaben jedoch an Grenzen kommen"
     },
     {
         "slug": "samsung-smartwatch-samsung-galaxy-watch6-classic-stainless-steel-case-and-sport-band-43mm",
@@ -16169,7 +16595,11 @@ const data = [
             "Aktivitätsaufzeichnung": "Herzfrequenzmesser, EKG, kontinuierlicher Sp02, Blutdruck, bioelektrische Impedanzanalyse (Körperzusammensetzung)",
             "Lebensdauer der Batterie": "Bis zu 40 Stunden",
             "Globale Positionsbestimmung": "Galileo, GLONASS, GPS"
-        }
+        },
+        "pros": "Pros:\n• Premium stainless steel case with rotating bezel for a classic look and intuitive navigation\n• Bright AMOLED display and smooth performance with reliable fitness and sleep tracking\n• Flexible way to enjoy a current generation smartwatch now and upgrade when you want",
+        "cons": "Cons:\n• Requires an Android phone for setup and full features\n• The 43 mm size may not suit very large wrists or users who prefer a bigger screen",
+        "pros_de": "Vorteile:\n• Hochwertiges Edelstahlgehäuse mit drehbarer Lünette für klassische Optik und intuitive Bedienung\n• Helles AMOLED Display und flüssige Performance mit zuverlässigen Fitness und Schlaffunktionen\n• Flexible Option um eine aktuelle Smartwatch zu nutzen und bei Bedarf einfach zu upgraden",
+        "cons_de": "Nachteile:\n• Erfordert ein Android Smartphone für Einrichtung und volle Funktionen\n• Die Größe von 43 mm passt eventuell nicht zu sehr großen Handgelenken oder zu Personen die einen größeren Bildschirm bevorzugen"
     },
     {
         "slug": "samsung-smartphone-galaxy-a53-6gb-128gb",
@@ -16185,7 +16615,11 @@ const data = [
             "Rückkamera": "64MP + 12MP + 5MP + 5MP",
             "Betriebssystem": "Android 12",
             "Konnektivität": "5G"
-        }
+        },
+        "pros": "Pros\n1. Bright color rich display and smooth everyday performance for streaming social and work\n2. Long lasting battery for a full day of use\n3. Dual Sim and 128 GB storage for flexible travel work and content without constant cleanups",
+        "cons": "Cons\n1. May not suit heavy gaming or pro level photography needs\n2. Some users might prefer a more compact or lighter phone",
+        "pros_de": "Vorteile\n1. Helles Display mit satten Farben und flüssiger Nutzung im Alltag für Streaming Social Media und Arbeit\n2. Ausdauernder Akku für den ganzen Tag\n3. Dual Sim und 128 GB Speicher bieten flexible Nutzung auf Reisen im Job und für viele Inhalte ohne ständiges Aufräumen",
+        "cons_de": "Nachteile\n1. Für sehr anspruchsvolle Spiele oder Profi Fotos eventuell nicht die beste Wahl\n2. Manche Nutzerinnen und Nutzer wünschen sich eventuell ein kompakteres oder leichteres Smartphone"
     },
     {
         "slug": "dyson-air-purifier-dyson-purifier-cool-autoreact-tp7a",
@@ -16198,7 +16632,11 @@ const data = [
             "Schallpegel": "61,5 dB",
             "Lieferumfang": "Dyson Purifier Cool Autoreact Luftreiniger TP7A, HEPA Filter mit Glasfasern und interner Aktivkohlefilter, Fernbedienung",
             "Besondere Merkmale": "10 Geschwindigkeitseinstellungen, Inklusive LCD-Display mit Echtzeitinformation, 20% leiser als das vorherige Modell, Getestet von der Asthma & Allergy Foundation, Gütesiegel „Geruchsminderung“"
-        }
+        },
+        "pros": "English\nPros\n• Purifies and cools in one, with HEPA grade filtration and auto react sensors that adjust to air quality in real time\n• Quiet night mode and efficient performance, great for allergy season or occasional use without long term commitment\n• Sleek Dyson design with wide oscillation to move clean air across the room, easy to carry between rooms",
+        "cons": "Cons\n• May not include app or voice control, which some users prefer for smart home setups\n• Not a replacement for air conditioning, the cooling comes from airflow rather than active refrigeration",
+        "pros_de": "Deutsch\nVorteile\n• Reinigt und kühlt in einem, mit HEPA Filterung und Sensoren, die sich automatisch an die Luftqualität anpassen\n• Leiser Nachtmodus und effizienter Betrieb, ideal für die Allergiezeit oder flexible Nutzung ohne Kaufbindung\n• Schlankes Dyson Design mit weiter Oszillation für gute Raumabdeckung, leicht zwischen Zimmern zu bewegen",
+        "cons_de": "Nachteile\n• App oder Sprachsteuerung ist je nach Variante nicht dabei, was manche Smart Home Fans bevorzugen würden\n• Kein Ersatz für eine Klimaanlage, die Kühlung entsteht durch den Luftstrom und nicht durch aktive Kühlung"
     },
     {
         "slug": "epson-eh-tw6150-projector",
@@ -16213,7 +16651,11 @@ const data = [
             "Projektionsabstand": "2,34 m - 3,81 m (80 -Zoll -Bildschirm)",
             "Projektionsgröße": "40 Zoll - 500 Zoll",
             "Bildschirmauflösung": "3840 x 2160 Pixel"
-        }
+        },
+        "pros": "Pros\n- 4K UHD picture with rich 3LCD color for a cinematic feel at home\n- Low input lag and smooth motion make it gamer friendly\n- Easy rental setup compact design plus zoom and keystone help avoid permanent installation",
+        "cons": "Cons\n- Built in speaker is fine for quick use but a soundbar will improve movie nights\n- For the best contrast you will want a dimmer room bright daylight can wash out darker scenes",
+        "pros_de": "Vorteile\n- 4K UHD Bild mit kräftigen 3LCD Farben für ein kinoähnliches Erlebnis zu Hause\n- Niedrige Eingabeverzögerung und flüssige Bewegungen sind ideal für Gaming\n- Einfache Einrichtung in der Mietwohnung kompakte Bauform sowie Zoom und Trapezkorrektur vermeiden eine feste Montage",
+        "cons_de": "Nachteile\n- Der integrierte Lautsprecher reicht für den schnellen Start eine Soundbar verbessert den Klang deutlich\n- Für bestes Kontrastgefühl ist ein abgedunkelter Raum sinnvoll sehr helles Tageslicht kann dunkle Szenen abschwächen"
     },
     {
         "slug": "lenovo-thinkpad-x1-carbon-i7-1355u-16-512-14",
@@ -16228,7 +16670,11 @@ const data = [
             "Arbeitsspeicher": "16GB",
             "Tastatursprache": "Deutsch",
             "Abmessungen und Gewicht": "36 x 27.9 x 2.8 cm • 2.6 kg"
-        }
+        },
+        "pros": "Pros\n• Fast 13th generation Intel Core i7 performance with 16GB memory for smooth multitasking\n• Light and slim ThinkPad design with strong battery life, ideal for work or study on the go\n• Business grade build and ports like Thunderbolt 4 and HDMI make setup easy at home or in the office",
+        "cons": "Cons\n• Integrated graphics may not suit heavy gaming or intensive 3D work\n• 512GB storage may feel tight for large media libraries, but easy to expand with cloud or an external drive",
+        "pros_de": "Vorteile\n• Schnelle Leistung mit Intel Core i7 der 13. Generation und 16GB Arbeitsspeicher für flüssiges Multitasking\n• Leichtes und schlankes ThinkPad Design mit starker Akkulaufzeit, praktisch für Arbeit und Studium unterwegs\n• Robuste Business Verarbeitung und Anschlüsse wie Thunderbolt 4 und HDMI erleichtern das Einrichten zu Hause oder im Büro",
+        "cons_de": "Nachteile\n• Integrierte Grafik eignet sich eventuell nicht für anspruchsvolle Games oder intensives 3D Rendering\n• 512GB Speicher kann für sehr große Medienbibliotheken knapp wirken, externer oder Cloud Speicher ist eine einfache Ergänzung"
     },
     {
         "slug": "samsung-monitor-odyssey-27-ls27cg510euxen",
@@ -16240,7 +16686,11 @@ const data = [
             "Reaktionszeit": "4ms",
             "Abmessungen und Gewicht": "61.8 x 52.06 x 23.4 cm • 4.8 kg",
             "High Dynamic Range (HDR)": "Yes"
-        }
+        },
+        "pros": "Pros\n• Smooth gaming thanks to a high refresh rate and fast response  \n• Crisp 27 inch screen that works well for both play and productivity  \n• Adaptive sync support helps prevent tearing across PC and console setups",
+        "cons": "Cons\n• May not suit users who need built in speakers  \n• Some users might prefer a fully adjustable stand",
+        "pros_de": "Vorteile\n• Flüssiges Gaming dank hoher Bildwiederholrate und schneller Reaktionszeit  \n• Scharfes 27 Zoll Display für Gaming und produktives Arbeiten  \n• Adaptive Sync hilft Tearing am PC und an Konsolen zu vermeiden",
+        "cons_de": "Nachteile\n• Könnte für Nutzer mit Bedarf an integrierten Lautsprechern weniger passend sein  \n• Manche wünschen sich eventuell einen vollständig verstellbaren Standfuß"
     },
     {
         "slug": "sonos-move",
@@ -16250,7 +16700,11 @@ const data = [
             "Produkttyp": "Tragbare Lautsprecher",
             "Anschlüsse": "Multi-room, Bluetooth, WLAN, USB Type-C",
             "Abmessungen und Gewicht": "16 cm x 12.6 cm x 24 cm, 3 kg"
-        }
+        },
+        "pros": "Pros\n• Powerful room filling sound indoors and outdoors\n• Switch easily between WiFi at home and Bluetooth on the go\n• Works with other Sonos speakers for simple multiroom listening as your needs change",
+        "cons": "Cons\n• Heavier than many portable speakers so it may not suit travel bags\n• Full features rely on the Sonos app which some users might prefer to keep simple",
+        "pros_de": "Vorteile\n• Kräftiger raumfüllender Klang drinnen und draußen\n• Flexibel mit WLAN zu Hause und Bluetooth unterwegs\n• Funktioniert mit anderen Sonos Lautsprechern für einfaches Multiroom Hören je nach Bedarf",
+        "cons_de": "Nachteile\n• Etwas schwerer als viele mobile Lautsprecher daher weniger geeignet für den Rucksack\n• Für den vollen Funktionsumfang wird die Sonos App benötigt was manche Nutzer nicht bevorzugen"
     },
     {
         "slug": "insta360-go-3-128gb",
@@ -16264,7 +16718,11 @@ const data = [
             "Videoauflösung": "bis zu 2.7K // 1080p120fps",
             "Besondere Merkmale": "Zeitraffer, Zeitverschiebung, Loop-Aufnahme",
             "Umfang der Lieferung": "Action Pod, Objektivschutz, Insta360 Go 3S 128GB"
-        }
+        },
+        "pros": "English\nPros\n- Very compact and magnetic for hands free POV shots at the gym on the commute or while traveling\n- Smooth stabilization and easy horizon leveling for steady footage during action\n- 128GB storage gives room for more clips and reduces the need to offload often",
+        "cons": "Cons\n- May not suit low light scenes as well as larger action cameras\n- Better for short creative clips than very long continuous recordings",
+        "pros_de": "Deutsch\nVorteile\n- Sehr kompakt und magnetisch für freihändige POV Aufnahmen beim Sport im Alltag und auf Reisen\n- Sanfte Stabilisierung und einfache Horizontausrichtung für ruhige Aufnahmen in Bewegung\n- 128GB Speicher bietet viel Platz und verringert häufiges Überspielen",
+        "cons_de": "Nachteile\n- Eignet sich weniger für sehr dunkle Umgebungen als größere Action Kameras\n- Eher für kurze kreative Clips als für sehr lange durchgehende Aufnahmen geeignet"
     },
     {
         "slug": "samsung-tablet-galaxy-tab-a9-5g-4gb-64gb",
@@ -16281,7 +16739,11 @@ const data = [
             "Internal storage capacity": "64 GB",
             "Rear camera resolution (numeric)": "8 MP",
             "Front camera resolution (numeric)": "5 MP"
-        }
+        },
+        "pros": "Pros\n• 5G ready for fast streaming video calls and cloud apps on the go\n• Large immersive display in a slim light body great for study travel and entertainment\n• Smooth everyday performance that keeps up with notes browsing and media without the commitment of buying",
+        "cons": "Cons\n• 64GB storage may not suit big offline libraries or large game collections\n• Some users might prefer a device with more desktop class power for heavy multitasking",
+        "pros_de": "Vorteile\n• 5G für schnelles Streaming Videoanrufe und Cloud Apps unterwegs\n• Großes Display im schlanken leichten Format ideal für Studium Reise und Entertainment\n• Flüssige Leistung für Notizen Surfen und Medien ohne Kaufbindung",
+        "cons_de": "Nachteile\n• 64GB Speicher kann für große Offline Mediatheken oder viele Spiele knapp sein\n• Für sehr intensives Multitasking bevorzugen manche vielleicht ein Gerät mit mehr Rechenleistung"
     },
     {
         "slug": "dyson-vacuum-cleaner-dyson-v11-absolute-extra-cordless-vacuum-cleaner",
@@ -16296,7 +16758,11 @@ const data = [
             "Saugleistung": "220 AW",
             "Einsatzgebiete": "Holzböden, Möbel, Parkettböden, Risse, Teppiche, Haustiere und Allergien",
             "Staubbehälter": "Beutellos, 0,76 l"
-        }
+        },
+        "pros": "English\nPros\n1. Strong suction with smart auto mode that adapts to floor type for efficient everyday cleaning\n2. Converts to a handheld with versatile tools ideal for small spaces cars and sofas\n3. LCD screen shows remaining runtime and maintenance reminders so you can plan cleanups",
+        "cons": "Cons\n1. Boost mode drains the battery faster so it may not suit very large homes in a single session\n2. The wall mount requires drilling which some renters might avoid although you can store it without mounting",
+        "pros_de": "Deutsch\nVorteile\n1. Starke Saugkraft mit Auto Modus passt sich dem Boden an und macht die tägliche Reinigung effizient\n2. Lässt sich zum Handstaubsauger umbauen und bietet vielseitiges Zubehör ideal für kleine Räume Auto und Sofa\n3. LCD Display zeigt Restlaufzeit und Hinweise zur Pflege so planst du deine Reinigungen besser",
+        "cons_de": "Nachteile\n1. Im Boost Modus ist die Laufzeit kürzer daher eignet er sich eventuell nicht für sehr große Wohnungen in einem Durchgang\n2. Die Wandhalterung erfordert Bohren was manche Mietende vermeiden möchten auch wenn das Gerät ohne Halterung verstaut werden kann"
     },
     {
         "slug": "apple-macbook-pro-16-m3-max-16cpu-48gb-1tb-40gpu-eng",
@@ -16311,7 +16777,11 @@ const data = [
             "Arbeitsspeicher": "48GB",
             "Tastatursprache": "Englisch",
             "Abmessungen und Gewicht": "35.57 x 35.57 x 1.68 cm • 2.16 kg"
-        }
+        },
+        "pros": "Pros\n• M3 Max with 40 core GPU and 48 GB memory delivers pro level speed for video editing 3D and heavy multitasking\n• 1 TB fast SSD and strong efficiency keep large projects responsive on the go\n• Premium 16 inch display and build with flexible rental lets you tackle intensive work without a long commitment",
+        "cons": "Cons\n• The 16 inch size is not the lightest and may not suit frequent commuters\n• This premium setup may have a higher monthly rate than lighter models so casual users might not need all its power",
+        "pros_de": "Vorteile\n• M3 Max mit 40 Core GPU und 48 GB Arbeitsspeicher bietet starke Leistung für Videoschnitt 3D und intensives Multitasking\n• 1 TB schneller SSD Speicher und sehr gute Effizienz halten große Projekte auch unterwegs flüssig\n• Premium 16 Zoll Display und hochwertige Verarbeitung in flexibler Miete statt Kauf passend für anspruchsvolle Phasen",
+        "cons_de": "Nachteile\n• Das 16 Zoll Format ist nicht das leichteste und eignet sich eventuell weniger für tägliches Pendeln\n• Die Premium Konfiguration kann eine höhere Monatsmiete haben als leichtere Geräte und ist für einfache Nutzung eventuell mehr als nötig"
     },
     {
         "slug": "dyson-air-purifier-dyson-tp09-purifier",
@@ -16322,12 +16792,20 @@ const data = [
             "Ausstattung": "Nachtmodus, Fernbedienung, App-Steuerung, Filtersättigungsanzeige, LCD, Raumluftüberwachung (Staub, Feinstaub, Luftfeuchtigkeit, Temperatur, VOC), Einschaltautomatik, Sprachsteuerung",
             "Geräuschentwicklung": "61.5dB(A)",
             "Leistungsregulierung": "10 Stufen (automatisch)"
-        }
+        },
+        "pros": "Pros\n• Purifies and cools in one sleek tower, great for saving space and adapting through the seasons\n• Formaldehyde sensing and sealed HEPA filtration help reduce ultrafine particles, odors, and gases for fresher air\n• App and voice control with wide oscillation, easy to move from room to room with no installation",
+        "cons": "Cons\n• Tall tower may not suit very small rooms or those who prefer a more discreet look\n• Filters need periodic replacement and smart control requires Wi Fi, which some users might find less convenient",
+        "pros_de": "Vorteile\n• Reinigt und kühlt in einem schlanken Turm, spart Platz und passt sich den Jahreszeiten an\n• Erkennt Formaldehyd und nutzt versiegelte HEPA Filtration, um sehr feine Partikel, Gerüche und Gase zu reduzieren\n• App und Sprachsteuerung mit weiter Oszillation, ohne Montage einfach zwischen Räumen zu bewegen",
+        "cons_de": "Nachteile\n• Der hohe Turm passt eventuell nicht ideal in sehr kleine Räume oder zu einem sehr unauffälligen Look\n• Filter müssen regelmäßig ersetzt werden und für smarte Funktionen ist WLAN nötig, was für manche weniger praktisch ist"
     },
     {
         "slug": "shure-mv7-podcast-kit-microphone",
         "name": "Shure MV7+ Podcast Kit",
-        "specifications": null
+        "specifications": null,
+        "pros": "Pros\n• Dual USB C and XLR give easy plug and play now and a smooth upgrade path to an audio interface later\n• Dynamic voice isolation focuses on your voice and reduces room noise, great for home or shared spaces\n• Built in headphone jack with real time monitoring and app controls for quick sound tweaks",
+        "cons": "Cons\n• Works best when you speak close to the mic, so may not suit very casual distance use\n• Some users might prefer the brighter character of a condenser mic for airy vocals",
+        "pros_de": "Vorteile\n• USB C und XLR in einem ermöglichen einfachen Start jetzt und eine flexible Aufrüstung mit Audio Interface später\n• Dynamische Sprachisolation betont die Stimme und mindert Raumgeräusche, ideal für Zuhause oder geteilte Räume\n• Kopfhöreranschluss mit Echtzeit Monitoring und App Steuerung für schnelle Klanganpassungen",
+        "cons_de": "Nachteile\n• Klingt am besten bei kurzer Sprechdistanz und eignet sich daher weniger für sehr lockere Abstände\n• Manche Nutzer bevorzugen eventuell den helleren Klang eines Kondensatormikrofons"
     },
     {
         "slug": "samsung-monitor-samsung-viewfinity-s6u-34-ls34a650ubuxen",
@@ -16339,12 +16817,20 @@ const data = [
             "Reaktionszeit": "5ms",
             "Abmessungen und Gewicht": "80.6 x 23.4 x 55.3 cm • 5.1 kg",
             "High Dynamic Range (HDR)": "Yes"
-        }
+        },
+        "pros": "English\nPros\n• Spacious 34 inch ultrawide with 3440 x 1440 resolution makes multitasking smooth and can replace a dual monitor setup\n• USB C single cable connection with charging plus data and video keeps your desk clean and rental friendly\n• Height adjustable stand and eye comfort features support long work or study sessions",
+        "cons": "Cons\n• Refresh rate and response time may not suit fast paced or esports focused gaming\n• The extra wide format needs enough desk space to shine",
+        "pros_de": "Deutsch\nVorteile\n• Großzügiges 34 Zoll Ultrawide mit 3440 x 1440 Auflösung für flüssiges Multitasking und als Ersatz für zwei Monitore\n• USB C Ein Kabel Verbindung mit Laden sowie Daten und Video sorgt für einen aufgeräumten und mietfreundlichen Arbeitsplatz\n• Höhenverstellbarer Standfuß und augenschonende Funktionen unterstützen lange Arbeits oder Lernphasen",
+        "cons_de": "Nachteile\n• Bildwiederholrate und Reaktionszeit sind eventuell nicht ideal für sehr schnelle oder esports orientierte Spiele\n• Das extra breite Format benötigt ausreichend Platz auf dem Schreibtisch"
     },
     {
         "slug": "sonos-smart-speaker-sonos-five",
         "name": "Sonos Five",
-        "specifications": null
+        "specifications": null,
+        "pros": "Pros:\n• Rich detailed stereo sound with deep bass that easily fills a living room\n• Flexible for renters pair two for true stereo or plug in a turntable via line in and expand later with more Sonos speakers\n• Clean design and simple app control over Wi Fi with multiroom playback and AirPlay 2 support",
+        "cons": "Cons:\n• No Bluetooth and no built in voice control which may not suit casual portable use\n• Larger size and Trueplay tuning needs an iOS device so setup may feel less convenient for some",
+        "pros_de": "Vorteile:\n• Satter detailreicher Klang mit kräftigem Bass der ein Wohnzimmer mühelos füllt\n• Flexibel für Mieter als Stereopaar kombinierbar oder per Line In mit Plattenspieler nutzbar und später leicht mit weiteren Sonos Lautsprechern erweiterbar\n• Schlankes Design und einfache App Steuerung über WLAN mit Multiroom Wiedergabe und AirPlay 2",
+        "cons_de": "Nachteile:\n• Kein Bluetooth und keine integrierte Sprachsteuerung daher weniger geeignet für spontane mobile Nutzung\n• Relativ groß und Trueplay Tuning erfordert ein iOS Gerät was die Einrichtung für manche weniger bequem macht"
     },
     {
         "slug": "samsung-smartwatch-samsung-samsung-galaxy-watch6-aluminium-case-and-sport-band-44mm",
@@ -16361,7 +16847,11 @@ const data = [
             "Wasser-/Staubdicht": "5ATM / IP68 / MIL-STD-810H",
             "Lebensdauer der Batterie": "Bis zu 40 Stunden",
             "Globale Positionsbestimmung": "Galileo, GLONASS, GPS"
-        }
+        },
+        "pros": "English\nPros\n• Bright AMOLED display in a slim 44 mm design with a light aluminium case  \n• Advanced health and fitness tracking including heart rate and sleep insights with body composition on compatible Samsung phones  \n• Wear OS with smooth performance and lots of apps plus easy style swaps with bands and faces to keep your look fresh",
+        "cons": "Cons\n• Battery life is usually about one to two days depending on features like always on display and GPS  \n• Works best with Samsung and Android and is not compatible with iPhone",
+        "pros_de": "Deutsch\nVorteile\n• Helles AMOLED Display im schlanken 44 mm Format mit leichtem Aluminiumgehäuse  \n• Fortschrittliche Gesundheits und Fitnessfunktionen wie Herzfrequenz und Schlafanalyse sowie Körperzusammensetzung auf kompatiblen Samsung Smartphones  \n• Wear OS mit flüssiger Performance und vielen Apps plus einfache Personalisierung durch Zifferblätter und Armbänder",
+        "cons_de": "Nachteile\n• Akkulaufzeit meist etwa ein bis zwei Tage je nach Nutzung und aktivierten Funktionen wie Always On Display und GPS  \n• Beste Erfahrung mit Samsung und Android und nicht mit iPhone kompatibel"
     },
     {
         "slug": "apple-smartwatch-apple-watch-series-7-gps-cellular-aluminium-case-and-sport-band-41mm",
@@ -16378,7 +16868,11 @@ const data = [
             "Activity Tracking": "24/7 Herzfrequenz-Tracking; Schlaf-Tracking; Benachrichtigung bei unregelmäßiger + hoher oder niedriger Herzfrequenz; Kann Schwimmen, Laufen, Yoga, Radfahren und verschiedene andere Sport- und Fitness-Profile verfolgen; Blutsauerstoff-App; EKG-App",
             "Wasser-/Staubschutz": "Bis zu 5 ATM + staubgeschützt (IP6X)",
             "Globale Positionsbestimmung": "GPS, GLONASS"
-        }
+        },
+        "pros": "Pros\n• GPS and Cellular keeps you connected without your phone, great for runs and quick errands\n• Always On Retina display and fast performance feel modern and responsive\n• Great for renting try a cellular smartwatch without buying and upgrade or return when your needs change",
+        "cons": "Cons\n• Battery typically lasts about a day so nightly charging is expected\n• Cellular features require an eSIM plan which may add cost and depend on your carrier",
+        "pros_de": "Vorteile\n• GPS und Mobilfunk verbinden dich auch ohne iPhone ideal für Training und kurze Wege\n• Always On Retina Display und schnelle Performance wirken modern und reagieren zügig\n• Perfekt zum Mieten probiere eine Uhr mit Mobilfunk ohne Kauf und wechsle oder gib sie zurück wenn sich dein Bedarf ändert",
+        "cons_de": "Nachteile\n• Die Akkulaufzeit reicht meist für einen Tag daher ist Laden über Nacht üblich\n• Für Mobilfunk wird eine eSIM und ein Tarif deines Anbieters benötigt was zusätzliche Kosten verursachen kann"
     },
     {
         "slug": "oculus-virtual-reality-oculus-quest-2-256gb",
@@ -16398,7 +16892,11 @@ const data = [
             "Unterstützte Plattformen": "Plattformübergreifend",
             "Anzeigetyp, Objektiv und Auflösung": "Einzelne schnelle LCD-Schalter, 1832×1920px pro Auge, justierbar - 3 voreingestellte IPD-Einstellungen",
             "Controller Batterien enthalten (AA)": "Nein"
-        }
+        },
+        "pros": "Pros\n• All in one VR with no PC needed for most titles and roomy 256 GB for apps and games\n• Smooth visuals and reliable tracking plus optional PC connection for more advanced games\n• Smart rental choice to explore VR now and keep the freedom to upgrade later",
+        "cons": "Cons\n• Battery life may not suit very long sessions without a break\n• Not the newest model which some users might prefer if they want the absolute latest tech",
+        "pros_de": "Vorteile\n• Eigenständige VR ohne PC für die meisten Titel mit viel Speicher dank 256 GB\n• Flüssige Darstellung und stabiles Tracking bei Bedarf Verbindung zum PC für anspruchsvolle Games\n• Smarte Miet Option um VR jetzt zu testen und später flexibel aufzurüsten",
+        "cons_de": "Nachteile\n• Akkulaufzeit könnte für sehr lange Sessions nicht ausreichen\n• Nicht das neueste Modell was für Nutzer die das Allerneueste wollen wichtig sein kann"
     },
     {
         "slug": "asus-graphics-card-asus-rog-strix-rtx4060-o8g-gaming",
@@ -16407,7 +16905,11 @@ const data = [
             "Memory": "8GB (GDDR6)",
             "Dimensions": "31.1 x 13.3 x 6.2 cm • 1.06 kg",
             "Boost Clock Speed": "2670 Hz"
-        }
+        },
+        "pros": "English\nPros\n- Strong 1080p and capable 1440p gaming with DLSS 3 and ray tracing\n- Modern Nvidia features like AV1 encoding and Reflex for streaming and competitive play\n- Smart rental upgrade to refresh your rig without a big upfront cost",
+        "cons": "Cons\n- May not suit 4K or max settings in the newest titles\n- The ROG Strix card is sizable, so check case clearance and power connector compatibility before renting",
+        "pros_de": "Deutsch\nVorteile\n- Starke 1080p und solide 1440p Leistung mit DLSS 3 und Raytracing\n- Moderne Nvidia Features wie AV1 Encoding und Reflex für Streaming und kompetitives Spielen\n- Sinnvolles Miet Upgrade um deinen PC aufzufrischen ohne hohe Anschaffungskosten",
+        "cons_de": "Nachteile\n- Für 4K oder maximale Details in ganz neuen Titeln weniger geeignet\n- Das ROG Strix Modell ist recht groß daher am besten Gehäusefreiheit und Stromanschluss vor der Miete prüfen"
     },
     {
         "slug": "asus-monitor-asus-zenscreen-ink-mb14ahd-35-6cm-16-9-fhd-hdmi-14-90lm063v-b01170",
@@ -16419,7 +16921,11 @@ const data = [
             "Reaktionszeit": "5ms",
             "Abmessungen und Gewicht": "32.4 x 20.1 x 1.25 cm • 0.87 kg",
             "High Dynamic Range (HDR)": "No"
-        }
+        },
+        "pros": "Pros\n- Portable 14 inch touchscreen adds a flexible second screen for travel remote work or study\n- USB C and Micro HDMI offer quick plug and play with laptops tablets and consoles\n- Built in kickstand and tripod base plus auto rotation and an IPS panel for comfortable viewing in many setups",
+        "cons": "Cons\n- May not suit color critical or very detailed work compared to a larger brighter desktop monitor\n- For HDMI use you may need an extra cable and a suitable power source which some users might find less tidy",
+        "pros_de": "Vorteile\n- Tragbarer 14 Zoll Touchscreen als flexibler Zweitbildschirm für Reisen Homeoffice oder Studium\n- USB C und Micro HDMI ermöglichen schnelles Plug and Play mit Laptop Tablet und Konsole\n- Integrierter Kickstand und Stativbasis plus automatische Drehung und IPS Panel für bequemes Arbeiten in vielen Setups",
+        "cons_de": "Nachteile\n- Eignet sich eventuell weniger für farbkritische oder sehr detailreiche Aufgaben als ein größerer heller Desktop Monitor\n- Für die Nutzung über HDMI werden eventuell ein zusätzliches Kabel und eine passende Stromversorgung benötigt was etwas mehr Kabelmanagement bedeutet"
     },
     {
         "slug": "philips-tv-philips-43pus7608-12",
@@ -16437,7 +16943,11 @@ const data = [
             "HDR (High Dynamic Range)": "HDR10, HDR10+ compatible, Dolby Vision, HLG (Hybrid Log Gamma)",
             "Abmessungen mit Standfuß": "958.0 x 587.0 x 223.0 mm",
             "Abmessungen ohne Standfuß": "958.0 x 567.0 x 87.0 mm"
-        }
+        },
+        "pros": "English\nPros\n• 4K UHD clarity on a space friendly 43 inch screen great for apartments and bedrooms\n• Smart TV with ready to use streaming apps so you can start watching without extra devices\n• Easy setup plus multiple HDMI and USB ports for consoles and plug and play accessories",
+        "cons": "Cons\n• 60 Hz panel may not suit gamers who want very high frame rates\n• Built in speakers are modest some users might prefer a soundbar for fuller audio",
+        "pros_de": "Deutsch\nVorteile\n• 4K UHD Schärfe auf 43 Zoll kompakt und ideal für kleinere Räume oder Schlafzimmer\n• Smart TV mit sofort nutzbaren Streaming Apps kein extra Gerät nötig\n• Einfache Einrichtung sowie mehrere HDMI und USB Anschlüsse für Konsole und Zubehör",
+        "cons_de": "Nachteile\n• 60 Hz Display ist eventuell nicht ideal für Gaming mit sehr hohen Bildraten\n• Die eingebauten Lautsprecher sind solide manche Nutzer bevorzugen für kräftigeren Klang eine Soundbar"
     },
     {
         "slug": "apple-watch-se-gps-aluminium-case-and-sport-band-40mm",
@@ -16453,7 +16963,11 @@ const data = [
             "Activity Tracking": "Kontinuierliche Herzfrequenz Tracking, Multisport-Workouts, Schwimmen, Laufen, Yoga, Radfahren und verschiedene andere Sportarten",
             "Wasser /Staubdicht": "Bis zu 5ATM",
             "Globale Positionsbestimmung": "Galileo, GLONASS, GPS"
-        }
+        },
+        "pros": "English\nPros\n• Lightweight aluminum design with a modern look and comfortable 40 mm size\n• Reliable fitness tracking with activity rings heart rate and swim ready water resistance\n• Stay connected with notifications calls and Apple Pay when your iPhone is nearby plus flexible monthly rental and easy upgrades",
+        "cons": "Cons\n• GPS model may not suit those who want standalone calling without an iPhone\n• Battery typically needs daily charging which some users might find limiting on very long days",
+        "pros_de": "Deutsch\nVorteile\n• Leichtes Aluminiumgehäuse mit modernem Look und angenehmer 40 mm Größe\n• Zuverlässiges Fitness und Aktivitätstracking mit Herzfrequenz und schwimmtauglicher Wasserfestigkeit\n• Smarte Alltagsfunktionen wie Mitteilungen Anrufe und Apple Pay dazu flexible monatliche Miete und einfache Upgrades",
+        "cons_de": "Nachteile\n• GPS Variante eignet sich weniger für alle die ohne iPhone telefonieren möchten\n• Der Akku muss meist täglich geladen werden was an sehr langen Tagen unpraktisch sein kann"
     },
     {
         "slug": "sony-tv-xr48a90kaep",
@@ -16471,7 +16985,11 @@ const data = [
             "HDR (High Dynamic Range)": "HDR10, Hybrid Log Gamma (HLG), Dolby Vision",
             "Abmessungen mit Standfuß": "1069mm / 629mm / 225mm",
             "Abmessungen ohne Standfuß": "1069mm / 624mm / 59mm"
-        }
+        },
+        "pros": "Pros:\n• OLED picture with deep blacks vibrant colors and XR processing for cinematic movies and smooth gaming up to 120 Hz with HDMI 2.1 features like VRR and ALLM\n• Compact 48 inch size fits apartments and bedrooms while still delivering premium 4K HDR\n• Google TV with built in Chromecast and voice control makes streaming and setup easy without extra gear",
+        "cons": "Cons:\n• 48 inch may feel small for very large living rooms or long seating distances\n• Some users might prefer extra brightness for very sunny rooms",
+        "pros_de": "Vorteile:\n• OLED Bild mit tiefem Schwarz lebendigen Farben und XR Prozessor für ein Kinoerlebnis und flüssiges Gaming mit bis zu 120 Hz sowie HDMI 2.1 Funktionen wie VRR und ALLM\n• Kompakte 48 Zoll Größe passt gut in Wohnungen und Schlafzimmer und liefert dennoch erstklassiges 4K HDR\n• Google TV mit integriertem Chromecast und Sprachsteuerung macht Streaming und Einrichtung ohne zusätzliches Zubehör einfach",
+        "cons_de": "Nachteile:\n• 48 Zoll kann bei sehr großer Sitzdistanz etwas klein wirken\n• Für sehr helle Räume wünschen sich manche Nutzer eventuell mehr Spitzenhelligkeit"
     },
     {
         "slug": "denon-dj-sc-live-4-dj-studio-equipment",
@@ -16484,7 +17002,11 @@ const data = [
             "Anzahl der Kanäle": "4-Kanal",
             "Besondere Merkmale": "Die Integration des SC LIVE 4 in Amazon Music Unlimited und andere beliebte Streaming-Dienste bietet DJs sofortigen Zugriff auf über 100 Millionen Songs in CD-Qualität aus allen Musikrichtungen. Der SC LIVE 4 verfügt über integriertes Wi-Fi und eine blitzschnelle Onboard-Song-Analyse und wird von Engine DJ betrieben, dem gleichen führenden Standalone-DJ-Betriebssystem, das auch für Laptop-freie Auftritte sorgt. Die leistungsstarken, integrierten Lautsprecher bieten die perfekte Soundlösung für Livestreaming, Üben, Content-Erstellung und persönliches Monitoring während Live-Shows. Der dedizierte Lautstärkeregler und der Ein-/Ausschalter bieten volle Kontrolle, um den Anforderungen jedes Gigs gerecht zu werden.",
             "Im Lieferumfang enthalten": "Netzgerät, USB-Kabel, Display-Reinigungstuch"
-        }
+        },
+        "pros": "Pros\n• Standalone 4 channel performance with Engine DJ lets you play without a laptop\n• Built in WiFi streaming for major platforms keeps your library fresh and flexible\n• Integrated speakers and compact footprint make practice and pop up sets simple",
+        "cons": "Cons\n• Built in speakers are best for practice and small rooms rather than full venues\n• Some users might find it a bit bulky for very portable travel setups",
+        "pros_de": "Vorteile\n• Standalone 4 Kanal Performance mit Engine DJ, Mixen ohne Laptop\n• Integriertes WLAN Streaming für große Plattformen hält deine Musik aktuell und flexibel\n• Eingebaute Lautsprecher und kompaktes Format für unkompliziertes Üben und spontane Sessions",
+        "cons_de": "Nachteile\n• Die eingebauten Lautsprecher eignen sich eher für Proberaum und kleinere Räume als für große Locations\n• Für sehr mobile Setups finden manche es etwas sperrig"
     },
     {
         "slug": "samsung-tablet-galaxy-tab-s8-5g-256gb",
@@ -16500,7 +17022,11 @@ const data = [
             "Rückkamera": "13MP + 6MP Ultrawide",
             "Betriebssystem": "Android 12",
             "Konnektivität": "5G"
-        }
+        },
+        "pros": "Pros EN\n- Large 12.4 inch Super AMOLED display with 120 Hz is great for streaming gaming and creative work\n- Fast Snapdragon 8 Gen 1 and 256 GB storage keep apps responsive and multitasking smooth including Samsung DeX for a desk like setup\n- 5G connectivity gives flexible on the go use without relying on public Wi Fi",
+        "cons": "Cons EN\n- The 12.4 inch size may not suit one handed use or very light travel\n- Some Android tablet apps are still more polished on phones or laptops",
+        "pros_de": "Vorteile DE\n- Großes 12,4 Zoll Super AMOLED Display mit 120 Hz ideal zum Streamen Gaming und kreativen Arbeiten\n- Schneller Snapdragon 8 Gen 1 und 256 GB Speicher für flüssiges Multitasking inklusive Samsung DeX für ein arbeitsfreundliches Setup\n- 5G Mobilfunk für flexible Nutzung unterwegs ohne fremdes WLAN",
+        "cons_de": "Nachteile DE\n- Das 12,4 Zoll Format ist recht groß und weniger geeignet für Bedienung mit einer Hand oder sehr kompaktes Reisen\n- Manche Android Apps sind auf Laptop oder Smartphone noch besser angepasst"
     },
     {
         "slug": "sonos-roam-portable-bluetooth-speaker",
@@ -16515,7 +17041,11 @@ const data = [
             " Technologies ": " Sprachkontrolle mit Alexa, Google Assistant, Airplay 2 , App Controllable ",
             " Verbindungen ": " USB-C ",
             " Special Features ": " Smart Design. Dank des Trueplay ™ Tuning passt sich das Roam automatisch an Ihre Umgebung und die gespielten Inhalte an und liefert erstaunlich klare, perfekt ausgewogen über WiFi und Bluetooth. "
-        }
+        },
+        "pros": "English\nPros\n- Delivers rich sound for its size with auto tuning that adapts to your space\n- WiFi and Bluetooth give you flexible use at home or on the go and it can join a Sonos setup or play solo on trips\n- IP67 water and dust resistance for worry light indoor and outdoor listening",
+        "cons": "Cons\n- Battery life around 10 hours may not suit very long days without charging\n- Full features shine with WiFi and the Sonos app which some users might find a bit more to set up at first",
+        "pros_de": "Deutsch\nVorteile\n- Kräftiger Klang für die kompakte Größe mit automatischer Anpassung an die Umgebung\n- WLAN und Bluetooth für flexible Nutzung zu Hause und unterwegs kann Teil eines Sonos Setups sein oder alleine auf Reisen spielen\n- IP67 Schutz gegen Wasser und Staub für sorgloses Hören drinnen und draußen",
+        "cons_de": "Nachteile\n- Akkulaufzeit von etwa 10 Stunden eignet sich eventuell nicht für sehr lange Tage ohne Nachladen\n- Die besten Funktionen kommen mit WLAN und der Sonos App zur Geltung was für manche anfangs etwas mehr Einrichtung bedeutet"
     },
     {
         "slug": "jbl-partybox-encore",
@@ -16530,7 +17060,11 @@ const data = [
             "Widerstandsfähigkeit": "IPX4 spritzwassergeschützt",
             "Anschlussmöglichkeiten": "Bluetooth® drahtloses Streaming V5.1, USB, Aux-Eingang",
             "Intelligente Funktionen": "JBL PartyBox-App"
-        }
+        },
+        "pros": "Pros\n• Powerful party sound with punchy bass for house parties or backyard hangouts\n• Portable design with carry handle and splash resistant build for flexible indoor and outdoor use\n• Dynamic light show and quick Bluetooth pairing to set the mood fast",
+        "cons": "Cons\n• Larger and heavier than a regular speaker, may not suit very small rooms or travel\n• Battery playtime varies with volume and lights, frequent high volume use may require charging between events",
+        "pros_de": "Vorteile\n• Kräftiger Partysound mit sattem Bass für Wohnung oder Garten\n• Tragbar mit Tragegriff und spritzwassergeschütztem Design für flexible Nutzung drinnen und draußen\n• Dynamische Lichtshow und schnelle Bluetooth Kopplung für sofortige Stimmung",
+        "cons_de": "Nachteile\n• Größer und schwerer als ein normaler Bluetooth Lautsprecher, passt eventuell nicht in sehr kleine Räume oder für Reisen\n• Die Akkulaufzeit variiert je nach Lautstärke und Lichtshow, bei häufig hoher Lautstärke kann früheres Nachladen nötig sein"
     },
     {
         "slug": "apple-macbook-pro-14-m4-pro-12cpu-24gb-512gb-16gpu-eng",
@@ -16544,12 +17078,20 @@ const data = [
             "Abmessungen": "22,12 x 31,26 x 1,55 cm - 1,61 kg",
             "Betriebssystem": "macOS",
             "Tastatursprache": "Englisch"
-        }
+        },
+        "pros": "Pros\n• M4 Pro chip and 24 GB memory deliver fast performance for video editing coding music production and design  \n• 16 core integrated GPU supports smooth timelines and accelerated creative workflows  \n• Renting gives you high end power without a big upfront cost and makes upgrades easy as your needs change",
+        "cons": "Cons\n• 512 GB SSD may not suit very large media libraries consider cloud or external storage  \n• For the most demanding 3D or machine learning tasks some users might prefer a higher tier configuration",
+        "pros_de": "Vorteile\n• M4 Pro Chip und 24 GB Arbeitsspeicher bieten starke Leistung für Video Schnitt Coding Musikproduktion und Design  \n• 16 Core integrierte Grafik sorgt für flüssige Timelines und schnelle Kreativ Workflows  \n• Als Miete nutzbar ohne hohe Anschaffungskosten und mit einfacher Option zum Upgrade wenn sich Anforderungen ändern",
+        "cons_de": "Nachteile\n• Die 512 GB SSD kann für sehr große Medienprojekte knapp sein externer oder Cloud Speicher ist eine gute Ergänzung  \n• Für extrem anspruchsvolle 3D oder Machine Learning Aufgaben könnten einige Nutzer eine stärkere Konfiguration bevorzugen"
     },
     {
         "slug": "denon-dj-prime-4-special-edition-dj-controller",
         "name": "Denon Dj Prime 4+ Special Edition DJ Controller",
-        "specifications": null
+        "specifications": null,
+        "pros": "Pros\n• Standalone four deck performance with a large touch screen so you can mix without a laptop and set up fast\n• Real time Stems separation for creative mashups and modern transitions\n• Flexible music access via USB SD optional internal drive and WiFi streaming for instant sets",
+        "cons": "Cons\n• Bigger and heavier than compact controllers which may not suit very small spaces or frequent travel\n• Requires external speakers and a PA",
+        "pros_de": "Vorteile\n• Standalone Performance mit vier Decks und großem Touchscreen, ganz ohne Laptop und mit schneller Einrichtung\n• Stems Trennung in Echtzeit für kreative Mashups und moderne Übergänge\n• Flexible Musikauswahl über USB SD optionalen internen Speicher und WLAN Streaming für spontane Sets",
+        "cons_de": "Nachteile\n• Größer und schwerer als kompakte Controller und daher eventuell weniger ideal für sehr kleine Setups oder häufiges Reisen\n• Benötigt externe Lautsprecher und Anlage"
     },
     {
         "slug": "google-smartphone-google-pixel-9-12gb-128gb",
@@ -16565,7 +17107,11 @@ const data = [
             "Rückkamera": "50MP + 48MP",
             "Betriebssystem": "Android 14",
             "Konnektivität": "5G"
-        }
+        },
+        "pros": "English\nPros\n• Fast performance and a dependable camera for crisp everyday photos and video\n• Latest Google software with direct updates keeps it secure and fresh during your rental\n• Dual SIM flexibility and 128GB storage suit travel work and daily life and you can upgrade easily when your needs change",
+        "cons": "Cons\n• 128GB may not suit users who store many 4K videos or large games\n• Battery life can vary with 5G streaming and frequent camera use",
+        "pros_de": "Deutsch\nVorteile\n• Schnelle Performance und eine zuverlässige Kamera für klare Fotos und Videos im Alltag\n• Aktuelle Google Software mit direkten Updates hält es während der Mietdauer sicher und frisch\n• Dual SIM Flexibilität und 128GB passen zu Reisen Arbeit und Alltag und du kannst unkompliziert upgraden wenn sich deine Bedürfnisse ändern",
+        "cons_de": "Nachteile\n• 128GB könnten für sehr viele 4K Videos oder große Spiele knapp sein\n• Die Akkulaufzeit kann je nach Nutzung von 5G Streaming und Kamera spürbar variieren"
     },
     {
         "slug": "ddj400-dj-controller",
@@ -16577,7 +17123,11 @@ const data = [
             "Bluetooth": "Nein",
             "Anschlüsse": "1x Mikrofoneingang (6,3-mm-Klinke), 1x USB B, 1x Cinch-Ausgang, 1x Kopfhörer / Monitorausgang",
             "Besondere Merkmale": "2-Kanal-DJ-Controller DDJ-400 für Recordbox-DJ, benutzerdefinierte Cue-Tasten, Beat FX, CDJ-Style-Regler und mehr."
-        }
+        },
+        "pros": "English\nPros:\n• Club style layout similar to Pioneer club mixers and players helps you learn skills that transfer to real booths\n• Compact and light with USB power easy to set up at home or bring to practice and small gigs\n• Seamless Rekordbox integration with helpful tutorials and performance pads great for leveling up quickly while renting",
+        "cons": "Cons:\n• Two channel design may not suit advanced multi deck or external gear setups\n• Smaller jog wheels and a plastic build can feel different from full size club gear",
+        "pros_de": "Deutsch\nVorteile:\n• Layout nah am Club Standard erleichtert den Umstieg auf echte Booths\n• Kompakt und leicht mit Strom über USB schnell zu Hause eingerichtet und einfach mitzunehmen\n• Enge Rekordbox Einbindung mit Lernfunktionen und Performance Pads gut um während der Miete zügig Fortschritte zu machen",
+        "cons_de": "Nachteile:\n• Zwei Kanäle könnten für Setups mit mehreren Decks nicht ausreichen\n• Kleinere Jog Wheels und ein Kunststoff Gehäuse fühlen sich anders an als Club Hardware"
     },
     {
         "slug": "apple-smartphone-iphone-se-2022-4gb-128gb",
@@ -16593,7 +17143,11 @@ const data = [
             "Rückkamera": "12MP",
             "Betriebssystem": "iOS 15.4",
             "Konnektivität": "5G"
-        }
+        },
+        "pros": "English\nPros\n• Fast A15 performance with 5G and long iOS support keeps it current during your rental\n• Compact one hand design with Touch ID for quick and secure access\n• Dual SIM with eSIM and 128 GB storage gives flexibility for travel and work",
+        "cons": "Cons\n• Small display may not suit heavy media viewing or long gaming sessions\n• Single rear camera is solid but less versatile than phones with several lenses",
+        "pros_de": "Deutsch\nVorteile\n• Schnelle A15 Leistung mit 5G und langer iOS Unterstützung hält das Gerät während der Mietdauer aktuell\n• Kompaktes Format mit Einhandbedienung und Touch ID für schnellen und sicheren Zugriff\n• Dual SIM mit eSIM und 128 GB Speicher bietet Flexibilität auf Reisen und im Alltag",
+        "cons_de": "Nachteile\n• Kleineres Display eignet sich eventuell weniger für viel Video oder langes Gaming\n• Einzelne Hauptkamera ist gut, aber weniger vielseitig als Smartphones mit mehreren Linsen"
     },
     {
         "slug": "apple-smart-speaker-apple-homepod-mini",
@@ -16607,7 +17161,11 @@ const data = [
             "Besondere Merkmale": "Siri Smart Assistant, Smart Home-Steuerung mit Home App und HomeKit, raumfüllender Sound mit 360 ° -Audio, Touch Oberfläche sorgen für schnelle und einfache Bedienung, nahtlose Verbindung mit Apple Geräten, Intercom ermöglicht die einfache Kommunikation mit anderen Familienmitgliedern",
             "Systemvoraussetzungen": "802.11n WLAN Internetzugang, iPhone SE, iPhone 6s oder neuer oder iPod touch (7. Generation) mit der neuesten Version von iOS oder iPad Pro, iPad (5. Generation oder neuer), iPad Air 2 oder neuer oder iPad mini 4 oder neuer mit der neuesten Version von iPadOS",
             "Drahtlose Technologien": "802.11n WLAN, Direkter Gastzugriff, Bluetooth 5.0, Multiroom Audio mit AirPlay 2, unterstützt Thread (auf HomeKit-Geräte)"
-        }
+        },
+        "pros": "English\nPros\n• Compact 360 degree sound that fits small rooms and apartments\n• Seamless with Apple devices Siri control AirPlay 2 multi room and quick handoff from iPhone\n• Great rental choice to try a smart speaker with low commitment and easy setup",
+        "cons": "Cons\n• Works best with Apple devices so may not suit Android first homes\n• Not battery powered so placement can be less flexible",
+        "pros_de": "Deutsch\nVorteile\n• Kompakter Lautsprecher mit 360 Grad Klang ideal für kleine Räume und Wohnungen\n• Nahtlose Nutzung mit Apple Geräten Siri Steuerung AirPlay 2 Multiroom und schnelles Handoff vom iPhone\n• Gute Mietoption um einen Smart Speaker mit wenig Bindung auszuprobieren",
+        "cons_de": "Nachteile\n• Entfaltet seine Stärken vor allem mit Apple Geräten kann für Android Haushalte weniger passend sein\n• Kein Akku daher ist die Platzierung nicht immer ganz flexibel"
     },
     {
         "slug": "samsung-tv-samsung-gu75bu8079uxzg",
@@ -16625,7 +17183,11 @@ const data = [
             "HDR (High Dynamic Range)": "HDR",
             "Abmessungen mit Standfuß": "167,7 x 100,5 x 34 cm",
             "Abmessungen ohne Standfuß": "167,7 x 96 x 2,6 cm"
-        }
+        },
+        "pros": "Pros\n• Big 75 inch screen delivers immersive 4K clarity for movies sports and gaming\n• Slim modern design and easy smart TV setup with popular streaming apps\n• Flexible to rent so you can enjoy a cinematic upgrade without long commitment",
+        "cons": "Cons\n• Very large size may not suit compact rooms or short viewing distances\n• Built in speakers are fine for everyday use but movie fans might prefer adding a soundbar",
+        "pros_de": "Vorteile\n• Riesiges 75 Zoll Bild mit klarer 4K Darstellung für Filme Sport und Gaming\n• Schlankes modernes Design und einfache Smart TV Einrichtung mit beliebten Streaming Apps\n• Flexibel zur Miete ideal für ein Kino Upgrade ohne lange Bindung",
+        "cons_de": "Nachteile\n• Die große Diagonale passt eventuell nicht gut in kleine Räume oder bei kurzer Sitzentfernung\n• Die integrierten Lautsprecher sind im Alltag solide aber Filmfans möchten eventuell eine Soundbar ergänzen"
     },
     {
         "slug": "google-smartphone-pixel-7-pro-12gb-128gb",
@@ -16641,7 +17203,11 @@ const data = [
             "Rückkamera": "50MP+48MP+12MP",
             "Betriebssystem": "Android 13",
             "Konnektivität": "5G"
-        }
+        },
+        "pros": "Pros\n• Flagship camera with sharp photos and great low light performance for social content and travel\n• Smooth performance from Google Tensor G2 and a bright 120 Hz display for gaming and streaming\n• Dual SIM makes it easy to juggle work and travel lines while renting without long term commitment",
+        "cons": "Cons\n• Large and premium feel may not suit fans of compact phones\n• Fixed 128 GB storage can feel tight for heavy video creators",
+        "pros_de": "Vorteile\n• Spitzenkamera mit scharfen Fotos und starker Leistung bei wenig Licht ideal für Social Media und Reisen\n• Flüssige Performance durch Google Tensor G2 und helles 120 Hz Display für Gaming und Streaming\n• Dual SIM macht den Wechsel zwischen Arbeit und Reisen einfach und passt gut zum flexiblen Mieten ohne Langzeitbindung",
+        "cons_de": "Nachteile\n• Großes Format passt eventuell nicht zu Fans sehr handlicher Geräte\n• Fester Speicher mit 128 GB kann für sehr viele Videos knapp sein"
     },
     {
         "slug": "samsung-monitor-samsung-odyssey-g5-g55c-32-ls32cg554euxen",
@@ -16653,7 +17219,11 @@ const data = [
             "Reaktionszeit": "1ms",
             "Abmessungen und Gewicht": "79 x 49 x 20 cm • 7.3 kg",
             "High Dynamic Range (HDR)": "Yes"
-        }
+        },
+        "pros": "Pros\n• Immersive 32 inch curved QHD screen that makes games and films engaging and gives ample space for multitasking\n• High refresh rate with fast response and Adaptive Sync for smooth motion with fewer tearing artifacts\n• Trend forward monitor you can try short term to see if a curved setup fits your space and style",
+        "cons": "Cons\n• The pronounced curve and large footprint may not suit small desks or users who prefer a flat screen\n• Running QHD at high frame rates can require a capable graphics card",
+        "pros_de": "Vorteile\n• Immersives 32 Zoll Curved QHD Display für Gaming und viel Platz beim Multitasking\n• Hohe Bildwiederholrate mit schneller Reaktionszeit und Adaptive Sync für flüssige Bewegungen mit weniger Tearing\n• Moderne Wahl zum kurzfristigen Ausprobieren eines Curved Setups passend zu Raum und Stil",
+        "cons_de": "Nachteile\n• Die starke Krümmung und die Größe passen eventuell nicht zu kleinen Schreibtischen oder zu Fans flacher Displays\n• Für QHD mit hoher Bildrate wird unter Umständen eine leistungsstarke Grafikkarte benötigt"
     },
     {
         "slug": "apple-smartphone-iphone-se-64gb-2020",
@@ -16669,7 +17239,11 @@ const data = [
             "Rückkamera": "12mp",
             "Betriebssystem": "iOS 14",
             "Konnektivität": "4G"
-        }
+        },
+        "pros": "Pros\n• Fast A13 Bionic performance keeps everyday use smooth\n• Rent it to enjoy iPhone at a low monthly cost with easy upgrade options\n• Dual SIM with eSIM is great for travel or splitting work and personal",
+        "cons": "Cons\n• Smaller display may not suit heavy gaming or long movie sessions\n• 64 GB storage might feel tight if you keep lots of videos and large apps",
+        "pros_de": "Vorteile\n• Schnelle A13 Bionic Performance für einen flüssigen Alltag\n• Miete statt Kauf genieße das iPhone zu einem niedrigen Monatspreis und wechsle bei Bedarf unkompliziert auf ein neues Modell\n• Dual SIM mit eSIM ist ideal für Reisen oder um Job und Privat zu trennen",
+        "cons_de": "Nachteile\n• Das kleinere Display eignet sich weniger für intensives Gaming oder lange Filmabende\n• 64 GB Speicher kann knapp werden wenn du viele Videos und große Apps behältst"
     },
     {
         "slug": "philips-tv-philips-50pus7607-12",
@@ -16687,12 +17261,20 @@ const data = [
             "HDR (High Dynamic Range)": "HDR10+ compatible",
             "Abmessungen mit Standfuß": "1111.3 x 673.9 x 246.8 mm",
             "Abmessungen ohne Standfuß": "1111.3 x 654.4 x 85.3 mm"
-        }
+        },
+        "pros": "EN\nPros\n• 50 inch 4K UHD picture for sharp movies sports and games\n• Smart TV with popular streaming apps so setup is quick and renter friendly\n• Plenty of ports for consoles and devices to keep your setup flexible",
+        "cons": "Cons\n• 60 Hertz refresh rate may not suit competitive gamers\n• Built in speakers are basic and some users might prefer a soundbar",
+        "pros_de": "DE\nVorteile\n• 50 Zoll 4K UHD Bild für klare Filme Sport und Gaming\n• Smart TV mit beliebten Streaming Apps daher schneller Start und einfache Einrichtung\n• Viele Anschlüsse für Konsole und Geräte für eine flexible Nutzung in der Miete",
+        "cons_de": "Nachteile\n• 60 Hertz Bildwiederholrate eignet sich weniger für sehr ambitioniertes Gaming\n• Die eingebauten Lautsprecher sind schlicht manche Nutzer bevorzugen eine Soundbar"
     },
     {
         "slug": "numark-mixstream-pro-dj-controller",
         "name": "Numark Mixstream Pro+ DJ Controller",
-        "specifications": null
+        "specifications": null,
+        "pros": "Pros\n- Standalone mixing with WiFi streaming and a large touch screen so you can play without a laptop\n- Built in speakers for instant practice and house parties plus USB and SD support for easy music access\n- Works with popular DJ software when you want a laptop workflow and offers smart lighting control for a modern setup",
+        "cons": "Cons\n- Built in speakers are for small rooms and may not suit larger spaces or live gigs\n- Jog wheel size and layout differ from typical club gear which some users might find less familiar",
+        "pros_de": "Vorteile\n- Standalone Nutzung mit WLAN Streaming und großem Touchscreen, kein Laptop nötig\n- Eingebaute Lautsprecher für sofortiges Üben und kleine Partys plus USB und SD Unterstützung für einfachen Musikzugang\n- Funktioniert auf Wunsch mit gängiger DJ Software und bietet smarte Lichtsteuerung für ein modernes Setup",
+        "cons_de": "Nachteile\n- Eingebaute Lautsprecher sind eher für kleine Räume und eignen sich weniger für große Events\n- Jogwheels und Layout unterscheiden sich von typischem Club Equipment was manchen weniger vertraut sein kann"
     },
     {
         "slug": "thrustmaster-t300-ferrari-integral-racing-wheel-alcantara-edition-with-3-pedal-set",
@@ -16710,7 +17292,11 @@ const data = [
             "Offizielle Ferrari-Lizenz": "Mit Ferraris Logo und Designelementen für ein authentisches Erlebnis gebrandet",
             "Plattform-Kompatibilität": "PlayStation 3, PlayStation 4, PC",
             "Lenkrad Tasten & Steuerung": "13 Aktionstasten, einschließlich D-Pad und +/− Tasten für verschiedene Spielsteuerungen"
-        }
+        },
+        "pros": "English\nPros\n• Realistic driving feel with smooth responsive force feedback from a brushless motor\n• Up to 1080 degree rotation and accurate belt drive for precise control across many racing games\n• Detachable Ferrari wheel and support for PlayStation and PC make it easy to set up and upgrade during your rental",
+        "cons": "Cons\n• Works best on a sturdy desk or dedicated stand due to strong force feedback\n• The included two pedal set may feel basic for drivers who want a firmer brake feel",
+        "pros_de": "\nDeutsch\nVorteile\n• Realistisches Fahrgefühl dank sanftem und reaktionsschnellem Force Feedback mit bürstenlosem Motor\n• Bis zu 1080 Grad Lenkwinkel und präziser Riemenantrieb für exakte Kontrolle in vielen Rennspielen\n• Abnehmbares Ferrari Lenkrad und Unterstützung für PlayStation und PC erleichtern Einrichtung und spätere Upgrades während der Miete",
+        "cons_de": "Nachteile\n• Funktioniert am besten auf einem stabilen Tisch oder einem eigenen Stand wegen der kräftigen Force Feedback Kräfte\n• Das Pedal Set mit zwei Pedalen kann für Fahrer die ein festeres Bremsgefühl suchen eher einfach wirken"
     },
     {
         "slug": "ps4-pro-3291",
@@ -16723,7 +17309,11 @@ const data = [
             "Speicherkapazität": "1TB",
             "Eingangs- und Ausgangs": "Super-Speed ​​USB (USB 3.1 Gen.1) Port × 3, AUX-Anschluss × 1",
             "Abmessungen und Gewicht": "295 × 55 × 327, 3,3 kg"
-        }
+        },
+        "pros": "English\nPros\n• Enhanced performance for smoother gameplay and improved visuals in many PS4 titles\n• 4K and HDR support on compatible TVs for crisp picture and richer colors\n• Great value to access a huge PS4 library and popular streaming apps with flexible rental instead of buying",
+        "cons": "Cons\n• Not the newest generation so may not suit players who want PS5 only features\n• Many games do not run in native 4K and use upscaling",
+        "pros_de": "Deutsch\nVorteile\n• Mehr Leistung für flüssigeres Gameplay und bessere Grafik in vielen PS4 Spielen\n• 4K und HDR Unterstützung auf kompatiblen TVs für ein scharfes Bild und kräftige Farben\n• Attraktiver Einstieg in die große PS4 Spielebibliothek und beliebte Streaming Apps mit flexibler Miete statt Kauf",
+        "cons_de": "Nachteile\n• Nicht die neueste Generation daher eventuell nicht ideal für alle die PS5 exklusive Funktionen möchten\n• Viele Spiele laufen nicht in nativem 4K sondern mit Upscaling"
     },
     {
         "slug": "sonos-one-gen2",
@@ -16732,7 +17322,11 @@ const data = [
             "Produkttyp": "Tragbare Lautsprecher",
             "Anschlüsse": "WLAN, Kabelverbindung",
             "Abmessungen und Gewicht": "11.9 cm x 11.9 cm x 16.1 cm, 1.85 kg"
-        }
+        },
+        "pros": "English\nPros\n- Rich room filling sound in a compact size\n- Easy multi room setup over WiFi with AirPlay 2 and voice control\n- Great rental pick to try smart home audio now and expand later with more Sonos speakers or surround use",
+        "cons": "Cons\n- Not portable and needs constant power so may not suit on the go listening\n- Music streaming over Bluetooth is not supported which some users might prefer",
+        "pros_de": "Deutsch\nVorteile\n- Satter raumfüllender Klang bei kompakter Größe\n- Einfache Multiroom Einrichtung über WLAN mit AirPlay 2 und Sprachsteuerung\n- Ideal zur Miete um smarte Musik zuhause auszuprobieren und später flexibel mit weiteren Sonos Lautsprechern oder als Surround zu erweitern",
+        "cons_de": "Nachteile\n- Nicht tragbar und benötigt eine Steckdose daher weniger geeignet für unterwegs\n- Bluetooth Streaming für Musik ist nicht verfügbar was manche Nutzer bevorzugen"
     },
     {
         "slug": "nikon-z-50mm-f-1-8-s",
@@ -16748,7 +17342,11 @@ const data = [
             "Filtergröße": "62 mm",
             "Bildstabilisator": "Nein",
             "Format des Objektivs": "Vollformat"
-        }
+        },
+        "pros": "Pros\n• Bright f/1.8 aperture for low light and smooth background blur, ideal for portraits video and content\n• Fast quiet autofocus with excellent sharpness for professional looking results\n• Versatile 50 mm prime that stays compact and reliable, a smart rental pick for trips events and short projects",
+        "cons": "Cons\n• Fixed focal length may not suit users who need zoom flexibility in one lens\n• No optical stabilization, works best with a Nikon Z body that has in body stabilization",
+        "pros_de": "Vorteile\n• Lichtstarke f/1.8 Blende für wenig Licht und sanftes Bokeh, ideal für Porträts Video und Content\n• Schneller leiser Autofokus mit sehr hoher Schärfe für Ergebnisse mit Profi Look\n• Vielseitige 50 mm Festbrennweite, kompakt und zuverlässig, eine clevere Miet Option für Reisen Events und kurze Projekte",
+        "cons_de": "Nachteile\n• Feste Brennweite passt nicht, wenn du Zoom Flexibilität in einer einzigen Linse brauchst\n• Keine optische Stabilisierung, funktioniert am besten mit Nikon Z Kameras mit Stabilisierung im Gehäuse"
     },
     {
         "slug": "boox-e-reader-note-air-3-c-4gb-64gb",
@@ -16761,7 +17359,11 @@ const data = [
             "Processor": "Qualcomm 8-core, 2,4 GHz",
             "Dimensions": "18.1 x 16 x 7.6 cm (0.23kg)",
             "Operating System": "Android"
-        }
+        },
+        "pros": "English\nPros\n- Color ePaper display that is easy on the eyes, great for textbooks comics and planners\n- Open Android support for popular reading PDF and note apps, giving you flexible workflows\n- Great rental fit, explore digital note taking and color ePaper without a long commitment",
+        "cons": "Cons\n- Color ePaper is subtler than LCD or OLED, some users might find colors less vibrant for media heavy content\n- 4 GB RAM and 64 GB storage may not suit very large PDF libraries or heavy multitasking",
+        "pros_de": "Deutsch\nVorteile\n- Farbiges E Paper Display ist augenschonend, ideal für Lehrbücher Comics und Planer\n- Unterstützt Android Apps für Lesen PDF und Notizen, hohe Flexibilität für deinen Workflow\n- Ideal zur Miete, du kannst digitales Schreiben und Farb E Paper ohne lange Bindung ausprobieren",
+        "cons_de": "Nachteile\n- Farben wirken dezenter als bei LCD oder OLED, kann für bildlastige Inhalte weniger geeignet sein\n- 4 GB RAM und 64 GB Speicher sind für sehr große PDF Bibliotheken oder starkes Multitasking eventuell knapp"
     },
     {
         "slug": "fitbit-sense-2-aluminium-case-and-silicone-band",
@@ -16779,7 +17381,11 @@ const data = [
             "Global Positioning": "GPS + GLONASS",
             "Wasser-/Staubdicht": "Bis zu 5 ATM",
             "Aktivitätsverfolgung": "24/7 Herzfrequenz- und Aktivzonenminuten, 40+ Trainingsmodi, Sport- und Workout-Tracking, Pace- & Distanz-Tracking bei Outdoor-Übungen, Schlaf-Index, Ganztägiges Aktivitäts-Tracking wie Schritte, Distanz, aktive Minuten und Kalorien, Blutsauerstoff"
-        }
+        },
+        "pros": "English\nPros\n- Advanced health tracking including stress management heart rate and sleep insights lets you try premium wellness features before you commit\n- Lightweight aluminium case with a compact 40 mm design is comfortable for day and night wear\n- Long battery life up to several days with quick charging fits flexible rental use and busy schedules",
+        "cons": "Cons\n- App selection is more limited than on some other smartwatches\n- The 40 mm size may feel small if you prefer a larger display",
+        "pros_de": "Deutsch\nVorteile\n- Fortschrittliches Gesundheits Tracking mit Stressmanagement Herzfrequenz und Schlafanalyse ideal zum Ausprobieren ohne Kaufbindung\n- Leichtes Aluminiumgehäuse mit kompakter 40 mm Größe sitzt bequem bei Tag und Nacht\n- Lange Akkulaufzeit von mehreren Tagen mit Schnellladen passt gut zu einem flexiblen Mietalltag",
+        "cons_de": "Nachteile\n- Die Auswahl an Apps ist im Vergleich zu manchen Smartwatches eingeschränkter\n- Die 40 mm Größe könnte für Liebhaberinnen und Liebhaber größerer Displays zu klein wirken"
     },
     {
         "slug": "samsung-galaxy-watch-5-lte-40mm",
@@ -16798,7 +17404,11 @@ const data = [
             "Wasser-/Staubdicht": "5ATM / IP68 / MIL-STD-810H",
             "Aktivitätstracking": "Blutsauerstoff, Blutdruck, Herzfrequenz, Bioelektrische Impedanzanalyse (BIA), Schritte",
             "Globale Positionierung": "Galileo, GLONASS, GPS"
-        }
+        },
+        "pros": "Pros\n• LTE freedom for calls and texts without your phone nearby ideal for workouts and quick errands\n• Advanced health and fitness tracking including heart rate sleep insights and body composition to help build better habits\n• Compact 40 mm aluminum design with durable sapphire crystal and fast charging plus an easy way to try a premium smartwatch without long term commitment",
+        "cons": "Cons\n• Battery life may not suit very heavy LTE use all day daily charging is typical\n• Works best with Android phones not compatible with iPhone",
+        "pros_de": "Vorteile\n• LTE Freiheit für Anrufe und Nachrichten auch ohne Smartphone in der Nähe ideal für Workouts und kurze Erledigungen\n• Fortschrittliches Gesundheits und Fitness Tracking mit Herzfrequenz Schlafanalyse und Körperzusammensetzung für bessere Gewohnheiten\n• Kompaktes 40 mm Aluminium Design mit robustem Saphirglas und schnellem Laden zudem perfekt zum Ausprobieren ohne langfristige Bindung",
+        "cons_de": "Nachteile\n• Akkulaufzeit kann bei sehr intensiver LTE Nutzung knapp sein tägliches Laden ist üblich\n• Funktioniert am besten mit Android Smartphones nicht mit iPhone kompatibel"
     },
     {
         "slug": "dyson-vacuum-cleaner-dyson-v15-detect-absolute",
@@ -16811,7 +17421,11 @@ const data = [
             "Lieferumfang": "Dyson V15 Detect Absolute, Torque-Drive-Bodendüse, Slim Fluffy Laser mit Staub Erkennung, Haardüse, Extra-Hart-Bürste, Fugendüse, Kombi-Zubehördüse, Extra-Soft-Bürste, Dyson Flex-Adapter, Zuberhörhalterung für das Saugrohr, Wandhalterung, Ladegerät",
             "SAUGLEISTUNG": "240 AW",
             "STAUBBEHÄLTER": "Beutellos, 0,77 L"
-        }
+        },
+        "pros": "English\nPros\n* Laser highlights fine dust and auto suction adapts for deep cleaning with less effort\n* Versatile tools for floors carpets and upholstery great for apartments pets and quick cleanups\n* Cordless convenience with a premium feel and up to date tech without long term commitment",
+        "cons": "Cons\n* Some users might find it a bit heavier than ultra light stick vacuums during long sessions\n* Battery run time may not suit very large homes in a single go depending on power mode",
+        "pros_de": "Deutsch\nVorteile\n* Laser macht feinen Staub sichtbar und die Saugleistung passt sich automatisch an für gründliche Reinigung mit weniger Aufwand\n* Viele Aufsätze für Boden Teppich und Polster ideal für Wohnungen Haustiere und schnelle Zwischenreinigungen\n* Kabelloser Komfort mit modernem Look und aktueller Technik mieten statt kaufen ohne lange Bindung",
+        "cons_de": "Nachteile\n* Manche Nutzerinnen und Nutzer finden das Gerät etwas schwerer als sehr leichte Stabstaubsauger bei längeren Einsätzen\n* Die Akkulaufzeit passt eventuell nicht zu sehr großen Wohnungen in einer einzigen Runde je nach Saugstufe"
     },
     {
         "slug": "oculus-quest-2-link-cable",
@@ -16821,7 +17435,11 @@ const data = [
             "Anschluss 2": "USB C",
             "Kabellänge": "5 m",
             "Kompatible Produkte": "Meta Quest 2, Meta Quest 3, Meta Quest Pro"
-        }
+        },
+        "pros": "Pros\n• Turns your Meta Quest into a powerful PC VR headset with smooth low latency performance\n• Long flexible cable supports room scale movement while keeping a reliable connection\n• Quick plug and play setup through a USB 3 connection for fast access to PC game libraries",
+        "cons": "Cons\n• Requires a compatible gaming PC and a USB C USB 3 port and may need a suitable adapter depending on your setup\n• Being tethered by a cable may not suit users who prefer a completely wireless experience",
+        "pros_de": "Vorteile\n• Macht deine Meta Quest zur starken PC VR Brille mit geringer Latenz und stabiler Leistung\n• Langes flexibles Kabel bietet gute Bewegungsfreiheit und eine verlässliche Verbindung\n• Einfache plug and play Einrichtung über USB 3 für schnellen Zugriff auf PC Spielbibliotheken",
+        "cons_de": "Nachteile\n• Erfordert einen kompatiblen Gaming PC und einen USB C Anschluss mit USB 3 und je nach Setup eventuell einen passenden Adapter\n• Die Anbindung per Kabel passt eventuell nicht zu Nutzern die eine vollständig kabellose Erfahrung bevorzugen"
     },
     {
         "slug": "apple-all-in-one-apple-24-imac-mid-2021-23-5-4-5k-apple-m1-8gb-256gb-ssd-apple-integrated-8-core-gpu",
@@ -16836,7 +17454,11 @@ const data = [
             "Arbeitsspeicher": "8GB",
             "Tastatursprache": "Deutsch",
             "Abmessungen und Gewicht": "54.7 x 14.7 x 46.1 cm • 4.48 kg"
-        }
+        },
+        "pros": "English\nPros\n- Smooth performance for everyday multitasking and creative apps thanks to Apple M1 chip with eight core GPU\n- Vibrant 24 inch Retina display for sharp visuals great for work study and streaming\n- Clean all in one setup that saves space and looks modern easy to start using and simple to swap or upgrade with a rental",
+        "cons": "Cons\n- 256 GB storage may feel limited for large media projects consider external drives or cloud storage\n- Desktop form factor may not suit users who need mobility",
+        "pros_de": "Deutsch\nVorteile\n- Starke Performance für Alltag Multitasking und Kreativ Apps dank Apple M1 Chip mit acht Kern GPU\n- Farbkräftiges 24 Zoll Retina Display mit sehr scharfer Darstellung ideal für Arbeit Studium und Streaming\n- Aufgeräumtes All in One Setup spart Platz sieht modern aus und ist schnell startklar einfach zu mieten tauschen oder upgraden",
+        "cons_de": "Nachteile\n- 256 GB Speicher kann für große Medienprojekte knapp sein externer Speicher oder Cloud Lösungen helfen\n- Als Desktop nicht mobil und daher weniger passend wenn du häufig unterwegs arbeiten willst"
     },
     {
         "slug": "samsung-monitor-samsung-samsung-odyssey-g7-g70b-28-28-ls28bg700epxen",
@@ -16848,7 +17470,11 @@ const data = [
             "Reaktionszeit": "1ms",
             "Abmessungen und Gewicht": "63.7 x 57.7 x 24.4 cm • 7.0 kg",
             "High Dynamic Range (HDR)": "Yes"
-        }
+        },
+        "pros": "Pros\n• 4K at 144 Hz delivers sharp visuals and smooth gameplay for both PC and console\n• HDMI 2.1 and Adaptive Sync keep motion fluid and reduce tearing\n• 28 inch size fits most desks while the high pixel density makes text and design work look crisp",
+        "cons": "Cons\n• At 28 inch in 4K you will likely use scaling which may not suit those who prefer larger on screen elements\n• HDR performance is decent but not on the level of premium HDR focused displays",
+        "pros_de": "Vorteile\n• 4K mit 144 Hz sorgt für gestochen scharfe Bilder und flüssiges Gaming am PC und an der Konsole\n• HDMI 2.1 und Adaptive Sync halten Bewegungen stabil und reduzieren Tearing\n• 28 Zoll passt gut auf die meisten Schreibtische und die hohe Pixeldichte sorgt für klare Schrift und feine Details",
+        "cons_de": "Nachteile\n• Bei 28 Zoll in 4K ist Skalierung oft sinnvoll und eignet sich eventuell weniger für alle die größere Bedienelemente bevorzugen\n• HDR ist solide aber nicht auf dem Niveau spezieller HDR Spitzenmodelle"
     },
     {
         "slug": "samsung-monitor-27-premium-business-monitor-s80pb-27-ls27b800pxuxen",
@@ -16860,7 +17486,11 @@ const data = [
             "Reaktionszeit": "5ms",
             "Abmessungen und Gewicht": "61.5 x 55.1 x 19.6 cm • 6.7 kg",
             "High Dynamic Range (HDR)": "Yes"
-        }
+        },
+        "pros": "Pros\n- Sharp 4K UHD on a compact 27 inch screen for crisp text and detailed multitasking\n- USB C for video data and charging on compatible laptops plus an integrated USB hub for a clean one cable desk setup\n- Flexible ergonomics with height tilt swivel and pivot for a comfortable workspace",
+        "cons": "Cons\n- Standard 60 Hz refresh rate may not suit competitive gaming\n- At 27 inches 4K can make interface elements small so display scaling or a larger size might be preferable for some users",
+        "pros_de": "Vorteile\n- Knackige 4K UHD Auflösung auf 27 Zoll für scharfen Text und produktives Multitasking\n- USB C für Video Daten und Laden bei kompatiblen Laptops sowie integrierter USB Hub für ein aufgeräumtes Ein Kabel Setup\n- Flexible Ergonomie mit Höhenverstellung Neigung Drehung und Pivot für bequemes Arbeiten",
+        "cons_de": "Nachteile\n- Die Bildwiederholrate von 60 Hz eignet sich weniger für wettbewerbsorientiertes Gaming\n- Bei 27 Zoll kann 4K Inhalte sehr klein darstellen daher könnten Skalierung oder eine größere Größe für manche Nutzer angenehmer sein"
     },
     {
         "slug": "bose-soundbar-700",
@@ -16875,7 +17505,11 @@ const data = [
             "Besondere Merkmale": "Raumfüllendes Heimkinoerlebnis • Steuerung über Fernbedienung, Bose Music App oder mit den integrierten Sprachassistenten von Amazon Alexa und Google Assistant • Andere Geräte können über WLAN, Apple AirPlay 2 oder Bluetooth verbunden werden • HDMI ™ ARC-Konnektivität",
             "Internetverbindung": "Ja",
             "Signalübertragung": "Kabelgebunden, Kabellos"
-        }
+        },
+        "pros": "Pros\n- Immersive Bose sound with clear dialogue and rich bass\n- Expandable system add optional Bass Module and surround speakers later\n- Simple renter friendly setup with HDMI ARC voice assistants and the Bose Music app",
+        "cons": "Cons\n- Bass lovers may want the optional Bass Module for extra low end\n- Limited physical inputs may not suit setups with many devices",
+        "pros_de": "Vorteile\n- Packender Bose Klang mit klaren Stimmen und sattem Bass\n- Erweiterbares System optionales Bass Modul und Surround Lautsprecher später einfach ergänzbar\n- Einfache mietfreundliche Einrichtung mit HDMI ARC Sprachassistenten und der Bose Music App",
+        "cons_de": "Nachteile\n- Für sehr kräftigen Bass empfiehlt sich das optionale Bass Modul\n- Begrenzte Anschlüsse kann für Setups mit vielen Geräten weniger passend sein"
     },
     {
         "slug": "jbl-bluetooth-speaker-jbl-xtreme3",
@@ -16893,7 +17527,11 @@ const data = [
             "Besondere Merkmale": "Leistungsstarker Original JBL Pro Sound, 15 Stunden Wiedergabezeit, IP67 wasser- und staubdicht, Dank PartyBoost können Sie zwei PartyBoost-kompatible JBL-Lautsprecher für Stereosound koppeln, integrierte Powerbank, Trageriemen mit integriertem Flaschenöffner.",
             "Anzahl der Lautsprecher": "2 x RMS-Tieftöner + 2 x RMS-Hochtöner",
             "Intelligente Funktionen": "-"
-        }
+        },
+        "pros": "English\nPros\n• Big room filling sound with strong bass in a portable form factor\n• Rugged water and dust resistant build for worry free use outdoors and by the pool\n• Long lasting battery with power bank function to top up your phone",
+        "cons": "Cons\n• Some users might find it larger and heavier than ultra compact speakers\n• Bass forward tuning may not suit those who prefer a very neutral sound",
+        "pros_de": "Deutsch\nVorteile\n• Kraftvoller raumfüllender Klang mit sattem Bass im tragbaren Format\n• Robuste wasser und staubgeschützte Bauweise für sorgenfreien Einsatz draußen und am Pool\n• Lange Akkulaufzeit mit Powerbank Funktion zum schnellen Aufladen deines Handys",
+        "cons_de": "Nachteile\n• Für manche etwas größer und schwerer als sehr kompakte Lautsprecher\n• Die bassbetonte Abstimmung passt eventuell nicht allen die einen sehr neutralen Klang bevorzugen"
     },
     {
         "slug": "sony-srs-xp500-portable-wireless-speaker",
@@ -16911,7 +17549,11 @@ const data = [
             "Technologien": "-",
             "Besonderheiten": "Der vielseitige XP500 bietet tollen Sound und unterhaltsame Partyfunktionen. Der kraftvolle Partysound, der von der X-Balanced Speaker Unit und dem leistungsstarken Fronthochtöner erzeugt wird, sorgt für eine satte, klare Klangqualität. Der Lautsprecher ist perfekt für Partys - egal ob drinnen oder draußen -, bietet eine lange Akkulaufzeit, ist wasserabweisend nach IPX4 und hat einen praktischen Griff, so dass er leicht von Party zu Party transportiert werden kann.",
             "Anschlussmöglichkeiten": "Bluetooth"
-        }
+        },
+        "pros": "Pros\n• Big room filling sound with deep bass and clear vocals for parties game nights or movie nights\n• Long battery life up to around 20 hours plus quick charge for spontaneous plans\n• Splash resistant IPX4 build with carry handles for flexible indoor or outdoor use",
+        "cons": "Cons\n• Some users might find it heavy for regular travel\n• Bass forward tuning may not suit those who prefer a very neutral sound",
+        "pros_de": "Vorteile\n• Kräftiger raumfüllender Klang mit sattem Bass und klaren Stimmen für Party Spieleabend oder Filmabend\n• Lange Akkulaufzeit bis zu etwa 20 Stunden plus Schnellladen für spontane Pläne\n• Spritzwasserschutz nach IPX4 und Tragegriffe für flexible Nutzung drinnen und draußen",
+        "cons_de": "Nachteile\n• Eher schwer daher für häufiges Transportieren weniger praktisch\n• Die Bassbetonung könnte für Fans eines sehr neutralen Klangs weniger geeignet sein"
     },
     {
         "slug": "samsung-oled-g80sd-s32dg800su",
@@ -16923,7 +17565,11 @@ const data = [
             "Reaktionszeit": "0.03ms",
             "Abmessungen und Gewicht": "71.01 x 59.45 x 30.59 cm • 8.2 kg",
             "High Dynamic Range (HDR)": ""
-        }
+        },
+        "pros": "Pros\n• OLED picture with deep blacks and vivid color for an immersive gaming and streaming experience\n• Fast refresh and quick response help keep motion smooth in competitive play\n• A trend forward upgrade you can enjoy now without long term commitment",
+        "cons": "Cons\n• Some users might find 32 inch a bit large for compact desks\n• To get the most from the high performance you may need a powerful graphics card",
+        "pros_de": "Vorteile\n• OLED Bild mit tiefem Schwarz und lebendigen Farben für ein intensives Erlebnis beim Gaming und Streaming\n• Hohe Bildwiederholrate und kurze Reaktionszeit sorgen für flüssige Bewegungen\n• Trendiges Upgrade das du ohne langfristige Bindung nutzen kannst",
+        "cons_de": "Nachteile\n• Für sehr kleine Schreibtische möglicherweise etwas groß\n• Um das volle Potenzial auszuschöpfen ist eine leistungsstarke Grafikkarte hilfreich"
     },
     {
         "slug": "acer-nitro-n50-650-i5-13400f-16gb-512gb-gtx-1660",
@@ -16937,7 +17583,11 @@ const data = [
             "Dimensions": "17.5 x 39.2 x 38.6 cm • 8.25 kg",
             "Operating System": "Windows® 11 Home",
             "Keyboard Language": ""
-        }
+        },
+        "pros": "English\nPros\n• Intel Core i5 13400F and 16 GB RAM deliver smooth multitasking and solid 1080p gaming\n• GTX 1660 with 6 GB provides reliable frame rates in esports and many modern titles at a friendly price\n• Great choice for renters who want performance now with the flexibility to upgrade later",
+        "cons": "Cons\n• 512 GB SSD can fill up quickly with large game libraries\n• May not suit players aiming for ultra settings or ray tracing in the newest AAA releases",
+        "pros_de": "Deutsch\nVorteile\n• Intel Core i5 13400F und 16 GB RAM sorgen für flüssiges Multitasking und solides 1080p Gaming\n• GTX 1660 mit 6 GB liefert verlässliche Bildraten in Esports und vielen aktuellen Titeln zu einem fairen Preis\n• Gute Wahl für Mieterinnen und Mieter die jetzt Leistung wollen und später flexibel aufrüsten möchten",
+        "cons_de": "Nachteile\n• Die 512 GB SSD ist bei großen Spielbibliotheken schnell voll\n• Eignet sich weniger für Ultra Einstellungen oder Raytracing in den neuesten AAA Titeln"
     },
     {
         "slug": "dyson-washg1-wet-cleaner",
@@ -16956,7 +17606,11 @@ const data = [
             "Anzahl Geschwindigkeiten": "3",
             "Fassungsvermögen des Frischwassertanks": "1 l",
             "Fassungsvermögen des Schmutzwassertanks": "0,8 l"
-        }
+        },
+        "pros": "Pros\n• Effective wet cleaning on sealed hard floors for everything from quick spills to weekly refreshes\n• Separate clean and dirty water tanks for consistent results and simple refills\n• Modern Dyson design and quality feel great if you want premium tech without long term commitment",
+        "cons": "Cons\n• Not suited for carpets or floors that are not water safe\n• Requires some storage space and may not suit very small apartments",
+        "pros_de": "Vorteile\n• Effektive Nassreinigung auf versiegelten Hartböden für schnelle Zwischenreinigung und gründliche Wischrunden\n• Getrennter Frischwasser und Schmutzwassertank für saubere Ergebnisse und einfache Handhabung\n• Modernes Dyson Design und hochwertige Anmutung ideal wenn du Premium Technik ohne langfristige Bindung nutzen möchtest",
+        "cons_de": "Nachteile\n• Nicht geeignet für Teppiche oder nicht wasserfeste Böden\n• Benötigt etwas Stauraum und passt eventuell nicht in sehr kleine Wohnungen"
     },
     {
         "slug": "yamaha-dj-studio-equipment-yamaha-hs5-bassreflex-studio-monitor-piece",
@@ -16974,7 +17628,11 @@ const data = [
             "Besondere Merkmale": "Bassreflexsystem. Einstellbarer Eingangspegel. Raumregelung und Regler für hohe Trimmfrequenz",
             "Anschlussmöglichkeiten": "-",
             "Intelligente Funktionen": "-"
-        }
+        },
+        "pros": "Pros\n• Compact monitor with clear neutral sound that suits mixing and content creation in small rooms\n• Room Control and High Trim switches let you tune the sound to your space for flexible placement\n• Balanced XLR and TRS inputs for clean connection to your interface or controller",
+        "cons": "Cons\n• Limited low end extension some users may prefer adding a sub for bass heavy genres\n• This model is a single speaker you may want two for a stereo setup",
+        "pros_de": "Vorteile\n• Klare neutrale Wiedergabe ideal zum Mischen und Produzieren in kleinen Räumen\n• Room Control und High Trim Schalter erlauben die Anpassung an deinen Raum für flexible Aufstellung\n• Ausgewogene XLR und TRS Eingänge für eine saubere Verbindung mit Audio Interface oder Controller",
+        "cons_de": "Nachteile\n• Begrenzter Tiefbass für basslastige Musik ist ein Subwoofer oft sinnvoll\n• Dieses Modell ist ein einzelner Lautsprecher für Stereo möchtest du meist zwei mieten"
     },
     {
         "slug": "sonos-subwoofer-sonos-sub-2020",
@@ -16990,7 +17648,11 @@ const data = [
             "Besondere Merkmale": "WIFI-Subwoofer für leistungsstarke Bass, zwei Kraft-Stornierungs-Fahrer sorgen für reinen Bass ohne Vibrationen oder Rasseln",
             "Gesamtleistung (W)": "-",
             "Signalübertragung": ""
-        }
+        },
+        "pros": "English\nPros\n• Deep and clean bass that elevates movies games and music without distortion\n• Easy wireless pairing with Sonos speakers and soundbars in the app for flexible placement\n• Great for renting try a high end bass upgrade now and return or swap when your setup changes",
+        "cons": "Cons\n• Requires a compatible Sonos speaker or soundbar it does not work on its own\n• The size and weight may not suit very small rooms or shared walls",
+        "pros_de": "Deutsch\nVorteile\n• Tiefer klarer Bass der Filme Spiele und Musik aufwertet ohne Verzerrungen\n• Einfache kabellose Kopplung mit Sonos Lautsprechern und Soundbars in der App für flexible Platzierung\n• Ideal zum Mieten du testest ein High End Bass Upgrade und kannst später zurückgeben oder tauschen",
+        "cons_de": "Nachteile\n• Benötigt einen kompatiblen Sonos Lautsprecher oder eine Soundbar funktioniert nicht allein\n• Größe und Gewicht passen eventuell nicht zu sehr kleinen Räumen oder Wohnungen mit hellhörigen Wänden"
     },
     {
         "slug": "acer-nitro-i5-14400f-16gb-512gb-rtx4060",
@@ -17004,7 +17666,11 @@ const data = [
             "Dimensions": "17.5 x 38.6 x 2.86 cm • 3 kg",
             "Operating System": "Windows® 11 Home",
             "Keyboard Language": ""
-        }
+        },
+        "pros": "Pros\n• Strong performance for modern games and creative work with a current Intel Core i5 and RTX 4060\n• Smooth play at Full HD and very capable at Quad HD with support for DLSS and ray tracing\n• Great to rent if you want up to date graphics now with the flexibility to switch later",
+        "cons": "Cons\n• 512 GB storage may fill up quickly with large game libraries, an external drive or cloud storage can help\n• 16 GB memory is fine for most users, but heavy multitasking may benefit from a memory upgrade",
+        "pros_de": "Vorteile\n• Starke Leistung für aktuelle Spiele und kreative Aufgaben dank Intel Core i5 und RTX 4060\n• Flüssiges Spielen in Full HD und sehr gute Ergebnisse in Quad HD mit Unterstützung für DLSS und Ray Tracing\n• Ideal zur Miete, wenn du aktuelle Grafikfunktionen jetzt willst und später flexibel wechseln möchtest",
+        "cons_de": "Nachteile\n• 512 GB Speicher kann sich mit großen Spielebibliotheken schnell füllen, eine externe Festplatte oder Cloudlösungen können helfen\n• 16 GB Arbeitsspeicher reicht meist, für intensives Multitasking kann ein Upgrade sinnvoll sein"
     },
     {
         "slug": "optoma-projector-optoma-uhz55",
@@ -17033,7 +17699,11 @@ const data = [
             "Keystone-Korrektur - Vertikal": "+/-30°",
             "Darstellbare Farben (Millionen)": "1073,4",
             "Keystone-Korrektur - Horizontal": "+/-30°"
-        }
+        },
+        "pros": "English\nPros\n• 4K laser picture with vivid color and crisp detail for cinema nights and big game days\n• Long lasting laser light source for low maintenance and consistent performance\n• Flexible setup with multiple ports and easy streaming via your stick or console",
+        "cons": "Cons\n• Best in a dim room some users might find daylight performance limited\n• Needs some space for throw distance and a suitable screen or wall",
+        "pros_de": "Deutsch\nVorteile\n• 4K Laserbild mit klaren Details und kräftigen Farben für Kinoabende und große Spiele\n• Langlebige Laserlichtquelle für geringen Aufwand und verlässliche Leistung\n• Flexible Aufstellung mit mehreren Anschlüssen und einfacher Streaming Nutzung über Stick oder Konsole",
+        "cons_de": "Nachteile\n• Wirkt am besten in einem abgedunkelten Raum bei Tageslicht kann der Eindruck nachlassen\n• Benötigt Platz für den Projektionsabstand sowie eine geeignete Leinwand oder Wand"
     },
     {
         "slug": "asus-graphics-card-asus-tuf-geforce-rtx-4090-24gb-gddr6x",
@@ -17042,7 +17712,9 @@ const data = [
             "Memory": "24GB (GDDR6X)",
             "Dimensions": "34.82 x 15 x 7.26 cm • 2.3 kg",
             "Boost Clock Speed": "2520Mhz"
-        }
+        },
+        "pros": "Deutsch\nPros\n- Starke 4K und Ray Tracing Leistung für anspruchsvolle Games und Creator Apps\n- 24 GB Speicher unterstützt große Texturen Projekte und KI beschleunigte Workflows\n- Mieten ermöglicht modernste Grafik jetzt und bleibt flexibel für spätere Upgrades",
+        "cons": "Cons\n- Sehr groß passt eventuell nicht gut in kompakte Gehäuse oder enge Builds\n- Hoher Strombedarf ein kräftiges Netzteil wird empfohlen"
     },
     {
         "slug": "dyson-hp10-purifier-hot-cool-gen1",
@@ -17055,7 +17727,11 @@ const data = [
             "Funktionsstufen": "10",
             "Max. Raumgröße": "35 m³",
             "Besondere Merkmale": "Erkennt automatisch Partikel und Gase in der Luft und analysiert und meldet sie in Echtzeit. Entfernt Gase und bis zu 99,95 % der Schadstoffe aus der Luft. Die Air Multiplier™-Technologie sorgt dafür, dass gereinigte Luft im gesamten Raum verteilt wird Über einen weiten Bereich verteilt, sodass der gesamte Raum schnell und gleichmäßig erwärmt wird (Heiztemperatur 1 - 37° C), bei höheren Temperaturen sorgt ein starker Luftstrom gereinigter Luft für einen angenehm kühlenden Effekt, die einstellbare Drehbewegung verteilt die gereinigte Luft im gesamten Raum Raum, überwacht die Luftqualität und reinigt die Luft bei reduzierter Lautstärke und bei gedimmtem Display hängt die Filterlebensdauer vom Grad der Luftverschmutzung ab"
-        }
+        },
+        "pros": "Pros\n• 3 in 1 purifier heater and cooling fan saves space and works year round\n• Strong airflow helps circulate cleaner air by capturing common particles like dust and pollen\n• Great for renters try Dyson quality without a long commitment and skip storing multiple devices",
+        "cons": "Cons\n• May not suit very large rooms where a single purpose heater or purifier could be more effective\n• Heating mode can increase electricity use during long sessions",
+        "pros_de": "Vorteile\n• 3 in 1 Luftreiniger Heizer und Ventilator spart Platz und passt für das ganze Jahr\n• Kräftige Luftzirkulation mit Reinigung für gängige Partikel wie Staub und Pollen\n• Ideal zum Mieten teste Dyson Qualität ohne lange Bindung und ohne mehrere Geräte lagern zu müssen",
+        "cons_de": "Nachteile\n• Eignet sich möglicherweise weniger für sehr große Räume wo ein Spezialgerät besser passt\n• Der Heizmodus kann den Stromverbrauch erhöhen bei längerer Nutzung"
     },
     {
         "slug": "nintendo-switch-5790",
@@ -17074,7 +17750,11 @@ const data = [
             "Systemspeicher": "32 GB (Etwa 6,2 GB des internen Speicherplatzes sind für das Betriebssystem reserviert.)",
             "microSD Card-Steckplatz": "Kompatibel mit Speicherkarten vom Typ microSD, microSDHC und microSDXC",
             "Kommunikationsfunktionen": "WLAN (IEEE 802.11 a/b/g/n/ac konform) / Bluetooth 4.1 (nur im TV-Modus – eine kabelgebundene LAN-Verbindung ist durch kommerziell verfügbare, kabelgebundene LAN-Adapter möglich)"
-        }
+        },
+        "pros": "English\nPros\n* Play anywhere switch between TV and handheld in seconds\n* Detachable Joy Con for easy local multiplayer great for shared spaces and trips\n* Smooth first party performance and a huge library of Nintendo exclusives and indie hits to explore during your rental",
+        "cons": "Cons\n* Battery life of the 2017 model is shorter than newer versions so long sessions away from power may need a charger nearby\n* Graphics and performance may not suit players seeking the latest high end visuals",
+        "pros_de": "Deutsch\nVorteile\n* Flexibel zwischen TV und Handheld wechseln ideal für Sofa oder unterwegs\n* Abnehmbare Joy Con für schnellen lokalen Multiplayer gut für geteilte Haushalte und Reisen\n* Flüssige First Party Performance und große Auswahl an Nintendo Exklusivtiteln und Indies für die Mietzeit",
+        "cons_de": "Nachteile\n* Die Akkulaufzeit des Modells von 2017 ist kürzer als bei neueren Versionen längere Sessions ohne Stromquelle können Planung erfordern\n* Grafik und Leistung passen eventuell weniger für alle die maximale High End Optik suchen"
     },
     {
         "slug": "microsoft-console-xbox-series-x-1tb-digital",
@@ -17093,7 +17773,11 @@ const data = [
             "Speicherkapazität": "1 TB",
             "Bildschirmauflösung": "Native Auflösung bis zu 4K / 1440p",
             "Herstellerartikelnummer": "EP2-00702"
-        }
+        },
+        "pros": "Pros\n• Powerful performance for smooth 4K gaming and fast load times\n• 1TB storage suits a large digital library and Quick Resume lets you jump between games\n• Great for renting if you want top performance without a big upfront cost and the flexibility to upgrade later",
+        "cons": "Cons\n• Best with a fast internet connection for large downloads and online features\n• May not suit collectors who prefer physical game discs",
+        "pros_de": "Vorteile\n• Starke Leistung für flüssiges 4K Gaming und kurze Ladezeiten\n• 1 TB Speicher für eine große digitale Bibliothek und Quick Resume für den schnellen Wechsel zwischen Spielen\n• Ideal zur Miete wenn du Top Leistung ohne hohe Anschaffungskosten und mit späterer Upgrade Flexibilität möchtest",
+        "cons_de": "Nachteile\n• Entfaltet sein Potenzial mit einer schnellen Internetverbindung für große Downloads und Online Funktionen\n• Könnte für Fans physischer Spiele weniger passend sein"
     },
     {
         "slug": "yamaha-p-45-b-digital-piano",
@@ -17107,7 +17791,11 @@ const data = [
             "Enthaltenes Zubehör": "Notenablage, Pedal / Fußschalter, AC Adapter",
             "Anschlussmöglichkeiten": "-",
             "Verstärker & Lautsprecher": "2 x 6 W, 2 x 12 cm Treiber"
-        }
+        },
+        "pros": "Pros\n• Authentic feel with 88 key weighted GHS action and responsive touch for realistic practice\n• Compact and renter friendly with built in speakers and a headphone jack for quiet sessions at home\n• Easy USB connection to learning apps and recording so you can progress without extra gear or long term commitment",
+        "cons": "Cons\n• 64 note polyphony and a small set of voices may not suit advanced players who layer complex pieces\n• Built in speakers are fine for practice but some users might prefer an external amp for bigger rooms",
+        "pros_de": "Vorteile\n• Authentisches Spielgefühl mit 88 Tasten und gewichteter GHS Mechanik für realistisches Üben\n• Kompaktes Format mit eingebauten Lautsprechern und Kopfhöreranschluss ideal für die Wohnung und leises Üben\n• Einfache USB Verbindung zu Lern Apps und Recording gut zum Ausprobieren ohne viel extra Equipment oder lange Bindung",
+        "cons_de": "Nachteile\n• 64 stimmige Polyphonie und eine kleine Auswahl an Sounds könnten fortgeschrittene Spieler nicht optimal unterstützen\n• Für größere Räume wünschen sich manche eventuell einen externen Verstärker da die eingebauten Lautsprecher vor allem fürs Üben ausgelegt sind"
     },
     {
         "slug": "dreame-vacuum-cleaner-dreame-z10-pro-vacuum-mop-robot-cleaner",
@@ -17123,7 +17811,11 @@ const data = [
             "Besondere Merkmale": "Kompatibel mit Amazon Alexa und Google Assistant • Automatischer Staubbehälter mit 4L Fassungsvermögen (65 Tage) • Automatische Anpassung der maximalen Saugleistung auf Teppichen • LiDAR-System und 3D-Scanner • Bis zu 3 Grundrisse",
             "Volumen des Staubbehälters": "0,4 L",
             "Volumen des Wasserbehälters": "0,15 L"
-        }
+        },
+        "pros": "Pros\n- Two in one vacuum and mop with up to 4000 Pa suction delivers solid daily cleaning in one run\n- Smart laser navigation with detailed maps room selection no go zones and multi floor mapping for flexible app control\n- Self emptying base cuts upkeep for weeks a convenient set and forget option for busy renters",
+        "cons": "Cons\n- Mopping is best for light upkeep and may not replace a deep scrub on stubborn stains\n- Base uses disposable dust bags which add a small ongoing cost and need a bit of storage space",
+        "pros_de": "Vorteile\n- Zwei in eins Saugen und Wischen mit bis zu 4000 Pa sorgt für gründliche Alltagsreinigung in einem Durchgang\n- Intelligente Laser Navigation mit detaillierter Karte Raumwahl Sperrzonen und Mehr Etagen Karten für flexible Steuerung per App\n- Automatische Absaugstation reduziert den Aufwand über Wochen praktisch für einen vollen Alltag",
+        "cons_de": "Nachteile\n- Die Wischfunktion eignet sich vor allem für leichte Verschmutzungen und ersetzt keine gründliche Reinigung bei hartnäckigen Flecken\n- Die Station nutzt Staubbeutel was kleine laufende Kosten und etwas Platzbedarf bedeutet"
     },
     {
         "slug": "jbl-bar-1000-pro-soundbar-subwoofer-and-rear-speakers",
@@ -17139,7 +17831,11 @@ const data = [
             "Besondere Merkmale": "",
             "Gesamtleistung (W)": "880 watts",
             "Signalübertragung": "Kabelgebunden, Kabellos"
-        }
+        },
+        "pros": "Pros\n• Real surround experience with dedicated rear speakers plus a powerful subwoofer\n• Cable light setup and flexible placement that works well in rental homes\n• Up to date tech with 3D audio like Dolby Atmos when available",
+        "cons": "Cons\n• May be more than you need for very small rooms or late night listening\n• Best results require compatible content and some time for placement and settings",
+        "pros_de": "Vorteile\n• Echter Surround Sound dank separaten Rear Lautsprechern plus kräftigem Subwoofer\n• Aufstellung mit wenig Kabeln und flexible Platzierung ideal für Mietwohnungen\n• Aktuelle Technik mit 3D Audio wie Dolby Atmos sofern Inhalte und Geräte es unterstützen",
+        "cons_de": "Nachteile\n• Könnte für sehr kleine Räume oder leises Hören am späten Abend zu viel des Guten sein\n• Für das beste Ergebnis sind passende Inhalte sowie etwas Zeit für Positionierung und Einstellungen sinnvoll"
     },
     {
         "slug": "dyson-vacuum-cleaner-dyson-cyclone-v10-extra-2-generation",
@@ -17165,7 +17861,11 @@ const data = [
             "Schmutzkapazität trocken": "0,76 l",
             "Für alle Oberflächen geeignet": "Ja",
             "Leicht zu entleerender Behälter": "Ja"
-        }
+        },
+        "pros": "English\nPros\n• Powerful suction with up to 60 minutes of battery life for everyday cleaning\n• Cordless design quickly converts to a handheld for stairs cars and shelves\n• Space saving wall dock and a range of tools suit compact homes and varied surfaces",
+        "cons": "Cons\n• On max power the battery depletes faster so it may not suit deep cleans of very large homes\n• You need to hold the trigger while cleaning which some users might find tiring",
+        "pros_de": "Deutsch\nVorteile\n• Starke Saugleistung und bis zu 60 Minuten Akkulaufzeit für die tägliche Reinigung\n• Kabellos und lässt sich schnell zum Handgerät umbauen für Treppen Auto und Regale\n• Platzsparende Wandhalterung und mehrere Aufsätze für kleine Wohnungen und unterschiedliche Oberflächen",
+        "cons_de": "Nachteile\n• In der höchsten Leistungsstufe ist die Laufzeit deutlich kürzer daher weniger geeignet für sehr große Haushalte\n• Der Auslöser muss während der Nutzung gedrückt gehalten werden was manche als anstrengend empfinden"
     },
     {
         "slug": "apple-tablet-apple-12-9-ipad-pro-wifi-256gb-2021",
@@ -17181,7 +17881,11 @@ const data = [
             "Rückkamera": "12MP + 10MP + LiDAR",
             "Betriebssystem": "iOS 14",
             "Konnektivität": "Wi-Fi"
-        }
+        },
+        "pros": "English\nPros\n• M1 power delivers fast performance for design video and gaming\n• 12.9 inch Liquid Retina XDR display with 120 Hz refresh looks amazing for creation and streaming\n• Premium tablet experience without a long commitment great for short projects or trying a pro workflow",
+        "cons": "Cons\n• The larger 12.9 inch size may not suit users who want something ultra portable\n• To fully replace a laptop you may want a keyboard and some desktop like tasks can still feel limited in iPadOS",
+        "pros_de": "Deutsch\nVorteile\n• M1 Chip sorgt für sehr schnelle Performance bei Kreativ Apps und Games\n• 12,9 Zoll Liquid Retina XDR Display mit 120 Hz ideal für Content Creation und Streaming\n• Pro Erlebnis ohne lange Bindung perfekt zum Testen oder für zeitlich begrenzte Projekte",
+        "cons_de": "Nachteile\n• Das große 12,9 Zoll Format ist weniger handlich für sehr mobiles Arbeiten\n• Für einen echten Laptop Ersatz sind oft Zubehör wie Tastatur sinnvoll und manche Desktop ähnliche Aufgaben sind unter iPadOS noch eingeschränkt"
     },
     {
         "slug": "apple-11-ipad-air-2024-wi-fi-cellular-8gb-256gb",
@@ -17197,7 +17901,11 @@ const data = [
             "Rückkamera": "12MP",
             "Betriebssystem": "iOS",
             "Konnektivität": "Wi-Fi + Cellular"
-        }
+        },
+        "pros": "English\nPros\n* M2 power delivers smooth performance for creative apps multitasking and gaming\n* Wi Fi and Cellular keeps you connected anywhere for work study and travel\n* 256 GB storage plus support for Apple Pencil Pro and Magic Keyboard gives laptop style flexibility",
+        "cons": "Cons\n* May not suit users who want the ultra smooth display found on higher end models\n* Cellular use may require a separate data plan which can add to monthly costs",
+        "pros_de": "Deutsch\nVorteile\n* M2 Leistung für schnelles Arbeiten kreative Apps und Gaming\n* WLAN und Mobilfunk halten dich unterwegs zuverlässig verbunden im Studium im Job und auf Reisen\n* 256 GB Speicher und Unterstützung für Apple Pencil Pro und Magic Keyboard bieten flexible Laptop Art Nutzung",
+        "cons_de": "Nachteile\n* Eignet sich weniger für alle die die absolut weichste Darstellung mit sehr hoher Bildwiederholrate erwarten\n* Für Mobilfunk ist meist ein separater Datentarif nötig was die monatlichen Kosten erhöhen kann"
     },
     {
         "slug": "elgato-gaming-accessories-elgato-stream-deck-mk-2",
@@ -17210,7 +17918,11 @@ const data = [
             "Betriebsmodus": "USB 2.0",
             "Hauptmerkmale": "Lösen Sie mit einem Fingertipp sofort unbegrenzte Aktionen aus.",
             "Unterstützte Plattformen": "MAC, PC"
-        }
+        },
+        "pros": "English\nPros\n- One touch control with 15 customizable LCD keys for streaming video calls and shortcuts\n- Saves time with multi action macros and integrations for OBS Studio Twitch YouTube Philips Hue and more\n- Clean flexible desk setup with a compact body swappable faceplate and USB C cable that suits temporary or changing setups",
+        "cons": "Cons\n- Initial setup and profile tuning can take a bit of time\n- Best with supported apps some niche tools may need manual hotkey mapping",
+        "pros_de": "Deutsch\nVorteile\n- Steuerung mit einem Tastendruck dank 15 frei belegbarer LCD Tasten für Streams Calls und Shortcuts\n- Spart Zeit mit Mehrfachaktionen und Integrationen für OBS Studio Twitch YouTube Philips Hue und mehr\n- Kompakter Aufbau mit wechselbarer Frontplatte und USB C Kabel passt gut zu flexiblen oder temporären Setups",
+        "cons_de": "Nachteile\n- Einrichtung und Feinschliff der Profile braucht etwas Zeit\n- Eignet sich am besten mit unterstützten Apps für spezielle Tools sind eigene Hotkeys nötig"
     },
     {
         "slug": "samsung-monitor-samsung-lu28r554uqr-28-lu28r554uqrxzg",
@@ -17222,7 +17934,11 @@ const data = [
             "Reaktionszeit": "4ms",
             "Abmessungen und Gewicht": "63.88 x 6.4 x 37.4 cm • 5.8 kg",
             "High Dynamic Range (HDR)": "No"
-        }
+        },
+        "pros": "English\nPros\n- 4K Ultra HD on 28 inch delivers sharp text and plenty of space for multitasking\n- IPS panel with HDR10 provides natural colors and wide viewing angles for work and entertainment\n- Two HDMI plus DisplayPort make it easy to connect laptops consoles and PCs",
+        "cons": "Cons\n- 60 Hz refresh rate may not suit fast paced competitive gaming\n- Stand is tilt only so height adjustment may require a monitor arm or riser",
+        "pros_de": "Deutsch\nVorteile\n- 4K Ultra HD auf 28 Zoll sorgt für scharfen Text und viel Platz zum Multitasking\n- IPS Panel mit HDR10 liefert natürliche Farben und stabile Blickwinkel für Arbeit und Entertainment\n- Zwei HDMI plus DisplayPort erleichtern das Anschließen von Laptop Konsole und PC",
+        "cons_de": "Nachteile\n- Mit 60 Hz Bildwiederholrate eventuell nicht ideal für sehr schnelle Competitive Games\n- Der Standfuß bietet nur Neigung eine Höhenverstellung gelingt bei Bedarf mit Monitorarm oder Erhöhung"
     },
     {
         "slug": "garmin-venu-2-smartwatch-45mm-fiber-reinforced-polymer-case-sport-band",
@@ -17239,12 +17955,20 @@ const data = [
             "Musikwiedergabe": "Integrierter Musikspeicher (bis zu 650 Titel)",
             "Drahtlos & Ortung": "Galileo, GLONASS, GPS",
             "Gesundheits-, Sport- & Aktivitätstracking": "24/7 Activity Tracking"
-        }
+        },
+        "pros": "Pros\n* Long battery life for days of use between charges, convenient during your rental\n* Vivid AMOLED display and modern look that feel current at work and at the gym\n* Durable yet light fiber reinforced polymer case in 45 mm with GPS and advanced health tracking for focused training",
+        "cons": "Cons\n* The 45 mm size may not suit very small wrists\n* App selection is more fitness focused than general purpose, so some users might miss certain third party apps",
+        "pros_de": "Vorteile\n* Lange Akkulaufzeit für mehrere Tage zwischen Ladevorgängen, praktisch während der Miete\n* Kräftiges AMOLED Display und modernes Design mit einem frischen Look\n* Robustes und leichtes Gehäuse aus faserverstärktem Polymer in 45 mm mit GPS und detailliertem Gesundheits Tracking für gezieltes Training",
+        "cons_de": "Nachteile\n* Die Größe 45 mm passt eventuell nicht zu sehr schmalen Handgelenken\n* Die App Auswahl ist eher auf Fitness ausgerichtet, dadurch fehlen manchen Nutzenden einige allgemeine Drittanbieter Apps"
     },
     {
         "slug": "samsung-hw-q995gc-zg",
         "name": "Samsung HW-Q995GC/ZG",
-        "specifications": null
+        "specifications": null,
+        "pros": "Pros\n• Big cinema sound with Dolby Atmos and DTS X plus wireless rear speakers and subwoofer for immersive surround without complex wiring\n• Easy to get great results with Q Symphony on Samsung TVs and SpaceFit Sound that adapts audio to your room\n• Ready for modern living with Bluetooth and WiFi streaming and a premium look that upgrades any setup",
+        "cons": "Cons\n• Needs space and power outlets for the subwoofer and rear speakers so it may not suit very small rooms\n• Some standout features work best with a compatible Samsung TV which some users might find limiting",
+        "pros_de": "Vorteile\n• Satter Surround Sound mit Dolby Atmos und DTS X sowie kabellosen Rear Lautsprechern und Subwoofer für Kinofeeling ohne Kabelsalat\n• Einfach guter Klang dank Q Symphony mit Samsung TVs und SpaceFit Sound das den Ton automatisch an den Raum anpasst\n• Perfekt für modernes Wohnen mit Bluetooth und WiFi Streaming und einem hochwertigen Design",
+        "cons_de": "Nachteile\n• Benötigt Platz und Steckdosen für Subwoofer und Rear Lautsprecher daher weniger geeignet für sehr kleine Räume\n• Einige Highlights funktionieren am besten mit einem kompatiblen Samsung TV was für manche Nutzer etwas einschränkend sein kann"
     },
     {
         "slug": "lg-tv-lg-43ur73006la",
@@ -17273,7 +17997,11 @@ const data = [
             "Schnittstelle für Panelmontage": "300 x 300 mm",
             "Ethernet LAN (RJ-45) Anschlüsse": "1",
             "Technologie für hohen Dynamikbereich (HDR)": "Filmmaker-Modus, Hoher Dynamikbereich 10 (HDR10), Hybrid Log-Gamma (HLG)"
-        }
+        },
+        "pros": "English\nPros\n- Crisp 4K picture on a compact 43 inch screen, ideal for apartments and bedrooms\n- LG webOS smart TV with popular streaming apps built in, easy to set up and start watching\n- Flexible for renters with multiple HDMI options for console and laptop and a slim design that fits many spaces",
+        "cons": "Cons\n- Standard TV speakers are fine for everyday use but movie fans may prefer a separate soundbar\n- May not suit competitive gamers who want ultra high frame rates",
+        "pros_de": "Deutsch\nVorteile\n- Scharfes 4K Bild auf 43 Zoll, ideal für kleinere Räume und Mietwohnungen\n- LG webOS Smart TV mit beliebten Streaming Apps, schnell einzurichten und sofort startklar\n- Flexibel für Mieter mit mehreren HDMI Anschlüssen für Konsole und Laptop und schlankem Design für viele Wohnsituationen",
+        "cons_de": "Nachteile\n- Die integrierten Lautsprecher reichen für den Alltag, Filmfans wünschen sich eventuell eine separate Soundbar\n- Könnte für sehr anspruchsvolle Gamer weniger passen, wenn extrem hohe Bildraten gewünscht sind"
     },
     {
         "slug": "projector-eh-tw-610",
@@ -17288,7 +18016,11 @@ const data = [
             "Projektionsabstand": "1,35 - 1,64 m",
             "Projektionsgröße": "<3,00 M.",
             "Bildschirmauflösung": "1920 x 1080 Pixel"
-        }
+        },
+        "pros": "Pros\n• Full HD 1080p picture with Epson 3LCD for vivid color and smooth motion\n• Flexible setup with keystone correction zoom and HDMI ports for easy use with consoles laptops and streaming sticks\n• Renter friendly easy to move between rooms and quick to set up for movie nights or gaming",
+        "cons": "Cons\n• Full HD only so viewers seeking 4K detail may prefer a different model\n• Delivers best results in a dim room since strong ambient light can wash out the image",
+        "pros_de": "Vorteile\n• Full HD 1080p Bild mit Epson 3LCD für lebendige Farben und flüssige Bewegungen\n• Flexible Aufstellung dank Trapezkorrektur Zoom und HDMI Anschlüssen für Konsole Laptop und Streaming Stick\n• Mieterfreundlich leicht zu transportieren und schnell eingerichtet für Filmabend oder Gaming",
+        "cons_de": "Nachteile\n• Nur Full HD wer 4K Details möchte könnte ein anderes Modell bevorzugen\n• Wirkt am besten in einem abgedunkelten Raum bei viel Umgebungslicht kann das Bild weniger kräftig wirken"
     },
     {
         "slug": "elgato-microphone-elgato-wave-3-streaming-and-podcasting-microphone",
@@ -17309,7 +18041,11 @@ const data = [
             "Microphone frequency": "70 - 20000 Hz",
             "Connectivity technology": "Wired",
             "Line-out Signal-to-Noise Ratio (SNR)": "120 dB"
-        }
+        },
+        "pros": "Pros\n• Clean broadcast sound with 24 bit 96 kHz capture and a cardioid pattern that keeps focus on your voice\n• Simple USB setup in minutes plus on mic mute and gain for quick control during streams or calls\n• Wave Link software lets you mix mic and PC audio and Clipguard helps prevent clipping so you get a flexible setup without extra gear",
+        "cons": "Cons\n• As a condenser mic it can pick up room noise some users may prefer a dynamic mic in untreated spaces\n• USB only not an XLR option so it may not suit advanced studio chains",
+        "pros_de": "Vorteile\n• Klarer Broadcast Klang mit 24 bit 96 kHz Aufnahme und Nierencharakteristik für fokussierte Sprachaufnahmen\n• Einfache USB Einrichtung in wenigen Minuten mit Mute und Gain direkt am Mikro für schnelle Kontrolle\n• Wave Link Software mischt Mikro und PC Audio und Clipguard hilft Übersteuerung zu vermeiden flexibel nutzbar ohne zusätzliches Equipment",
+        "cons_de": "Nachteile\n• Als Kondensatormikrofon nimmt es eher Raumklang auf in unbehandelten Räumen passt ein dynamisches Mikro manchen besser\n• Nur USB kein XLR daher eventuell weniger passend für komplexe Studio Setups"
     },
     {
         "slug": "apple-smartphone-iphone-16-8gb-256gb",
@@ -17325,7 +18061,11 @@ const data = [
             "Rückkamera": "48MP + 12MP",
             "Betriebssystem": "iOS 18",
             "Konnektivität": "5G"
-        }
+        },
+        "pros": "English\nPros\n• Fast performance and smooth iOS for gaming work and social content\n• Dual SIM and 256GB storage offer flexible use for travel second numbers and plenty of photos and videos\n• USB C and long iOS support keep it current and easy to upgrade or switch when renting",
+        "cons": "Cons\n• May not suit minimalists who prefer a smaller or simpler phone\n• No memory card slot so storage cannot be expanded beyond 256GB",
+        "pros_de": "Deutsch\nVorteile\n• Sehr schnelle Performance und flüssiges iOS für Games Arbeit und Social Content\n• Dual SIM und 256GB Speicher bieten Flexibilität für Reisen Zweitnummern und viele Fotos und Videos\n• USB C und lange iOS Unterstützung halten dich aktuell und machen den Wechsel oder ein Upgrade bei der Miete einfach",
+        "cons_de": "Nachteile\n• Könnte für Minimalisten oder kleine Hände etwas groß wirken\n• Kein microSD Slot daher keine Speichererweiterung über 256GB hinaus"
     },
     {
         "slug": "sonos-move-2-portable-bluetooth-speaker",
@@ -17338,7 +18078,11 @@ const data = [
             "Betriebsart": "Batteriebetrieben",
             "Konnektivität": "Bluetooth 5.0",
             "Widerstandsfähigkeit": "IP56"
-        }
+        },
+        "pros": "Pros\n• Portable smart speaker with up to 24 hour battery and a grab and go handle for flexible use at home balcony or park\n• Wi Fi and Bluetooth let you stream via the Sonos app AirPlay 2 or any phone with ease\n• Durable water resistant design with Auto Trueplay that adapts sound indoors and outdoors",
+        "cons": "Cons\n• Heavier than compact travel speakers so it may not suit ultralight packing\n• Full smart features and stereo pairing work best on Wi Fi which can mean a bit more setup than a simple Bluetooth speaker",
+        "pros_de": "Vorteile\n• Tragbarer Smart Speaker mit bis zu 24 Stunden Akku und Tragegriff für flexible Nutzung zu Hause auf dem Balkon oder im Park\n• Wi Fi und Bluetooth ermöglichen Streaming über die Sonos App AirPlay 2 oder direkt vom Smartphone\n• Robustes wasserresistentes Design mit Auto Trueplay das den Klang drinnen und draußen anpasst",
+        "cons_de": "Nachteile\n• Etwas schwerer als sehr kompakte Bluetooth Boxen daher vielleicht nicht ideal für leichtes Reisegepäck\n• Einige Funktionen wie Stereopaarung und Sprachsteuerung funktionieren am besten im WLAN und erfordern etwas mehr Einrichtung als eine einfache Bluetooth Box"
     },
     {
         "slug": "all-in-one-apple-21-5-imac-retina-4k-mid-2020-21-5-intel-core-i5-10500-8gb-256gb-ssd-amd-radeon-pro-5300-4gb-gddr6",
@@ -17353,7 +18097,11 @@ const data = [
             "Arbeitsspeicher": "8GB",
             "Tastatursprache": "Deutsch",
             "Abmessungen und Gewicht": "52.8 x 17.5 x 5.44 cm • 45 kg"
-        }
+        },
+        "pros": "English\nPros\n• 4K Retina display delivers sharp visuals for work, streaming, and photos\n• Quiet all in one design saves desk space and keeps your setup clean\n• Smooth macOS experience for everyday multitasking and creative apps with the flexibility to upgrade your rental as needs change",
+        "cons": "Cons\n• Not portable so may not suit on the go use\n• Some users might find the base storage and older Intel platform limiting for very heavy 3D work or gaming",
+        "pros_de": "Deutsch\nVorteile\n• 4K Retina Display mit gestochen scharfer Darstellung für Arbeit Streaming und Fotos\n• Leises All in One Design spart Platz und hält den Schreibtisch aufgeräumt\n• Flüssige macOS Nutzung für Multitasking und kreative Apps mit der Flexibilität die Miete bei Bedarf aufzurüsten",
+        "cons_de": "Nachteile\n• Nicht tragbar daher für unterwegs weniger geeignet\n• Einige Nutzerinnen und Nutzer könnten den Basisspeicher und die ältere Intel Plattform für sehr anspruchsvolle 3D Aufgaben oder Gaming als begrenzend empfinden"
     },
     {
         "slug": "amazon-e-reader-kindle-2022-16gb",
@@ -17368,7 +18116,11 @@ const data = [
             "DISPLAYAUFLÖSUNG": "300ppi",
             "ABMESSUNGEN / GEWICHT": "157,8 x 108,6 x 8,0 mm / 158g",
             "UNTERSTÜTZTE MEDIENFORMATE": "Kindle Format 8 (AZW3), Kindle (AZW), TXT, PDF, ungeschütztes MOBI, PRC nativ; PDF, DOCX, DOC, HTML, EPUB, TXT, RTF, JPEG, GIF, PNG, BMP durch Konvertierung; Audible Audioformat (AAX)"
-        }
+        },
+        "pros": "Pros\n• Sharp 6 inch glare free display with adjustable front light for comfortable reading anywhere\n• 16 GB storage fits thousands of books while staying compact and travel friendly\n• Weeks long battery and convenient USB C charging for low maintenance use",
+        "cons": "Cons\n• Not water resistant which may not suit pool or beach reading\n• The 6 inch screen might feel small if you prefer a larger page view",
+        "pros_de": "Vorteile\n• Scharfes 6 Zoll Display ohne Spiegelungen mit einstellbarer Beleuchtung für entspanntes Lesen überall\n• 16 GB Speicher für tausende Bücher und trotzdem kompakt und reisefreundlich\n• Akku hält wochenlang und USB C Laden macht das Aufladen bequem",
+        "cons_de": "Nachteile\n• Nicht wasserfest was am Pool oder Strand weniger praktisch sein kann\n• Das 6 Zoll Display kann klein wirken wenn du eine größere Ansicht bevorzugst"
     },
     {
         "slug": "apple-macbook-air-13-m3-8cpu-8gb-256gb-8gpu-eng",
@@ -17383,7 +18135,11 @@ const data = [
             "Arbeitsspeicher": "8GB",
             "Tastatursprache": "Englisch",
             "Abmessungen und Gewicht": "30.41 x 21.5 x 1.13 cm • 1.24 kg"
-        }
+        },
+        "pros": "Pros\n• Fast Apple M3 performance with smooth everyday multitasking and capable graphics for creative apps  \n• Ultra light and fanless design makes it easy to carry and quiet to use anywhere  \n• Great for flexible rentals if you want the latest Mac experience without long term commitment",
+        "cons": "Cons\n• 8 GB memory may not suit heavy multitasking or advanced video editing  \n• 256 GB storage can fill up quickly with large media files, so cloud or external storage may be helpful",
+        "pros_de": "Vorteile\n• Starke Performance mit Apple M3 für flüssiges Multitasking und kreative Anwendungen  \n• Sehr leichtes und lüfterloses Design, ideal für unterwegs und leises Arbeiten  \n• Gut zum Mieten wenn du flexibel bleiben und die aktuelle Mac Experience ohne lange Bindung testen willst",
+        "cons_de": "Nachteile\n• 8 GB Arbeitsspeicher könnte für sehr anspruchsvolle Multitasking Szenarien oder Videoschnitt zu wenig sein  \n• 256 GB Speicher kann sich mit großen Medien schnell füllen, Cloud oder externe Lösungen sind sinnvoll"
     },
     {
         "slug": "yamaha-musical-instrument-yamaha-p-121-digital-piano",
@@ -17397,7 +18153,11 @@ const data = [
             "Anschlussmöglichkeiten": "-",
             "Mitgeliefertes Zubehör": "Notenablage, Pedal / Fußschalter, AC Adapter",
             "Verstärker & Lautsprecher": "2 x 7 W, 2 x 12 cm + 2 x 4 cm Treiber"
-        }
+        },
+        "pros": "English\nPros\n• Compact 73 key size fits small spaces and is easy to move between home, studio, and gigs\n• Weighted keys with authentic piano feel support realistic practice and expressive playing\n• Quality built in speakers and headphone output let you play any time without extra gear",
+        "cons": "Cons\n• 73 keys may not suit advanced repertoire that requires a full 88 key range\n• Built in speakers are fine for home practice but may feel modest for larger rooms without an external amp",
+        "pros_de": "Deutsch\nVorteile\n• Kompakte 73 Tasten Größe passt in kleine Räume und ist leicht zu transportieren\n• Gewichtete Tasten mit authentischem Klaviergefühl unterstützen realistisches Üben und ausdrucksstarkes Spiel\n• Eingebaute Lautsprecher und Kopfhörer Anschluss ermöglichen leises Spielen ohne Zusatzgerät",
+        "cons_de": "Nachteile\n• 73 Tasten Umfang eignet sich eventuell nicht für fortgeschrittenes Repertoire, das den vollen 88 Tasten Bereich braucht\n• Die eingebauten Lautsprecher reichen für Zuhause gut, wirken in größeren Räumen ohne externen Verstärker eventuell etwas zurückhaltend"
     },
     {
         "slug": "laptop-hp-chromebook-11a-nb0210ng-11-6-intel-celeron-n4000-4gb-32gb-emmc-intel-uhd-graphics",
@@ -17412,7 +18172,11 @@ const data = [
             "Arbeitsspeicher": "4GB",
             "Tastatursprache": "Deutsch",
             "Abmessungen und Gewicht": "30.6 x 20.8 x 1.8 cm • 1.36 kg"
-        }
+        },
+        "pros": "Pros\n• Compact and light Chromebook that is easy to carry and great for study travel and couch browsing\n• Smooth everyday performance for mail docs streaming and web with Intel Celeron N4000 4GB RAM and quick start on Chrome OS\n• Simple and secure setup with automatic updates and Google apps ideal for flexible short term use when renting",
+        "cons": "Cons\n• 32GB eMMC storage may feel limited for large files best with cloud storage\n• May not suit heavy creative work or demanding games due to modest processor and integrated graphics",
+        "pros_de": "Vorteile\n• Kompakt und leicht lässt sich einfach mitnehmen und ist ideal für Studium Reise und entspanntes Surfen auf dem Sofa\n• Flüssige Alltagsnutzung für Mail Dokumente Streaming und Web mit Intel Celeron N4000 4GB RAM und schnellem Start unter Chrome OS\n• Einfache und sichere Einrichtung mit automatischen Updates und Google Apps ideal für flexible Nutzung auf Zeit bei einer Miete",
+        "cons_de": "Nachteile\n• 32GB eMMC Speicher kann für große Dateien knapp sein am besten mit Cloud Speicher kombinieren\n• Für rechenintensive Kreativarbeit oder anspruchsvolle Spiele weniger geeignet wegen sparsamer CPU und integrierter Grafik"
     },
     {
         "slug": "acer-h6546ki-projector",
@@ -17441,17 +18205,29 @@ const data = [
             "Projektionsgröße (diagonal)": "0.71 ~ 7.75 m",
             "Abmessungen / Versandmaße (mm)": "313 x 240 x 114",
             "Horizontale / Vertikale Frequenz": "15 ~ 100 kHz / 24 ~ 120 Hz"
-        }
+        },
+        "pros": "English\nPros\n• Full HD resolution delivers clear sharp visuals for movies sports and gaming\n• Bright picture that works well in living rooms and shared spaces\n• Easy setup with HDMI connectivity and keystone correction for flexible placement",
+        "cons": "Cons\n• Not 4K so may not suit users who want the highest possible detail\n• Audio from a projector can be modest for a cinema feel you will likely want external speakers",
+        "pros_de": "Deutsch\nVorteile\n• Full HD Auflösung sorgt für ein klares scharfes Bild bei Filmen Sport und Gaming\n• Helle Darstellung die auch in Wohnräumen und Gemeinschaftsbereichen gut funktioniert\n• Einfache Einrichtung mit HDMI Anschluss und Keystone Korrektur für flexible Platzierung",
+        "cons_de": "Nachteile\n• Kein 4K daher möglicherweise nicht ideal wenn du die höchste Detailstufe suchst\n• Der Ton eines Beamers ist meist eher schlicht für echtes Kinofeeling sind externe Lautsprecher empfehlenswert"
     },
     {
         "slug": "adam-audio-t7v-studio-monitors",
         "name": "Adam Audio T7V Studio Monitor",
-        "specifications": null
+        "specifications": null,
+        "pros": "English\nPros\n• Accurate monitoring with clear highs from the ribbon tweeter and a confident low end for small to mid sized rooms\n• Easy to integrate with most setups via XLR and RCA inputs plus simple rear panel controls\n• Compact and rental friendly size that fits desks and project studios without fuss",
+        "cons": "Cons\n• Rear bass port may need some distance from walls to sound its best\n• A single monitor may not suit users who want a stereo setup",
+        "pros_de": "Deutsch\nVorteile\n• Präziser Klang mit klaren Höhen und definiertem Bass ideal für kleine bis mittelgroße Räume\n• Einfache Einbindung in viele Setups über XLR und RCA Eingänge sowie übersichtliche Regler auf der Rückseite\n• Kompakte und mietfreundliche Bauweise passt gut auf den Schreibtisch und ins Projektstudio",
+        "cons_de": "Nachteile\n• Der Bassreflexkanal auf der Rückseite klingt oft besser mit etwas Abstand zur Wand\n• Ein einzelner Monitor eignet sich weniger für Nutzer die direkt in Stereo arbeiten möchten"
     },
     {
         "slug": "yamaha-dtx402k-digital-drum-kit-2019",
         "name": "YAMAHA DTX402K Digitales Schlagzeug-Set",
-        "specifications": null
+        "specifications": null,
+        "pros": "English\nPros\n• Quiet headphone practice and a compact footprint make it apartment friendly  \n• Built in training modes plus the Yamaha app support help you learn faster and stay motivated  \n• USB connection works with music software and learning apps for flexible practice and recording",
+        "cons": "Cons\n• Rubber pads and the beaterless pedal may not feel as close to acoustic drums as higher end mesh kits  \n• Limited module customization and pro connectivity may not suit advanced players or live shows",
+        "pros_de": "Deutsch\nVorteile\n• Leises Üben mit Kopfhörer und kleines Stellmaß passen gut in die Wohnung  \n• Integrierte Trainingsfunktionen und App Unterstützung helfen beim Lernen und Dranbleiben  \n• USB Anschluss für Lern Apps und Musiksoftware bietet flexible Nutzung und einfache Aufnahme",
+        "cons_de": "Nachteile\n• Gummi Pads und das pedal ohne Beater fühlen sich weniger wie ein akustisches Set an als Mesh Varianten höherer Klassen  \n• Begrenzte Anpassung und Anschlüsse sind eventuell weniger geeignet für sehr Fortgeschrittene oder die Bühne"
     },
     {
         "slug": "lenovo-console-legion-go-s-steam-os-1td-32gb",
@@ -17490,7 +18266,11 @@ const data = [
             "Integrierte Lautsprecher": "Ja",
             "USB-C-Laden unterstützt": "Ja",
             "USB-C-Ladegerät enthalten": "Nein"
-        }
+        },
+        "pros": "English\nPros\n• Strong handheld performance with 32 GB memory and 1 TB storage for large libraries and fast loads\n• Steam OS gives quick access to your Steam library with simple updates and a gaming first interface\n• Great for trying the latest handheld gaming trend without a long commitment",
+        "cons": "Cons\n• Battery life during demanding titles may be shorter than a living room console\n• Steam OS focus may not suit players who need Windows only games or other launchers",
+        "pros_de": "Deutsch\nVorteile\n• Starke mobile Performance mit 32 GB Arbeitsspeicher und 1 TB Speicher für große Spielbibliotheken und schnelle Ladezeiten\n• Steam OS bietet schnellen Zugriff auf die Steam Bibliothek sowie einfache Updates und eine gamingorientierte Oberfläche\n• Ideal zum Mieten wenn du den aktuellen Handheld Gaming Trend flexibel ausprobieren möchtest",
+        "cons_de": "Nachteile\n• Die Akkulaufzeit kann bei anspruchsvollen Spielen kürzer ausfallen als bei einer stationären Konsole\n• Der Fokus auf Steam OS passt eventuell nicht zu allen die Windows exklusive Titel oder andere Launcher benötigen"
     },
     {
         "slug": "apple-laptop-apple-apple-macbook-pro-35-6cm-14-m1-pro-10-core-cpu-16-core-gpu-14",
@@ -17505,7 +18285,11 @@ const data = [
             "Arbeitsspeicher": "16GB",
             "Tastatursprache": "Deutsch",
             "Abmessungen und Gewicht": "31.26 x 22.12 x 1.55 cm • 1.6 kg"
-        }
+        },
+        "pros": "Pros\n• M1 Pro performance with 16 core graphics handles editing coding and multitasking smoothly\n• 16 GB memory and efficient design deliver long battery life and quiet operation\n• Pro power without the commitment of buying ideal to rent for intense sprints or short projects",
+        "cons": "Cons\n• 512 GB storage may feel tight for large media libraries so external or cloud storage can help\n• Not the lightest MacBook so frequent travelers who want ultra portability may prefer a slimmer model",
+        "pros_de": "Vorteile\n• M1 Pro Leistung mit 16 Core Grafik bewältigt Schnitt Coding und Multitasking souverän\n• 16 GB Arbeitsspeicher und effizientes Design sorgen für lange Akkulaufzeit und leisen Betrieb\n• Profi Power ohne Kaufbindung ideal zur Miete für Projektspitzen oder zeitlich begrenzte Einsätze",
+        "cons_de": "Nachteile\n• 512 GB Speicher kann bei großen Medienprojekten knapp sein daher sind externe oder Cloud Lösungen hilfreich\n• Nicht das leichteste MacBook daher für Vielreisende mit Fokus auf maximale Mobilität eventuell weniger passend"
     },
     {
         "slug": "yamaha-dj-studio-equipment-yamaha-hs8-bassreflex-studio-monitor-piece",
@@ -17523,12 +18307,20 @@ const data = [
             "Operating mode": "Plug-in",
             "Special features": "Bass reflex system. Adjustable input level. Room control and high trim response control",
             "Intelligent functions": "-"
-        }
+        },
+        "pros": "Pros\n• Neutral and accurate sound for honest mixing and content creation\n• 8 inch woofer delivers deep controlled bass so many projects do not need a sub\n• Room control and high trim tailor the monitor to your space, with balanced inputs for easy setup as a single or as a pair",
+        "cons": "Cons\n• Large and fairly heavy which may not suit very small desks or shared spaces\n• This is a single speaker you will need two for true stereo",
+        "pros_de": "Vorteile\n• Neutrale und ehrliche Wiedergabe für Mixing und Content\n• 8 Zoll Tieftöner mit kontrolliertem Bass oft kein Subwoofer nötig\n• Raumregelung und High Trim zur Anpassung an deinen Raum balancierte Eingänge für einfache Einbindung solo oder als Paar",
+        "cons_de": "Nachteile\n• Relativ groß und schwer für sehr kleine Schreibtische eventuell weniger passend\n• Es ist ein einzelner Monitor für echtes Stereo benötigst du zwei"
     },
     {
         "slug": "sigma-af-16mm-f-1-4-dc-dn-c-fujifilm-x-mount",
         "name": "Sigma 16mm f/1,4 DC DN C Fujifilm X-mount",
-        "specifications": null
+        "specifications": null,
+        "pros": "Pros\n* Bright f1.4 aperture for low light shooting and soft background blur\n* 24 mm equivalent field of view on Fujifilm X makes it great for vlogging travel and interiors\n* Fast quiet autofocus that works well for both photo and video creators",
+        "cons": "Cons\n* No optical stabilization may not suit handheld video on bodies without IBIS\n* No dedicated aperture ring which some Fujifilm users might prefer",
+        "pros_de": "Vorteile\n* Sehr lichtstark mit f1,4 für Aufnahmen bei wenig Licht und sanftes Bokeh\n* Entspricht etwa 24 mm an Fujifilm X ideal für Vlogs Reisen und Innenräume\n* Schneller leiser Autofokus der sich für Foto und Video gut eignet",
+        "cons_de": "Nachteile\n* Keine optische Stabilisierung könnte für Video aus der Hand ohne IBIS weniger passend sein\n* Kein eigener Blendenring was manche Fujifilm Nutzer bevorzugen würden"
     },
     {
         "slug": "vr-headset-oculus-go-32gb",
@@ -17545,12 +18337,20 @@ const data = [
             "Bildwiederholrate": "60-72 Hz",
             "Funktionalitäten": "Ausgelaufene Meta-Unterstützung für Oculus Go.",
             "App-Funktionalität": "Eingeschränkt, da Updates des App Stores nicht mit älteren Geräten kompatibel sind."
-        }
+        },
+        "pros": "English\nPros\n• Standalone VR headset no PC or phone needed for quick setup and play\n• Lightweight and portable great for movies social VR and casual games on the go\n• Budget friendly way to explore VR by renting without long term commitment",
+        "cons": "Cons\n• Three degrees of freedom tracking and a single controller may not suit users seeking full room scale experiences\n• 32 GB storage means you may need to manage downloads if you install many apps or larger games",
+        "pros_de": "Deutsch\nVorteile\n• Funktioniert eigenständig ohne PC oder Smartphone schnelles Einrichten und sofort loslegen\n• Leicht und mobil ideal für Filme soziale VR Erlebnisse und Gelegenheitsspiele unterwegs\n• Preisbewusster Einstieg in VR zur Miete ohne lange Bindung",
+        "cons_de": "Nachteile\n• Nur drei Freiheitsgrade und ein Controller eignen sich weniger für Nutzer die volle Raumbewegung erwarten\n• 32 GB Speicher erfordert gelegentliches Verwalten von Apps wenn viele Inhalte installiert werden"
     },
     {
         "slug": "apple-accessories-apple-airtag-4-pack",
         "name": "Apple AirTag (4er Pack)",
-        "specifications": null
+        "specifications": null,
+        "pros": "Pros\n• Easy item tracking via the Find My network with precise direction finding on compatible iPhone models\n• Four pack covers keys wallets luggage or bikes and is great for trips or short term needs without long commitment\n• Long battery life around one year and user replaceable CR2032 battery keeps costs predictable",
+        "cons": "Cons\n• Works best with Apple devices and may not suit Android only users\n• Precision finding depends on nearby Apple devices so coverage can vary in low traffic areas",
+        "pros_de": "Vorteile\n• Einfaches Auffinden von Gegenständen über das Apple Wo ist Netzwerk mit präziser Richtungssuche auf kompatiblen iPhone Modellen\n• Viererpack deckt Schlüssel Geldbeutel Gepäck oder Fahrrad ab und passt gut für Reisen oder zeitlich begrenzte Einsätze ohne lange Bindung\n• Lange Batterielaufzeit etwa ein Jahr und vom Nutzer austauschbare CR2032 Batterie hält Kosten planbar",
+        "cons_de": "Nachteile\n• Funktioniert am besten mit Apple Geräten und eignet sich eventuell weniger für reine Android Nutzer\n• Die Präzisionssuche hängt von nahegelegenen Apple Geräten ab daher kann die Abdeckung in wenig frequentierten Gegenden variieren"
     },
     {
         "slug": "asus-monitor-asus-zenscreen-mb16ahg-39-6cm-16-9-fhd-hdmi-16-90lm08u0-b01170",
@@ -17562,7 +18362,11 @@ const data = [
             "Reaktionszeit": "3ms",
             "Abmessungen und Gewicht": "35.9 x 22.6 x 1.19 cm • 0.92 kg",
             "High Dynamic Range (HDR)": "No"
-        }
+        },
+        "pros": "Pros\n* Portable 16 inch Full HD display that boosts workspace or gaming anywhere\n* High refresh rate for smooth gameplay and scrolling\n* Simple plug and play setup via HDMI for laptops consoles and more",
+        "cons": "Cons\n* Full HD resolution may not suit color critical design or very detailed photo work\n* Brightness is best indoors some users might find it limited in direct sunlight",
+        "pros_de": "Vorteile\n* Mobiles 16 Zoll Full HD Display erweitert den Arbeitsplatz oder das Gaming unterwegs\n* Hohe Bildwiederholrate für flüssiges Spielen und Scrollen\n* Einfache Einrichtung per HDMI mit Laptop Konsole und mehr",
+        "cons_de": "Nachteile\n* Full HD ist für farbkritische Grafik oder sehr detailreiche Fotoarbeit weniger geeignet\n* Die Helligkeit passt gut für Innenräume bei direktem Sonnenlicht jedoch begrenzt"
     },
     {
         "slug": "apple-laptop-apple-apple-macbook-air-13-m2-spacegrau-cto-8c-cpu-8c-gpu-int",
@@ -17577,7 +18381,11 @@ const data = [
             "Arbeitsspeicher": "8GB",
             "Tastatursprache": "Englisch",
             "Abmessungen und Gewicht": "30.41 x 21.24 x 1.56 cm • 1.4 kg"
-        }
+        },
+        "pros": "English\nPros\n• M2 chip delivers fast performance and smooth multitasking for study work and creative tasks\n• Thin and light 13 inch design with long battery life for mobile days and hybrid work\n• Renting lets you enjoy the latest Apple look and feel now with the option to swap or upgrade later",
+        "cons": "Cons\n• 8 GB memory may not suit heavy video editing or very large multitasking\n• 256 GB storage can fill up quickly for big media libraries using cloud storage or an external drive may help",
+        "pros_de": "\nDeutsch\nVorteile\n• Der M2 Chip sorgt für schnelle Leistung und flüssiges Multitasking für Studium Arbeit und kreative Aufgaben\n• Schlankes leichtes 13 Zoll Design mit langer Akkulaufzeit ideal für unterwegs und hybrides Arbeiten\n• Mieten statt kaufen bringt dir das aktuelle Apple Erlebnis jetzt mit der Option später zu wechseln oder aufzurüsten",
+        "cons_de": "Nachteile\n• 8 GB Arbeitsspeicher eignet sich eventuell nicht für aufwendigen Videoschnitt oder sehr viele gleichzeitige Apps\n• 256 GB Speicher kann sich bei großen Medienbibliotheken schnell füllen Cloud Speicher oder eine externe Festplatte kann helfen"
     },
     {
         "slug": "action-camera-hero7-white",
@@ -17588,7 +18396,11 @@ const data = [
             "Video-Auflösung": "4K 60fps, 8x Slo-Mo",
             "Besondere Merkmale": "HyperSmooth Stabilisierung, 8x Slo-Mo, 1080p Live-Streaming, Gesichts- & Lächel- + Szenenerkennung, Wi-Fi + Bluetooth®",
             "Effektive Fotoauflösung": "12MP SuperPhoto"
-        }
+        },
+        "pros": "English\nPros:\n• Simple touch controls and voice control make it easy to use on trips and weekends\n• Stabilized 1080p video and 10 MP photos for smooth everyday footage\n• Waterproof to 10 m without a case so you can capture pool and rain moments with confidence",
+        "cons": "Cons:\n• Does not offer 4K or advanced controls so creators seeking pro grade flexibility may not find it ideal\n• Built in battery is not swappable so longer shoots may require charging breaks",
+        "pros_de": "\nDeutsch\nVorteile:\n• Einfache Bedienung mit Touchscreen und Sprachsteuerung ideal für Reisen und Wochenenden\n• Stabilisiertes 1080p Video und 10 MP Fotos für ruhige Aufnahmen im Alltag\n• Wasserfest bis 10 m ohne Gehäuse für sorgenfreie Clips am Pool und im Regen",
+        "cons_de": "Nachteile:\n• Kein 4K und weniger Profi Einstellungen daher für anspruchsvolle Creator eventuell nicht die beste Wahl\n• Akku ist fest verbaut daher sind bei längeren Drehs Ladepausen einzuplanen"
     },
     {
         "slug": "yamaha-musical-instrument-yamaha-np-15-piaggero-61-key-digital-piano",
@@ -17602,7 +18414,11 @@ const data = [
             "OPERATING MODE": "AC Adaptor (PA-130, PA-3C, or an equivalent recommended by Yamaha) or batteries (Six “AA” size alkaline (LR6), manganese (R6) or Ni-MH rechargeable (HR6) batteries)",
             "INCLUDED ACCESSORIES": "Music rest",
             "AMPLIFIERS & SPEAKERS": "2 x 2.5 W, 2 x 12 cm drivers"
-        }
+        },
+        "pros": "Pros\n• Compact 61 key design fits small spaces and is easy to move or store between sessions\n• Clean piano focused sound with Yamaha quality and simple controls for quick plug and play practice\n• Built in speakers and headphone jack plus USB to connect with learning apps or a laptop",
+        "cons": "Cons\n• 61 keys and a lighter action may not suit players who want a full 88 key weighted piano feel\n• Sound library and onboard features are basic compared with arranger keyboards",
+        "pros_de": "Vorteile\n• Kompaktes 61 Tasten Design passt in kleine Räume und lässt sich leicht transportieren oder verstauen\n• Klavierorientierter Klang mit Yamaha Qualität und einfachen Bedienelementen für schnelles Loslegen\n• Eingebaute Lautsprecher und Kopfhörer Anschluss sowie USB für die Verbindung mit Lern Apps oder dem Laptop",
+        "cons_de": "Nachteile\n• 61 Tasten und eine leichtere Tastatur könnten für Spielerinnen und Spieler mit Wunsch nach voll gewichteter 88 Tasten Klaviatur weniger geeignet sein\n• Klangauswahl und Onboard Funktionen sind eher schlicht im Vergleich zu Arranger Keyboards"
     },
     {
         "slug": "dell-monitor-dell-27-fhd-monitor-p2722h-27-p2722h",
@@ -17614,7 +18430,11 @@ const data = [
             "Reaktionszeit": "8ms",
             "Abmessungen und Gewicht": "60.9 x 19 x 38.4 cm • 6.7 kg",
             "High Dynamic Range (HDR)": "No"
-        }
+        },
+        "pros": "English\nPros\n• Ergonomic stand with height tilt swivel and pivot so you can dial in a comfy desk setup\n• IPS Full HD panel with slim bezels for crisp visuals and easy multi monitor layouts\n• Flexible ports HDMI DisplayPort VGA plus a USB hub make it simple to plug in different devices at home or work",
+        "cons": "Cons\n• Full HD on 27 inch may not suit users who want ultra sharp text or creative detail compared with QHD\n• No USB C for a single cable laptop connection which some users might prefer",
+        "pros_de": "\nDeutsch\nVorteile\n• Ergonomischer Standfuß mit Höhenverstellung Neigung Drehung und Pivot für eine bequeme Schreibtischeinstellung\n• IPS Full HD Panel mit schmalen Rändern für klare Darstellung und einfache Mehrmonitor Setups\n• Flexible Anschlüsse HDMI DisplayPort VGA plus USB Hub erleichtern das Anschließen verschiedener Geräte zu Hause oder im Büro",
+        "cons_de": "Nachteile\n• Full HD auf 27 Zoll bietet eventuell nicht die gewünschte Schärfe für sehr detailorientierte Aufgaben im Vergleich zu QHD\n• Kein USB C für die Ein Kabel Verbindung was manche Nutzer bevorzugen"
     },
     {
         "slug": "lenovo-thinkpad-t14s-gen-6-copilot-pc-x-elite-32gb-1tb",
@@ -17630,7 +18450,11 @@ const data = [
             "Tastatursprache": "Deutsch",
             "Idealer Anwendungsfall": "Perfekt für Geschäftsleute, die ein tragbares, zuverlässiges Notebook für geschäftliche, produktive und leichte kreative Arbeiten benötigen, mit langer Akkulaufzeit für den ganztägigen Einsatz.",
             "Abmessungen und Gewicht": "31.4 x 21.9 x 16.9 cm • 1.24 kg"
-        }
+        },
+        "pros": "English\nPros\n• Snapdragon X Elite with 32 GB memory and fast 1 TB SSD delivers smooth multitasking and serious productivity\n• Copilot Plus PC with on device AI acceleration for smarter workflows that help save time and battery\n• A simple way to try the latest Windows AI laptop with no long commitment perfect for flexible renting",
+        "cons": "Cons\n• Windows on ARM app support may not suit some niche tools games or specific peripherals so check your must have apps\n• Integrated Adreno graphics handle productivity and light creative edits but are not ideal for demanding 3D or AAA gaming",
+        "pros_de": "Deutsch\nVorteile\n• Snapdragon X Elite mit 32 GB Arbeitsspeicher und schneller 1 TB SSD sorgt für flüssiges Multitasking und produktives Arbeiten\n• Copilot Plus PC mit KI Beschleunigung direkt auf dem Gerät für schnellere Workflows und bessere Effizienz\n• Einfach zum Ausprobieren der neuesten Windows AI Laptop Generation ohne lange Bindung ideal für flexibles Mieten",
+        "cons_de": "Nachteile\n• Windows auf ARM passt eventuell nicht zu spezieller Software Spielen oder bestimmter Peripherie daher am besten die wichtigsten Apps vorher prüfen\n• Die integrierte Adreno Grafik ist für Produktivität und leichte Kreativarbeiten gut für anspruchsvolle 3D oder AAA Spiele jedoch weniger geeignet"
     },
     {
         "slug": "lg-monitor-lg-lg-27up85np-w-beu-27-27-27up85np",
@@ -17642,7 +18466,11 @@ const data = [
             "Reaktionszeit": "5ms",
             "Abmessungen und Gewicht": "61.3 x 45.9 x 29.3 cm • 5.9 kg",
             "High Dynamic Range (HDR)": "Yes"
-        }
+        },
+        "pros": "Pros\n• 4K IPS clarity with wide viewing angles makes text crisp and visuals vibrant for work and streaming\n• USB C connectivity for a simple one cable laptop setup and a tidy flexible desk\n• Versatile ports and a clean design fit easily into home office or creative workflows",
+        "cons": "Cons\n• Standard 60 Hz refresh may not suit competitive gaming\n• 4K resolution can make items appear small and may need scaling or a capable laptop",
+        "pros_de": "Vorteile\n• 4K IPS Schärfe mit großen Blickwinkeln sorgt für klare Schrift und lebendige Farben für Arbeit und Streaming\n• USB C Anschluss für ein einfaches Ein Kabel Laptop Setup und einen aufgeräumten flexiblen Schreibtisch\n• Vielseitige Anschlüsse und ein schlichtes Design fügen sich leicht in Home Office und kreative Workflows ein",
+        "cons_de": "Nachteile\n• Standard 60 Hz Bildwiederholrate ist weniger geeignet für kompetitives Gaming\n• 4K Auflösung kann Elemente klein wirken lassen und erfordert eventuell Skalierung oder ein leistungsfähiges Notebook"
     },
     {
         "slug": "samsung-monitor-samsung-samsung-serie-9-s49ag954np-49-ls49ag954npxen",

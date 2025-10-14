@@ -7,7 +7,7 @@ try {
       "Content-Type": "application/json",
     },
     body: JSON.stringify({ prompt: `You are a product content writer for Grover, a tech rental platform that makes it easy to access the latest technology without the commitment of buying.
-Write a list of 2–3 Pros and 1–2 Cons for the following product: [${name}, ${specifications? specifications : ''}].
+Write a list of 2–3 Pros and 1–2 Cons both in English and German for the following product: [${name}, ${specifications? specifications : ''}].
 ✅ Keep these rules in mind:
 Don't use any hyphen on the generated output
 Tone: Clear, helpful, modern. Avoid exaggeration or hype.
@@ -30,16 +30,22 @@ Cons: Be honest about minor downsides, but keep the tone constructive. Avoid har
 
 
 for (let i = 0 ; i < data.length; i++){
-  console.log('hit', i)
+  console.log('hit', i);
   const productData = data[i];
   const prosConsData = await callLambda(productData)
    prosConsData.forEach((pc) => {
-      if(pc.includes('Pros')){
-          data[i].pros =  pc;
-      }
-      else if(pc.includes('Cons')){
-          data[i].cons =  pc;
-      }
+    if(pc.includes('Pros')){
+        data[i].pros =  pc;
+    }
+    else if(pc.includes('Cons')){
+        data[i].cons =  pc;
+    }
+    else if(pc.includes('Vorteile')){
+       data[i].pros_de =  pc;
+    }
+    else if(pc.includes('Nachteile')){
+        data[i].cons_de =  pc;
+    }
   })
 }
 
