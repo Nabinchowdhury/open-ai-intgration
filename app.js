@@ -3,10 +3,12 @@ import express from "express";
 // import fetch from "node-fetch";
 import dotenv from "dotenv";
 import serverless from "serverless-http";
+import cors from "cors";
 
 dotenv.config();
 
 const app = express();
+app.use(cors());
 app.use(express.json());
 
 // app.use(express.urlencoded({ extended: true, limit: '10mb' }));
@@ -41,6 +43,14 @@ app.post("/openAi-integration/api/chat", async (req, res) => {
       model: "gpt-5",
       messages: [{ role: "user", content: prompt }],
     }),
+    // body: JSON.stringify({
+    //   model: "gpt-4o",
+    //   messages: [{ role: "user", content: prompt }],
+    //   // max_completion_tokens: 80
+    //   max_tokens: 200,
+    //   temperature: 0.7,      // faster and more focused
+    //   top_p: 0.9,            // slightly narrower sampling
+    // }),
   });
 
   const data = await response.json();

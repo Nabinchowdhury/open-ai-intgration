@@ -3935,7 +3935,7 @@ async function getProductsList(page, limit, newArray){
       "x-grover-store": "de"
     },
     "referrer": "https://www.grover.com/",
-    "body": `{\"query\":\"query searchProductsFull($query: String, $filters: FilterArgs, $resultsPerPage: Int, $page: Int, $sort: Sort) {\\n  searchProducts(\\n    query: $query\\n    filters: $filters\\n    resultsPerPage: $resultsPerPage\\n    page: $page\\n    sort: $sort\\n  ) {\\n    products {\\n      ...ProductCard\\n    }\\n    facets {\\n      name\\n      __typename\\n      ... on MatchFacet {\\n        values {\\n          value\\n          count\\n        }\\n      }\\n      ... on RangeFacet {\\n        min\\n        max\\n      }\\n      ... on SpecFacet {\\n        name\\n        label\\n        values {\\n          min\\n          max\\n          value\\n          count\\n        }\\n      }\\n    }\\n    pagination {\\n      currentPage\\n      nextPage\\n      prevPage\\n      totalPages\\n      totalItems\\n    }\\n  }\\n}\\n\\nfragment ProductCard on Product {\\n  slug\\n}\",\"variables\":{\"filters\":{},\"sort\":\"RANK\",\"resultsPerPage\":${limit},\"page\":${page}}}`,
+    "body": `{\"query\":\"query searchProductsFull($query: String, $filters: FilterArgs, $resultsPerPage: Int, $page: Int, $sort: Sort) {\\n  searchProducts(\\n    query: $query\\n    filters: $filters\\n    resultsPerPage: $resultsPerPage\\n    page: $page\\n    sort: $sort\\n  ) {\\n    products {\\n      ...ProductCard\\n    }\\n    facets {\\n      name\\n      __typename\\n      ... on MatchFacet {\\n        values {\\n          value\\n          count\\n        }\\n      }\\n      ... on RangeFacet {\\n        min\\n        max\\n      }\\n      ... on SpecFacet {\\n        name\\n        label\\n        values {\\n          min\\n          max\\n          value\\n          count\\n        }\\n      }\\n    }\\n    pagination {\\n      currentPage\\n      nextPage\\n      prevPage\\n      totalPages\\n      totalItems\\n    }\\n  }\\n}\\n\\nfragment ProductCard on Product {\\n  slug\\n  name\\n specifications\\n}\",\"variables\":{\"filters\":{},\"sort\":\"RANK\",\"resultsPerPage\":${limit},\"page\":${page}}}`,
     "method": "POST",
     "mode": "cors",
     "credentials": "omit"
@@ -4024,3 +4024,33 @@ async function getAllProductData(inputAsset) {
 }
 
 // =================== utils to get product data from grover ================
+
+
+//======================================final query for getting product data from grover ================
+// query searchProductsFull($query: String, $filters: FilterArgs, $resultsPerPage: Int, $page: Int, $sort: Sort) {
+//     searchProducts(
+//       query: $query
+//       filters: $filters
+//       resultsPerPage: $resultsPerPage
+//       page: $page
+//       sort: $sort
+//     ) {
+//       products {
+//         ...ProductCard
+//       }
+//       pagination {
+//         currentPage
+//         nextPage
+//         prevPage
+//         totalPages
+//         totalItems
+//       }
+//     }
+//   }
+  
+//   fragment ProductCard on Product {
+//     id
+//     slug
+//     name
+//     specifications
+//   }
