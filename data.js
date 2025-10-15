@@ -18482,7 +18482,11 @@ const data = [
             "Reaktionszeit": "1ms",
             "Abmessungen und Gewicht": "111.4 x 36.3 x 53.7 cm • 14.5 kg",
             "High Dynamic Range (HDR)": "Yes"
-        }
+        },
+        "pros": "Pros\n• Immersive 49 inch curved screen at 5120 x 1440 gives the space of two monitors without extra clutter\n• Up to 240 Hz with quick response and adaptive sync for smooth gaming and fast multitasking\n• Mini LED with strong HDR for vivid contrast plus the freedom to rent now and upgrade later",
+        "cons": "Cons\n• Very wide format may not suit compact desks or smaller rooms\n• Reaching full resolution at high refresh can require a powerful graphics card",
+        "pros_de": "Vorteile\n• Eindrucksvolles 49 Zoll Curved Display mit 5120 x 1440 ersetzt zwei Monitore ohne zusätzliches Chaos\n• Bis zu 240 Hz mit schneller Reaktionszeit und Adaptive Sync für flüssiges Gaming und produktives Arbeiten\n• Mini LED mit starkem HDR für kräftige Kontraste plus die Freiheit es zu mieten und später flexibel zu wechseln",
+        "cons_de": "Nachteile\n• Das sehr breite Format passt eventuell nicht auf kleine Schreibtische oder in enge Räume\n• Für die volle Auflösung bei hoher Bildwiederholrate ist unter Umständen eine leistungsstarke Grafikkarte nötig"
     },
     {
         "slug": "marshall-emberton-ii-bluetooth-speaker",
@@ -18497,7 +18501,11 @@ const data = [
             "Technologien": "Der Emberton II ist staub- und wasserdicht nach IP67 - er hält sogar bis zu 30 Minuten in einer Wassertiefe von 1m aus. Dies ist ein Lautsprecher, der sich weder von Regen noch von Schmutz von deiner Musik abhalten lässt.",
             "Konnektivität": "Bluetooth 5.1",
             "Besondere Merkmale": "Erleben Sie vollen 360°-Sound mit True Stereophonic, einer außergewöhnlichen Art von multidirektionalem Marshall-Sound, der aus jedem Blickwinkel optimal ist. Verstärken Sie Ihren Sound mit dem Stack-Modus, bei dem Sie Ihren Lautsprecher mit anderen Emberton II-Lautsprechern verbinden."
-        }
+        },
+        "pros": "Pros\n1. Immersive 360 degree sound in a compact and stylish speaker that is easy to carry\n2. Up to 30 hours of playtime plus USB C quick charge keeps you flexible for trips and weekends\n3. IP67 water and dust resistance adds peace of mind for use at home in the park or on the balcony",
+        "cons": "Cons\n1. May not deliver deep bass for very large rooms or big parties\n2. No AUX input or speakerphone which some users might prefer",
+        "pros_de": "Vorteile\n1. Klarer 360 Grad Klang im kompakten und stylischen Format leicht mitzunehmen\n2. Bis zu 30 Stunden Akkulaufzeit plus USB C Schnellladen bietet flexible Nutzung fuer Ausfluege und Wochenende\n3. IP67 Schutz gegen Wasser und Staub sorgt fuer ein sorgloses Gefuehl zu Hause im Park oder auf dem Balkon",
+        "cons_de": "Nachteile\n1. Koennte in sehr grossen Raeumen nicht tief genug im Bass wirken\n2. Kein AUX Eingang und keine Freisprechfunktion was manche Nutzer vermissen koennten"
     },
     {
         "slug": "dyson-vacuum-cleaner-dyson-v11-absolute-cordless-vacuum-cleaner",
@@ -18509,7 +18517,11 @@ const data = [
             "Besondere Merkmale": "Neuer Dyson Hyperdymium Motor™; bis zu 60 Minuten Laufzeit inkl. Akku mit Wechselfunktion; LCD-Display für Statusinformationen in Echtzeit; Filtration des gesamten Gerätes; hygienische und punktgenaue Behälterentleerung; drei Reinigungsmodi; Akkuleistung bis zu 18.55/25.2/29.4 Volt (Eco, Auto/Med, Boost-Modus)",
             "Typ Bürsten/Düsen": "Motorbar Elektrobürste mit Softwalze, Kombi-Zubehördüse, Fugendüse, Mini-Elektrobürste",
             "Maximale Betriebsdauer": "60 Min"
-        }
+        },
+        "pros": "English\nPros\n• Strong suction with Auto mode that adapts to different floors for efficient everyday cleaning\n• Up to 60 minutes of fade free run time plus an LCD that shows remaining time for easy planning\n• Quickly converts to a lightweight handheld with multiple tools for sofa car and tight spaces",
+        "cons": "Cons\n• Some users might find it a bit heavy during long sessions or in overhead areas\n• Battery life in Boost mode may not suit very large homes",
+        "pros_de": "Deutsch\nVorteile\n• Starke Saugkraft mit Auto Modus der die Leistung an unterschiedliche Böden anpasst\n• Bis zu 60 Minuten Laufzeit und eine LCD Anzeige mit Restzeit für gute Planung\n• Lässt sich schnell zum leichten Handgerät umbauen mit vielen Aufsätzen für Sofa Auto und Ecken",
+        "cons_de": "Nachteile\n• Könnte bei langen Einsätzen oder über Kopf etwas schwer wirken\n• Die Akkulaufzeit im Boost Modus reicht eventuell nicht für sehr große Wohnungen"
     },
     {
         "slug": "acer-nitro-50-n50-640-i5-16gb-512gb-3050",
@@ -18523,7 +18535,11 @@ const data = [
             "Dimensions": "16.3 x 34 x 35 cm • 10 kg",
             "Operating System": "Windows® 11 Home",
             "Keyboard Language": ""
-        }
+        },
+        "pros": "English\nPros\n• Smooth Full HD gaming powered by Intel Core i5 12400F 16 GB RAM and NVIDIA GeForce RTX 3050\n• Fast load times with a 512 GB SSD great for hopping into games and work quickly\n• Solid price to performance pick to rent now with the flexibility to switch later",
+        "cons": "Cons\n• 512 GB storage may feel tight for large game libraries consider external or cloud storage\n• RTX 3050 may not suit ultra settings or 1440p in the newest AAA games",
+        "pros_de": "Deutsch\nVorteile\n• Flüssiges Full HD Gaming dank Intel Core i5 12400F 16 GB RAM und NVIDIA GeForce RTX 3050\n• Schnelle Ladezeiten durch 512 GB SSD ideal für spontanes Zocken und Arbeit\n• Starke Preis Leistung zur Miete mit der Flexibilität später zu wechseln",
+        "cons_de": "Nachteile\n• Für sehr große Spielesammlungen können 512 GB knapp sein externe oder Cloud Speicher kann sinnvoll sein\n• RTX 3050 eignet sich weniger für ultra Einstellungen oder 1440p in sehr anspruchsvollen Titeln"
     },
     {
         "slug": "dreame-vacuum-cleaner-dreame-w10",
@@ -18540,7 +18556,11 @@ const data = [
             "Besonderheiten": "Wenn die Mopppads verschmutzt sind, kehrt der W10 selbstständig zur Basis zurück und lässt sie reinigen • Automatisches Trocknungssystem • LDS-Lidar-Laser • Neuer intelligenter SLAM-Algorithmus",
             "Volumen des Wassertanks": "0,45 l",
             "Volumen des Staubbehälters": "0,45 l"
-        }
+        },
+        "pros": "English\nPros\n- Self cleaning dock washes and dries the mop pads for low effort upkeep between runs\n- Strong vacuum and dual rotating mops handle mixed floors in one go\n- Smart mapping with room based cleaning adds flexibility for busy schedules and shared spaces",
+        "cons": "Cons\n- Large base station may need extra space and a nearby power outlet\n- Water tanks require periodic refilling and emptying depending on use",
+        "pros_de": "Deutsch\nVorteile\n- Selbstreinigende Station wäscht und trocknet die Mopppads für geringen Pflegeaufwand\n- Starke Saugleistung und zwei rotierende Mopps für gründliche Reinigung auf verschiedenen Böden\n- Intelligente Kartierung mit raumweiser Reinigung bietet Flexibilität im Alltag und in Wohngemeinschaften",
+        "cons_de": "Nachteile\n- Die Basisstation benötigt etwas mehr Stellfläche und eine Steckdose in der Nähe\n- Die Wassertanks müssen je nach Nutzung regelmäßig befüllt und geleert werden"
     },
     {
         "slug": "microsoft-xbox-one-elite-wireless-controller-series-2",
@@ -18550,7 +18570,11 @@ const data = [
             "Übertragung": "Bluetooth",
             "Besonderheiten": "Daumenstifte mit einstellbarer Spannung, kürzere Haarauslöser, umlaufender gummierter Griff, überarbeitete Komponenten",
             "Systemanforderungen": "Zur Verwendung mit Xbox One-Systemen und PCs unter Windows 7 oder höher. Windows 10"
-        }
+        },
+        "pros": "Pros\n- Pro grade performance with adjustable stick tension trigger locks and rear paddles for faster reactions\n- Easy to tailor to different games during your rental with interchangeable parts and up to three on device profiles\n- Flexible connection via Bluetooth or USB C and long battery life up to about 40 hours",
+        "cons": "Cons\n- Heavier than a standard controller which some users might find tiring over very long sessions\n- Deep customization and the Xbox Accessories app can feel a bit involved if you prefer a simple setup",
+        "pros_de": "Vorteile\n- Pro Niveau Performance mit verstellbaren Sticks Trigger Sperren und Paddles auf der Rückseite für schnelle Reaktionen\n- Einfach an verschiedene Spiele während der Miete anpassbar dank austauschbarer Teile und bis zu drei Profilen auf dem Gerät\n- Flexible Verbindung per Bluetooth oder USB C und lange Akkulaufzeit bis zu etwa 40 Stunden",
+        "cons_de": "Nachteile\n- Schwerer als ein Standard Controller was bei sehr langen Sessions ermüden kann\n- Die umfangreichen Einstellungen und die Xbox Accessories App können für Gelegenheitsspieler etwas aufwendig wirken"
     },
     {
         "slug": "asus-tuf-gaming-f17-fx707vv4-ll072w-i9-13900h-32gb-1tb-ssd-w",
@@ -18565,7 +18589,11 @@ const data = [
             "Arbeitsspeicher": "32GB",
             "Tastatursprache": "Deutsch",
             "Abmessungen und Gewicht": "39.4 x 26.4 x 2.54 cm • 2.6 kg"
-        }
+        },
+        "pros": "Pros\n• Strong performance for gaming and creative work with Intel Core i9 13900H 32 GB RAM and NVIDIA GeForce RTX 4060\n• 1 TB SSD and a roomy 17 inch screen suit big libraries projects and multitasking\n• Great to rent if you want high end power now without a long term commitment",
+        "cons": "Cons\n• The 17 inch size is heavier and less portable which may not suit frequent travel\n• Battery life under heavy loads is limited so it is best used near a power outlet",
+        "pros_de": "Vorteile\n• Starke Leistung für Gaming und kreative Arbeit dank Intel Core i9 13900H 32 GB RAM und NVIDIA GeForce RTX 4060\n• 1 TB SSD und großes 17 Zoll Display eignen sich für große Bibliotheken Projekte und Multitasking\n• Gut zum Mieten wenn du High End Power willst ohne langfristige Bindung",
+        "cons_de": "Nachteile\n• Das 17 Zoll Format ist schwerer und weniger mobil was für Vielreisende nicht ideal ist\n• Die Akkulaufzeit unter Last ist begrenzt daher am besten in Steckdosennähe nutzen"
     },
     {
         "slug": "shark-neverchange-hp150eu-air-purifier",
@@ -18577,7 +18605,11 @@ const data = [
             "Lieferumfang": "Hauptgerät, NeverChange HEPA-Filter, Anti-Geruchs-Kartusche",
             "Besonderheiten": "5 Geschwindigkeitsstufen, Anti-Allergen, bis zu 5 Jahre kein Filterwechsel notwendig",
             "Produktbeschreibung": "Kraftvolle Reinigung und Geruchsneutralisierung mit einem Luftreiniger, der die Luftqualität automatisch für eine bessere Luft überwacht und die Reinigungsleistung anpasst. Dank des Shark NeverChange5 Filtersystems ist bis zu 5 Jahre lang kein Filterwechsel notwendig – das bedeutet bis zu 200 € weniger Kosten für den Filterwechsel. Der 4-Stufen-Filter fängt 99,97 % aller Allergene und Reizstoffe ein. Die Anti-Geruchs-Technologie setzt beim Reinigen einen frischen Duft frei und neutralisiert bis zu doppelt so viele Gerüche für ein frisch duftendes Zuhause"
-        }
+        },
+        "pros": "Pros\n• Long lasting NeverChange filter means minimal maintenance during your rental and fewer extras to think about\n• Auto mode senses air quality and adjusts fan speed for efficient clean air without constant tweaking, ideal for bedrooms and shared spaces\n• Quiet operation and a clean modern look that fits in without drawing attention",
+        "cons": "Cons\n• May take up more floor space than very compact purifiers, so it suits medium rooms best\n• Replacement filters can cost more when eventually needed, which may not suit very tight budgets",
+        "pros_de": "Vorteile\n• Der langlebige NeverChange Filter bedeutet kaum Wartung in der Mietzeit und weniger Zusatzaufwand\n• Der Auto Modus erkennt die Luftqualität und passt die Lüfterstufe an, effizient ohne ständiges Nachjustieren, ideal für Schlafzimmer und geteilte Räume\n• Leiser Betrieb und ein modernes, unauffälliges Design",
+        "cons_de": "Nachteile\n• Benötigt etwas mehr Stellfläche als sehr kompakte Geräte, daher eher für mittelgroße Räume geeignet\n• Ersatzfilter können auf Dauer teurer sein, was für sehr knappe Budgets weniger passend sein kann"
     },
     {
         "slug": "samsung-smartphone-samsung-galaxy-a42-5g-128gb",
@@ -18593,7 +18625,11 @@ const data = [
             "Rückkamera": "48mp + 8mp + 5mp + 5mp",
             "Betriebssystem": "Android™ 10",
             "Konnektivität": "5G"
-        }
+        },
+        "pros": "English\nPros\n• Big display is great for streaming and social\n• 128GB storage and Dual Sim fit work travel and flexible lifestyles\n• Long lasting battery for all day use",
+        "cons": "Cons\n• May not suit serious mobile gamers or photographers who want flagship level performance\n• Some users might find the phone a bit large for one hand use",
+        "pros_de": "Deutsch\nVorteile\n• Großes Display ideal für Streaming und Social Media\n• 128 GB Speicher und Dual Sim passen gut zu einem flexiblen Alltag und Reisen\n• Lange Akkulaufzeit für den ganzen Tag",
+        "cons_de": "Nachteile\n• Für sehr anspruchsvolle Mobile Gamer oder Foto Fans eventuell nicht die erste Wahl\n• Könnte manchen Nutzern für die Einhandbedienung etwas groß sein"
     },
     {
         "slug": "stylus-apple-pencil",
@@ -18601,7 +18637,11 @@ const data = [
         "specifications": {
             "Features": "Take notes, mark up, and draw on iPad with pixel-perfect precision—as naturally as you do on paper. Pairing and charging via Lightning, Pixel-perfect precision, Tilt and pressure sensitivity, Imperceptible lag.",
             "Compatibility": "iPad (6th, 7th, 8th, 9th and 10th* generation - *requires USB-C to Apple Pencil Adapter), iPad Air (3rd generation), iPad mini (5th generation), iPad Pro 12.9-inch (1st and 2nd generation), iPad Pro 10.5-inch, iPad Pro 9.7-inch"
-        }
+        },
+        "pros": "Pros\n• Precise pressure and tilt for sketching and handwritten notes\n• Works with many compatible iPad models so you can rent and start creating fast\n• Simple setup and wide app support from Notes to popular creative tools",
+        "cons": "Cons\n• Lightning charging with a cap feels a bit dated and may need an adapter on newer USB C iPads\n• Does not attach magnetically to the iPad and has no double tap shortcut",
+        "pros_de": "Vorteile\n• Präzise Erkennung von Druck und Neigung für Skizzen und handschriftliche Notizen\n• Funktioniert mit vielen iPad Modellen daher schnell startklar zur Miete\n• Einfache Einrichtung und breite App Unterstützung von Notizen bis zu kreativen Tools",
+        "cons_de": "Nachteile\n• Aufladen über Lightning mit Kappe wirkt etwas alt und kann bei neueren USB C iPads einen Adapter erfordern\n• Haftet nicht magnetisch am iPad und bietet keine Doppeltipp Geste"
     },
     {
         "slug": "logitech-g923-gaming-wheel-playstation-pc",
@@ -18615,7 +18655,11 @@ const data = [
             "Unterstützte Plattformen": "PlayStation 5, PlayStation 4, PC",
             "Zum Lieferumfang gehören": "Lenkrad, Pedale, Netzteil",
             "Lenkrad Gewicht ohne Kabel": "2,25 kg"
-        }
+        },
+        "pros": "Pros\n• TrueForce realistic force feedback for immersive control\n• Works with PlayStation and PC for flexible use across setups\n• Solid wheel and pedals with adjustable settings, a smart way to try sim racing without buying",
+        "cons": "Cons\n• Needs a sturdy desk or stand and some space for comfortable use\n• TrueForce support varies by game, so not every title taps its full potential",
+        "pros_de": "Vorteile\n• TrueForce Force Feedback für ein realistisches Fahrgefühl\n• Funktioniert mit PlayStation und PC für flexible Nutzung in verschiedenen Setups\n• Wertiges Lenkrad und Pedale mit Einstellmöglichkeiten, ideal zum Ausprobieren ohne Kauf",
+        "cons_de": "Nachteile\n• Benötigt einen stabilen Tisch oder Ständer sowie etwas Platz\n• TrueForce wird je nach Spiel unterschiedlich unterstützt"
     },
     {
         "slug": "asus-monitor-asus-mb16ah-mobile-monitor-usb-ips-16-90lm04t0-b02170",
@@ -18627,7 +18671,11 @@ const data = [
             "Reaktionszeit": "5ms",
             "Abmessungen und Gewicht": "36 x 1 x 22.7 cm • 0.73 kg",
             "High Dynamic Range (HDR)": "No"
-        }
+        },
+        "pros": "English\nPros\n- Portable 16 inch Full HD IPS screen for sharp visuals and wide viewing angles wherever you work\n- Flexible connections with USB C and micro HDMI so it pairs easily with most laptops tablets and consoles\n- Ultra slim and light with a foldable smart case stand for quick desk to couch setups",
+        "cons": "Cons\n- Peak brightness is modest which may not suit sunny outdoor use\n- Uses a cable for power and video so some users might prefer a truly wireless setup",
+        "pros_de": "Deutsch\nVorteile\n- Mobiler 16 Zoll Full HD IPS Bildschirm mit klarer Darstellung und stabilen Blickwinkeln unterwegs und zuhause\n- Flexible Anschlüsse mit USB C und Micro HDMI passt zu den meisten Laptops Tablets und Konsolen\n- Sehr schlank und leicht mit faltbarer Schutzhülle mit Standfunktion für schnelle Setups an jedem Ort",
+        "cons_de": "Nachteile\n- Die maximale Helligkeit ist eher moderat und eignet sich weniger für starke Sonneneinstrahlung\n- Benötigt ein Kabel für Bild und Strom daher nicht ideal wenn eine komplett kabellose Lösung gewünscht ist"
     },
     {
         "slug": "apple-laptop-apple-apple-macbook-pro-41cm-16-m1-pro-10-core-cpu-16-core-gpu-int-16",
@@ -18642,7 +18690,11 @@ const data = [
             "Arbeitsspeicher": "16GB",
             "Tastatursprache": "Englisch",
             "Abmessungen und Gewicht": "35.57 x 24.8 x 1.6 cm • 2.1 kg"
-        }
+        },
+        "pros": "Pros\n• M1 Pro chip with 14 core GPU and 16 GB memory delivers fast performance for video editing coding and multitasking\n• 16 inch Liquid Retina XDR display is bright and color accurate great for creative work and streaming\n• Smart to rent for peak projects get pro level power now and stay flexible to upgrade or return as needs change",
+        "cons": "Cons\n• 512 GB storage may feel tight for large media libraries you might want external storage\n• The 16 inch size is less compact some users might prefer a smaller model for daily commuting",
+        "pros_de": "Vorteile\n• M1 Pro Chip mit 14 Core GPU und 16 GB Arbeitsspeicher bietet schnelle Performance für Videoschnitt Coding und Multitasking\n• 16 Zoll Liquid Retina XDR Display ist hell und farbtreu ideal für kreative Arbeit und Streaming\n• Zur Miete besonders sinnvoll für intensive Projekte du bleibst flexibel und kannst später upgraden oder zurückgeben",
+        "cons_de": "Nachteile\n• 512 GB Speicher kann für große Medienprojekte knapp sein externer Speicher ist empfehlenswert\n• Das 16 Zoll Format ist weniger mobil manche Nutzer bevorzugen für den Alltag ein kleineres Modell"
     },
     {
         "slug": "eureka-e10s-vacuum-cleaner",
@@ -18654,7 +18706,11 @@ const data = [
             "Besonderheiten": "Dank LiDAR-Navigation und SLAM-Algorithmen erstellt der Eureka NER E10s dynamische Karten und plant intelligente Routen für eine optimale Reinigung. Dunkle Objekte erkennt der NER E10s besonders gut. Der Eureka NER E10s überwindet Hindernisse wie Teppiche bis zu 10 mm und hebt seinen Wischmopp automatisch an. Die 1,5 Liter Saugstation bietet dank der Multizyklon-Technologie eine automatische und komplett beutellose Entleerung, wodurch Staub und Schmutz bis zu 45 Tage lang aufgenommen und gelagert werden können.",
             "Einsatzbereich": "Teppiche, Fliesen, Holzböden",
             "Abmessungen (mit Station)": "350 x 350 x 442,5 mm / 6,75 kg"
-        }
+        },
+        "pros": "Pros\n• Reliable cleaning for daily dust and crumbs on hard floors and low pile rugs\n• Slim design saves space and is easy to store in small apartments\n• Flexible rental lets you try it now and upgrade or swap when your needs change",
+        "cons": "Cons\n• May not suit deep carpet cleaning or very large homes\n• Some users might find the dust bin needs more frequent emptying during big cleanups",
+        "pros_de": "Vorteile\n• Zuverlässige Reinigung für Staub und Krümel auf Hartböden und flachen Teppichen\n• Schlankes Design spart Platz und lässt sich in kleinen Wohnungen leicht verstauen\n• Flexible Miete ermöglicht Testen jetzt und einfaches Upgrade oder Wechsel bei Bedarf",
+        "cons_de": "Nachteile\n• Eignet sich eventuell weniger für tiefen Teppich oder sehr große Wohnungen\n• Manche Nutzer finden den Staubbehälter bei großen Reinigungen öfter zu leeren"
     },
     {
         "slug": "msi-laptop-msi-prestige-14-a11sc-019nl-english-qwerty-16gb-1tb-ssd",
@@ -18669,7 +18725,11 @@ const data = [
             "Arbeitsspeicher": "16GB",
             "Tastatursprache": "Englisch",
             "Abmessungen und Gewicht": "31.9 x 21.9 x 1.59 cm • 1.29 kg"
-        }
+        },
+        "pros": "English\nPros\n- Responsive performance with Intel Core i7 1185G7 16 GB RAM and a fast 1 TB SSD for quick boot and smooth multitasking\n- Slim 14 inch design that is light and premium looking great for flexible work study and travel\n- Nvidia GeForce GTX 1650 supports esports casual gaming and GPU accelerated creative tasks",
+        "cons": "Cons\n- May not suit cutting edge AAA titles at the highest settings due to the mid range GPU\n- Some users might find the port selection modest and rely on adapters for multiple peripherals",
+        "pros_de": "Deutsch\nVorteile\n- Schnelle Leistung mit Intel Core i7 1185G7 16 GB RAM und schneller 1 TB SSD für zügiges Starten und flüssiges Multitasking\n- Schlankes 14 Zoll Design ist leicht und hochwertig ideal für flexible Arbeit Studium und Reisen\n- Nvidia GeForce GTX 1650 eignet sich für Esports Gelegenheitsspiele und GPU beschleunigte Kreativaufgaben",
+        "cons_de": "Nachteile\n- Für topaktuelle AAA Spiele bei höchsten Einstellungen möglicherweise nicht ideal wegen der Mittelklasse GPU\n- Manche Nutzerinnen und Nutzer könnten die Anschlussauswahl als knapp empfinden und gelegentlich Adapter benötigen"
     },
     {
         "slug": "acer-nitro-70-n70-130-r9-7900-32gb-1tb-4070super",
@@ -18683,12 +18743,20 @@ const data = [
             "Dimensions": "21.9 x 48.5 x 50.4 cm • 16.8 kg",
             "Operating System": "Windows® 11 Pro",
             "Keyboard Language": ""
-        }
+        },
+        "pros": "Pros\n• Strong 1440p and even 4K gaming thanks to GeForce RTX 4070 SUPER with ray tracing and DLSS 3  \n• Fast multitasking and creative work with AMD Ryzen 9 7900 and 32 GB RAM  \n• Great for renting flexibility and power without long term commitment plus a quick 1 TB SSD for short load times",
+        "cons": "Cons\n• May not suit very small spaces as a gaming tower takes more room than a console or mini PC  \n• 1 TB storage can fill up quickly with large games so some users might want an extra or external drive",
+        "pros_de": "Vorteile\n• Starke Gaming Leistung in 1440p und auch 4K dank GeForce RTX 4070 SUPER mit Raytracing und DLSS 3  \n• Sehr schnelle Multitasking Power durch AMD Ryzen 9 7900 und 32 GB RAM  \n• Ideal zum Mieten hohe Flexibilität und Leistung ohne Kaufbindung plus schnelle 1 TB SSD für kurze Ladezeiten",
+        "cons_de": "Nachteile\n• Passt eventuell nicht in sehr kleine Setups ein Gaming Tower braucht mehr Platz als eine Konsole oder ein Mini PC  \n• 1 TB Speicher kann sich mit großen Spielen schnell füllen daher könnten manche Nutzer eine zusätzliche oder externe Festplatte bevorzugen"
     },
     {
         "slug": "jabra-headphones-jabra-evolve2-40-uc-stereo-usb-a-office-headphones",
         "name": "Jabra Evolve2 40 UC Stereo (USB-A) Büro Kopfhörer",
-        "specifications": null
+        "specifications": null,
+        "pros": "English\nPros\n- Plug and play UC ready via USB A with crisp call quality and a professional boom mic\n- No charging needed the wired connection keeps audio stable for long work or study sessions\n- Comfortable memory foam cushions plus solid passive noise isolation and a busy light to help you focus",
+        "cons": "Cons\n- Wired design may not suit users who want full freedom to move around\n- USB A connector might need an adapter on laptops that only have USB C",
+        "pros_de": "Deutsch\nVorteile\n- Einstecken und loslegen UC tauglich über USB A mit klarem Klang und professionellem Mikrofonarm\n- Kein Aufladen nötig die Kabelverbindung sorgt für stabile Audioqualität über lange Sessions\n- Bequeme Memory Foam Ohrpolster dazu gute passive Geräuschisolierung und Busy Light für bessere Konzentration",
+        "cons_de": "Nachteile\n- Kabelgebundenes Design bietet weniger Bewegungsfreiheit als kabellose Optionen\n- USB A Stecker kann bei Geräten nur mit USB C einen Adapter erfordern"
     },
     {
         "slug": "dell-laptop-dell-latitude-3420-206xy-english-qwerty-14-intel-core-i5-1135g7-8gb-256gb-ssd-intel-iris-xe-graphics",
@@ -18703,7 +18771,11 @@ const data = [
             "Arbeitsspeicher": "8GB",
             "Tastatursprache": "Englisch",
             "Abmessungen und Gewicht": "32.6 x 22.6 x 1.76 cm • 1.52 kg"
-        }
+        },
+        "pros": "English\nPros\n• Smooth everyday performance with Intel Core i5 and fast SSD for quick startups and multitasking\n• Intel Iris Xe delivers crisp visuals and handles light creative work and casual games\n• Compact and easy to carry ideal for flexible work study and travel",
+        "cons": "Cons\n• 8 GB memory may not suit heavy multitasking or advanced creative workloads\n• 256 GB storage can feel limited if you keep large media libraries locally",
+        "pros_de": "Deutsch\nVorteile\n• Starke Alltagsleistung dank Intel Core i5 und schneller SSD für zügige Starts und flüssiges Multitasking\n• Intel Iris Xe sorgt für klare Darstellung und meistert leichte Kreativaufgaben sowie gelegentliches Gaming\n• Kompaktes Format und gut transportierbar ideal für flexibles Arbeiten Studium und unterwegs",
+        "cons_de": "Nachteile\n• 8 GB Arbeitsspeicher kann für intensives Multitasking oder sehr anspruchsvolle Kreativprojekte zu wenig sein\n• 256 GB Speicher kann knapp werden wenn viele große Dateien lokal gespeichert werden"
     },
     {
         "slug": "samsung-monitor-samsung-odyssey-g3-f27g34tfwu-27-lf27g34tfwuxen",
@@ -18715,7 +18787,11 @@ const data = [
             "Reaktionszeit": "1ms",
             "Abmessungen und Gewicht": "61.68 x 27.83 x 60.59 cm • 6.6 kg",
             "High Dynamic Range (HDR)": "No"
-        }
+        },
+        "pros": "English\nPros\n• 144 Hz refresh with 1 ms response and AMD FreeSync Premium for smooth and responsive gameplay\n• 27 inch size balances immersion and space saving so it fits easily on most desks\n• VESA mount ready for flexible placement with monitor arms or wall mounts",
+        "cons": "Cons\n• Full HD at 27 inch may not look as sharp as QHD if you sit very close\n• Modest brightness and color coverage may not suit HDR or color critical work",
+        "pros_de": "Deutsch\nVorteile\n• 144 Hz Bildwiederholrate mit 1 ms Reaktionszeit und AMD FreeSync Premium für flüssiges und reaktionsschnelles Gaming\n• 27 Zoll bietet einen guten Mix aus Immersion und Platzersparnis und passt leicht auf die meisten Schreibtische\n• VESA Montage ermöglicht flexible Platzierung mit Monitorarmen oder Wandhalterungen",
+        "cons_de": "Nachteile\n• Full HD auf 27 Zoll kann weniger scharf wirken als QHD wenn man sehr nah sitzt\n• Die eher moderate Helligkeit und Farbdarstellung eignet sich möglicherweise nicht für HDR oder farbkritische Aufgaben"
     },
     {
         "slug": "lg-34bq77qc-b-34-ultrawide-wqhd-ips-webcam-microphone-monitor",
@@ -18727,7 +18803,11 @@ const data = [
             "Reaktionszeit": "ms",
             "Abmessungen und Gewicht": "81.67 x 36.44 x 8.36 cm • 6.8 kg",
             "High Dynamic Range (HDR)": ""
-        }
+        },
+        "pros": "Pros\n- Spacious 34 inch ultra wide WQHD screen gives room to multitask and keep chats and timelines visible without juggling windows\n- IPS panel delivers consistent colors and wide viewing angles for work study and light creative tasks\n- Integrated webcam and microphone make video calls simple and renter friendly since you do not need extra gear",
+        "cons": "Cons\n- May not suit fast action gamers who want very high refresh rates\n- The 34 inch footprint can be large for compact desks so measure your space",
+        "pros_de": "Vorteile\n- Großes 34 Zoll Ultra Wide WQHD Display bietet viel Platz zum Multitasking und für Übersicht ohne ständiges Fensterwechseln\n- IPS Panel sorgt für stabile Farben und breite Blickwinkel für Arbeit Studium und leichte kreative Aufgaben\n- Integrierte Webcam und Mikrofon vereinfachen Video Calls und sind praktisch zur Miete da kein zusätzliches Zubehör nötig ist",
+        "cons_de": "Nachteile\n- Eignet sich eventuell weniger für Gamer die sehr hohe Bildwiederholraten suchen\n- Die 34 Zoll Größe kann für kleine Schreibtische groß ausfallen daher besser vorher den Platz prüfen"
     },
     {
         "slug": "samsung-viewfinity-s6-s34c650tau-curved-34",
@@ -18740,7 +18820,11 @@ const data = [
             "Reaktionszeit": "5ms",
             "Abmessungen und Gewicht": "80.6 x 12.5 x 36.9 cm • 5.3 kg",
             "High Dynamic Range (HDR)": "Yes"
-        }
+        },
+        "pros": "English\nPros\n- Big 34 inch curved screen gives an immersive ultra wide workspace so you can multitask without using two monitors\n- Ergonomic stand with height tilt and swivel lets you fine tune a comfortable and flexible desk setup\n- Multiple ports make it simple to connect laptops and consoles and get going fast",
+        "cons": "Cons\n- The large footprint may not suit very small desks\n- Ultra wide curved format may not be ideal for very color critical work or for players who want very high refresh rates",
+        "pros_de": "Deutsch\nVorteile\n- Großes 34 Zoll Curved Display bietet eine immersive breite Arbeitsfläche und ersetzt bequem zwei Monitore\n- Ergonomischer Standfuß mit Höhenverstellung Neigung und Drehung für eine flexible und bequeme Schreibtisch Einrichtung\n- Mehrere Anschlüsse ermöglichen eine einfache Verbindung mit Laptop und Konsole",
+        "cons_de": "Nachteile\n- Das große Format benötigt spürbar Platz auf dem Schreibtisch\n- Das sehr breite Curved Format eignet sich eventuell weniger für stark farbkritische Aufgaben oder für Gaming mit sehr hohen Bildraten"
     },
     {
         "slug": "acer-h6523abdp-dlp-projector",
@@ -18755,7 +18839,11 @@ const data = [
             "Projektionsabstand": "1,00 - 9,76 m",
             "Projektionsgröße": "29 (0,74 m) - 300 (7,62 m) Zoll",
             "Bildschirmauflösung": "1920 x 1080"
-        }
+        },
+        "pros": "Pros\n• Full HD DLP picture delivers crisp detail for movies sports and gaming\n• Quick plug and play setup via HDMI so you get a big screen experience without a long install\n• Compact and easy to move for flexible placement great for renters and occasional big screen nights",
+        "cons": "Cons\n• May not suit users who want native 4K resolution\n• Some viewers sensitive to DLP rainbow artifacts might notice them",
+        "pros_de": "Vorteile\n• Full HD DLP Bild mit klaren Details für Filme Sport und Gaming\n• Schnelle Einrichtung per HDMI Plug and Play grosses Bild ohne aufwendige Installation\n• Kompaktes Format für flexible Aufstellung ideal für Mieterinnen und Mieter und spontane Filmabende",
+        "cons_de": "Nachteile\n• Könnte für Nutzerinnen und Nutzer mit Wunsch nach nativer 4K Auflösung weniger passend sein\n• Wie bei vielen DLP Geräten könnten empfindliche Personen leichte Regenbogeneffekte wahrnehmen"
     },
     {
         "slug": "nura-headphones-nuraphones-over-ear-noise-canceling-bluetooth-headphones",
@@ -18766,7 +18854,11 @@ const data = [
             "Konnektivität": "Bluetooth, Universal verkabelt",
             "Besondere Merkmale": "Nurasound technologie, otoakustischer Hörtest, Hörprofile, ANC reinigen",
             "Intelligente Attribute": "Inova Architektur (in-ear and over-ear kopfhörer kombiniert), Social-Mode"
-        }
+        },
+        "pros": "English\nPros\n• Personalized sound that adapts to your hearing for a tailored listening experience\n• Effective noise canceling for focus at work, study, or travel\n• Innovative design and premium feel a smart rental to try cutting edge audio without the full purchase",
+        "cons": "Cons\n• The in ear plus over ear fit may not suit everyone for long sessions\n• Full personalization requires the companion app and a short setup",
+        "pros_de": "Deutsch\nVorteile\n• Personalisierter Klang der sich deinem Gehör anpasst für ein maßgeschneidertes Hörerlebnis\n• Effektive Geräuschunterdrückung für Fokus beim Arbeiten Lernen oder Pendeln\n• Innovatives Design und hochwertige Anmutung ideal zur Miete um moderne Audiotechnik ohne Kaufbindung zu testen",
+        "cons_de": "Nachteile\n• Die In Ear plus Over Ear Passform ist nicht für alle ideal bei sehr langen Sessions\n• Für die volle Personalisierung benötigst du die App und eine kurze Einrichtung"
     },
     {
         "slug": "novation-musical-instrument-novation-launchkey-61-mk3",
@@ -18778,7 +18870,11 @@ const data = [
             "Connectivity": "N/A",
             "Key features": "61 keys with velocity sensitivity, 16 RGB illuminated velocity-sensitive pads, Scale and Chord modes, Arpeggiator, Capture MIDI function, MIDI mappings, device lock, pitch bend and modulation wheel, 2x 16 character display, 8 controls",
             "Operating mode": "Bus-powered"
-        }
+        },
+        "pros": "Pros\n- Seamless Ableton Live control plus automatic mapping for other DAWs speeds up your workflow\n- Built in arpeggiator scale and chord modes spark ideas fast without extra gear\n- USB powered and class compliant for quick plug and play setup ideal for short term rentals",
+        "cons": "Cons\n- The 61 key size may not suit very small desks or mobile setups\n- Light key feel with no aftertouch may be less expressive for some players",
+        "pros_de": "Vorteile\n- Nahtlose Steuerung in Ableton Live und gute Einbindung in viele DAWs für einen schnellen Workflow\n- Integrierter Arpeggiator sowie Skalen und Akkord Modi fördern Ideen ohne zusätzliches Equipment\n- Stromversorgung über USB und treiberloses Setup für echtes Plug and Play ideal für flexible Mieten",
+        "cons_de": "Nachteile\n- Das Format mit 61 Tasten braucht etwas Platz und passt nicht in sehr kleine Setups\n- Leichter Tastenanschlag ohne Aftertouch kann für manche Spieler weniger ausdrucksstark wirken"
     },
     {
         "slug": "monitor-samsung-c34h890wju-34-lc34h890wjuxen",
@@ -18790,7 +18886,11 @@ const data = [
             "Reaktionszeit": "4ms",
             "Abmessungen und Gewicht": "81.14 x 12.33 x 36.19 cm • 7.9 kg",
             "High Dynamic Range (HDR)": "No"
-        }
+        },
+        "pros": "English\nPros\n• Ultrawide 34 inch curved screen boosts productivity and immersion with plenty of space for apps and timelines  \n• USB C connectivity enables a one cable setup for video data and laptop charging depending on the device  \n• Height adjustable stand and slim bezels deliver a modern look and flexible ergonomics for different setups  ",
+        "cons": "Cons\n• The large ultrawide format needs ample desk space and may not suit very compact setups  \n• USB C power and features can vary by laptop so check compatibility with your model  ",
+        "pros_de": "Deutsch\nVorteile\n• Ultrawide 34 Zoll mit Curved Design steigert Überblick und Fokus mit viel Platz für Fenster und Timelines  \n• USB C Anschluss ermöglicht ein Kabel Setup für Bild Daten und je nach Gerät auch Strom  \n• Höhenverstellbarer Standfuß und schmale Ränder wirken modern und bieten flexible Ergonomie für verschiedene Setups  ",
+        "cons_de": "Nachteile\n• Das breite Format benötigt mehr Schreibtischfläche und eignet sich eventuell weniger für sehr kleine Arbeitsplätze  \n• USB C Funktionen und Ladeleistung können je nach Notebook variieren bitte Kompatibilität prüfen"
     },
     {
         "slug": "monitor-32-lg-32ul750",
@@ -18802,7 +18902,11 @@ const data = [
             "Reaktionszeit": "4ms",
             "Abmessungen und Gewicht": "72.81 x 49.17 x 60.17 cm • 7.3 kg",
             "High Dynamic Range (HDR)": "Yes"
-        }
+        },
+        "pros": "Pros\n• 32 inch 4K resolution delivers crisp text and plenty of space for multitasking\n• USB C with laptop charging enables a clean one cable setup that is easy to switch between work and play\n• AMD FreeSync and HDR support offer smoother visuals for casual gaming and streaming",
+        "cons": "Cons\n• 60 Hz refresh rate may not suit competitive gamers who want very high frame rates\n• The 32 inch size needs enough desk depth for comfortable viewing",
+        "pros_de": "Vorteile\n• 32 Zoll 4K Auflösung für sehr scharfe Darstellung und viel Platz zum Multitasking\n• USB C mit Ladefunktion ermöglicht ein aufgeräumtes Ein Kabel Setup und ist flexibel für Laptop Arbeitsplätze\n• AMD FreeSync und HDR Unterstützung sorgt für flüssigere Bilder bei Gaming und Streaming",
+        "cons_de": "Nachteile\n• 60 Hz Bildwiederholrate eignet sich eventuell weniger für sehr wettbewerbsorientiertes Gaming\n• Die 32 Zoll Größe benötigt etwas Abstand und ausreichend Platz auf dem Schreibtisch"
     },
     {
         "slug": "lenovo-thinkcentre-m90t-g6-u7-265-32gb-1tb-w11p",
@@ -18816,7 +18920,11 @@ const data = [
             "Betriebssystem": "Windows® 11 Pro",
             "Arbeitsspeicher": "32GB",
             "Tastatursprache": ""
-        }
+        },
+        "pros": "Pros\n• Fast performance for multitasking with Intel Core Ultra 7 and 32 GB RAM\n• 1 TB SSD for quick load times and room for large files\n• Desktop tower allows easy upgrades and plenty of ports for flexible setups",
+        "cons": "Cons\n• Integrated Intel graphics may not suit demanding gaming or heavy 3D work\n• Not portable and works best with a separate monitor and peripherals",
+        "pros_de": "\nVorteile\n• Schnelle Performance für Multitasking dank Intel Core Ultra 7 und 32 GB RAM\n• 1 TB SSD für kurze Ladezeiten und viel Platz für Dateien\n• Desktop Tower mit guten Aufrüstoptionen und vielen Anschlüssen für flexible Setups",
+        "cons_de": "Nachteile\n• Integrierte Intel Grafik eignet sich weniger für anspruchsvolle Spiele oder rechenintensive 3D Aufgaben\n• Nicht mobil und am besten mit separatem Monitor und Peripherie zu nutzen"
     },
     {
         "slug": "lenovo-laptop-lenovo-yoga-slim-7i-evo-mit-schutzh-lle",
@@ -18830,7 +18938,11 @@ const data = [
             "Arbeitsspeicher": "8GB",
             "Tastatursprache": "",
             "Abmessungen und Gewicht": "1.49 x 32.1 x 20.8 cm - 1.36 kg"
-        }
+        },
+        "pros": "English\nPros\n• Evo platform delivers quick wake, smooth multitasking, and dependable battery life for study and work on the go\n• Slim and light premium design with protective case included for easy carry and extra peace of mind when renting\n• Vivid display and clear audio make streaming and creative tasks feel modern and enjoyable",
+        "cons": "Cons\n• May not suit heavy gaming or advanced 3D work due to integrated graphics\n• Some users might prefer more ports for accessories",
+        "pros_de": "Deutsch\nVorteile\n• Evo Plattform mit schnellem Aufwachen, flüssiger Multitasking Leistung und zuverlässiger Akkulaufzeit für unterwegs\n• Schlankes leichtes Design mit Schutzhülle für entspannten Transport und mehr Sicherheit beim Mieten\n• Hochwertiges Display und klarer Sound für Arbeit Studium und Streaming",
+        "cons_de": "Nachteile\n• Eher nicht für intensives Gaming oder anspruchsvolle 3D Aufgaben geeignet\n• Manche Nutzer wünschen sich eventuell mehr Anschlüsse"
     },
     {
         "slug": "monitor-philips-b-line-27-272b7qubheb-00",
@@ -18842,7 +18954,11 @@ const data = [
             "Reaktionszeit": "5ms",
             "Abmessungen und Gewicht": "61.4 x 25.7 x 54.8 cm • 7.52 kg",
             "High Dynamic Range (HDR)": "No"
-        }
+        },
+        "pros": "Pros\n• USB C docking turns the monitor into a simple workspace hub one cable for video data and compatible laptop charging\n• 27 inch IPS panel with wide viewing angles and crisp colors for productive multitasking\n• Fully adjustable stand height tilt swivel and pivot for a comfortable setup on any desk",
+        "cons": "Cons\n• Standard refresh rate may not suit fast paced gaming\n• Best experience needs a laptop with USB C display support older devices may require adapters",
+        "pros_de": "Vorteile\n• USB C Docking macht den Monitor zur praktischen Schaltzentrale ein Kabel für Bild Daten und das Laden kompatibler Laptops\n• 27 Zoll IPS Panel mit großen Blickwinkeln und klaren Farben für produktives Multitasking\n• Voll flexibel einstellbarer Standfuß Höhe Neigung Drehung und Pivot für eine bequeme Einrichtung",
+        "cons_de": "Nachteile\n• Die Standard Bildwiederholrate eignet sich weniger für rasante Games\n• Für das beste Erlebnis ist ein Laptop mit USB C und Display Unterstützung sinnvoll ältere Geräte benötigen eventuell Adapter"
     },
     {
         "slug": "lg-tv-lg-43ur80006lj",
@@ -18860,12 +18976,20 @@ const data = [
             "HDR (High Dynamic Range)": "HDR10 / HLG",
             "Abmessungen mit Standfuß": "967 x 621 x 216 mm",
             "Abmessungen ohne Standfuß": "967 x 564 x 571 mm"
-        }
+        },
+        "pros": "Pros\n• 4K UHD with HDR delivers crisp detail and vibrant colors for streaming movies sports and casual gaming\n• Smart TV with webOS offers popular apps and a quick intuitive setup ideal for renters\n• Compact 43 inch size fits small spaces and is easy to move or reposition",
+        "cons": "Cons\n• May feel small for very large rooms or long viewing distances\n• Standard 60 Hz panel so some gamers might prefer a higher refresh rate model",
+        "pros_de": "Vorteile\n• 4K UHD mit HDR liefert klare Details und kräftige Farben beim Streamen Sport und Casual Gaming\n• webOS Smart TV bietet die wichtigsten Apps und eine schnelle einfache Einrichtung ideal zur Miete\n• Kompaktes 43 Zoll Format passt in kleinere Räume und lässt sich flexibel platzieren",
+        "cons_de": "Nachteile\n• Für sehr große Räume oder große Sitzabstände möglicherweise zu klein\n• Standard Bildwiederholrate daher für manche Gamer mit Fokus auf hohe Refresh Rates weniger geeignet"
     },
     {
         "slug": "samsung-headphones-samsung-buds-fe-in-ear-bluetooth-headphones",
         "name": "Samsung Buds FE In-Ear Bluetooth Kopfhörer",
-        "specifications": null
+        "specifications": null,
+        "pros": "English\nPros\n• Effective active noise cancelling with ambient mode for focus or awareness on the go\n• Comfortable in ear fit with secure tips and easy touch controls, great for long listening\n• Solid battery life and quick pairing, especially smooth with Samsung Galaxy devices",
+        "cons": "Cons\n• The case does not support wireless charging which may not suit users who prefer a charging pad\n• Some smart features work best with Samsung Galaxy phones, so the experience can be more basic on other brands",
+        "pros_de": "Deutsch\nVorteile\n• Starke aktive Geräuschunterdrückung plus Umgebungsmodus für Fokus oder Situationsbewusstsein unterwegs\n• Bequemer In Ear Sitz mit sicheren Aufsätzen und intuitiver Touch Steuerung, ideal für längeres Hören\n• Gute Akkulaufzeit und schnelles Koppeln besonders reibungslos mit Samsung Galaxy Geräten",
+        "cons_de": "Nachteile\n• Das Ladecase bietet keine kabellose Ladefunktion was für Nutzerinnen und Nutzer mit Ladepad weniger praktisch sein kann\n• Manche smarte Funktionen arbeiten am besten im Samsung Galaxy Umfeld wodurch der Funktionsumfang bei anderen Marken eingeschränkt sein kann"
     },
     {
         "slug": "apple-smartphone-iphone-17-pro-max-12gb-256gb",
@@ -18881,7 +19005,11 @@ const data = [
             "Rückkamera": "48MP + 48MP + 48MP",
             "Betriebssystem": "iOS 26",
             "Konnektivität": "5G"
-        }
+        },
+        "pros": "Pros\n• Large immersive display is great for streaming gaming and reading on the go\n• Pro level camera captures sharp photos and smooth video for social content and travel\n• Fast A series performance and 256 GB storage plus flexible rental make it easy to enjoy a flagship now and switch later",
+        "cons": "Cons\n• The extra large size may feel bulky for small hands or tight pockets\n• Best experience is within the Apple ecosystem which may not suit those who prefer deep Android customization",
+        "pros_de": "Vorteile\n• Großes Display ideal zum Streamen Gaming und Lesen unterwegs\n• Pro Kamera liefert scharfe Fotos und ruhige Videos für Social Media und Reisen\n• Sehr schneller A Serie Chip und 256 GB Speicher plus flexible Miete machen es leicht ein Flaggschiff jetzt zu nutzen und später einfach zu wechseln",
+        "cons_de": "Nachteile\n• Die Pro Max Größe kann sich für kleine Hände oder enge Taschen etwas groß anfühlen\n• Das beste Erlebnis gibt es im Apple Ökosystem was für Fans starker Android Anpassung eventuell nicht ideal ist"
     },
     {
         "slug": "bluetooth-speaker-jbl-partybox-100",
@@ -18898,7 +19026,11 @@ const data = [
             "Audio-Streaming": "Ja",
             "Wasserbewertung": "Nein",
             "Besondere Merkmale": "Bass Boost, Lichtshow, Mikrofon- und Gitarreneingang"
-        }
+        },
+        "pros": "Pros\n• Powerful party ready sound with punchy bass\n• Built in light show adds atmosphere without extra gear\n• Easy wireless streaming and long battery life for flexible use at home or outdoors",
+        "cons": "Cons\n• Larger and heavier than small speakers, may not suit very tight spaces or light travel\n• Battery life can shorten at high volume and with lights enabled",
+        "pros_de": "Vorteile\n• Kraftvoller Sound mit sattem Bass für Partys\n• Eingebaute Lichteffekte schaffen Stimmung ohne zusätzliches Equipment\n• Einfache kabellose Wiedergabe und lange Akkulaufzeit, flexibel zu Hause und unterwegs",
+        "cons_de": "Nachteile\n• Größer und schwerer als kleine Lautsprecher, eignet sich eventuell nicht für sehr enge Räume oder leichtes Gepäck\n• Die Akkulaufzeit kann bei hoher Lautstärke und aktivierten Lichtern sinken"
     },
     {
         "slug": "apple-laptop-apple-macbook-pro-mkgp3d-a-english-qwerty-14-apple-m1-pro-16gb-512gb-ssd-apple-integrated-14-core-gpu",
@@ -18913,7 +19045,11 @@ const data = [
             "Arbeitsspeicher": "16GB",
             "Tastatursprache": "Englisch",
             "Abmessungen und Gewicht": "31.26 x 22.12 x 1.55 cm • 1.6 kg"
-        }
+        },
+        "pros": "English\nPros\n- Apple M1 Pro with 16 GB memory delivers fast, reliable performance for editing, coding, and multitasking\n- 14 inch Liquid Retina XDR display and excellent speakers elevate creative work and streaming on the go\n- Compact and premium, a smart pick if you want pro level power with rental flexibility",
+        "cons": "Cons\n- 512 GB storage may not suit very large media libraries or projects; external or cloud storage can help\n- Not the lightest option in the Apple lineup, which some users might notice in daily carry",
+        "pros_de": "Deutsch\nVorteile\n- Apple M1 Pro mit 16 GB Arbeitsspeicher bietet schnelle und stabile Leistung für Schnitt, Coding und Multitasking\n- 14 Zoll Liquid Retina XDR Display und starke Lautsprecher heben kreative Arbeit und Streaming unterwegs auf ein neues Niveau\n- Kompakt und hochwertig, ideal wenn du Pro Power mit flexibler Miete nutzen möchtest",
+        "cons_de": "Nachteile\n- 512 GB Speicher kann für sehr große Medienprojekte knapp sein; externe oder Cloud Speicher sind eine gute Ergänzung\n- Nicht die leichteste Option im Apple Portfolio, was manche im Alltag merken könnten"
     },
     {
         "slug": "braun-hi-fi-audio-braun-le01-premium-hifi-speaker",
@@ -18931,7 +19067,11 @@ const data = [
             "Besondere Merkmale": "Sprachsteuerung mit dem Google Assistant. Room Placement Equalizer zur Audiooptimierung. Über 300 Musik-Streaming-Dienste über WiFi. Software-Updates sorgen dafür, dass Sie immer auf dem neuesten Stand sind. Taste für den privaten Modus, um die Mikrofone physisch zu trennen. In-App-Steuerung von Bässen und Höhen. Multiroom- und Stereokopplung.",
             "Anschlussmöglichkeiten": "Apple Airplay 2, Chromecast integriert, Bluetooth 4.2 mit AAC, WLAN Dualband",
             "Intelligente Funktionen": "Google Assistant"
-        }
+        },
+        "pros": "Pros\n• Room filling hi fi sound with clear detail and solid bass\n• Timeless minimalist design that suits modern interiors\n• Simple plug and play setup with wireless streaming from your phone plus flexible rental if you want to upgrade later",
+        "cons": "Cons\n• The large size and weight may not suit very small spaces or frequent moves\n• Requires a power outlet and a stable connection for wireless streaming it is not designed for portable use",
+        "pros_de": "Vorteile\n• Raumfüllender HiFi Klang mit klaren Details und kräftigem Bass\n• Zeitloses minimalistisches Design passt in moderne Einrichtungen\n• Einfaches Plug and Play mit kabellosem Streaming vom Smartphone und flexible Miete zum späteren Upgraden",
+        "cons_de": "Nachteile\n• Größe und Gewicht eignen sich eventuell weniger für sehr kleine Räume oder häufige Umzüge\n• Benötigt eine Steckdose und eine stabile Verbindung für kabelloses Streaming ist nicht für den mobilen Einsatz gedacht"
     },
     {
         "slug": "msi-laptop-msi-gp76-leopard-11uh-671nl-english-qwerty-ips-17-3-fhd-144hz-intel-core-i7-11800h-16gb-1tb-ssd-nvidia-geforce-rtx-3080",
@@ -18946,7 +19086,11 @@ const data = [
             "Arbeitsspeicher": "16GB",
             "Tastatursprache": "Englisch",
             "Abmessungen und Gewicht": "39.7 x 28.4 x 2.59 cm • 2.9 kg"
-        }
+        },
+        "pros": "Pros\n• RTX 3080 and Intel Core i7 11800H deliver fast performance for demanding games and creative apps\n• 1 TB SSD means quick load times and plenty of space for big titles during your rental\n• Modern graphics features like ray tracing and DLSS keep visuals sharp and up to date",
+        "cons": "Cons\n• Larger gaming laptop may feel heavy for daily carry or frequent travel\n• Battery life under gaming load is limited compared to thin and light models",
+        "pros_de": "Vorteile\n• RTX 3080 und Intel Core i7 11800H liefern starke Leistung für anspruchsvolle Spiele und Kreativ Apps\n• 1 TB SSD sorgt für kurze Ladezeiten und viel Speicher für große Titel während der Mietzeit\n• Moderne Grafikfeatures wie Ray Tracing und DLSS bieten starke Optik und sind zukunftsorientiert",
+        "cons_de": "Nachteile\n• Großes Gaming Notebook kann für Pendeln oder häufiges Reisen weniger geeignet wirken\n• Akkulaufzeit unter Last ist im Vergleich zu leichten Modellen begrenzt"
     },
     {
         "slug": "apple-tablet-13-ipad-air-2025-wifi-8gb-256gb",
@@ -18962,12 +19106,20 @@ const data = [
             "Rückkamera": "12MP",
             "Betriebssystem": "iOS",
             "Konnektivität": "WIFI"
-        }
+        },
+        "pros": "Pros\n* Large 13 inch display in a slim and light design, great for work study and streaming\n* Fast performance for multitasking and creative apps with strong battery life\n* 256 GB storage gives room for files projects and offline content, perfect for flexible renting",
+        "cons": "Cons\n* Wi Fi only may not suit those who need mobile data everywhere\n* Standard refresh rate rather than super smooth, so gamers and animation pros might prefer a Pro model",
+        "pros_de": "Vorteile\n* Großes 13 Zoll Display in einem leichten und schlanken Design, ideal für Arbeit Studium und Streaming\n* Schnelle Performance für Multitasking und kreative Apps mit starker Akkulaufzeit\n* 256 GB Speicher bietet viel Platz für Dateien Projekte und Offline Inhalte, gut für flexible Miete",
+        "cons_de": "Nachteile\n* Nur WLAN passt eventuell nicht für alle die unterwegs auf mobile Daten angewiesen sind\n* Standard Bildwiederholrate statt sehr flüssig, anspruchsvolle Gamer oder Animations Profis greifen eventuell lieber zum Pro Modell"
     },
     {
         "slug": "jbl-xtreme-4-portable-bluetooth-speaker",
         "name": "JBL Xtreme 4",
-        "specifications": null
+        "specifications": null,
+        "pros": "Pros\n• Powerful JBL sound with punchy bass that fills rooms and outdoor spaces\n• Long lasting battery plus power bank function to charge your phone when needed\n• Rugged IP67 water and dust resistance with a carry strap and easy PartyBoost linking",
+        "cons": "Cons\n• Larger and heavier than small portable speakers so may not suit light travel\n• Bass heavy tuning that some listeners might find less neutral",
+        "pros_de": "Vorteile\n• Kraftvoller JBL Sound mit sattem Bass für Räume und Outdoor\n• Ausdauernder Akku plus Powerbank Funktion zum Aufladen des Smartphones unterwegs\n• Robustes Design mit IP67 Wasser und Staubschutz Tragegurt und einfache PartyBoost Kopplung",
+        "cons_de": "Nachteile\n• Größer und schwerer als sehr kompakte Speaker daher weniger ideal für leichtes Reisen\n• Bassbetonte Abstimmung die nicht jeden neutralen Hörgeschmack trifft"
     },
     {
         "slug": "acer-monitor-acer-predator-x34-34-um-cx0ee-p01",
@@ -18979,7 +19131,11 @@ const data = [
             "Reaktionszeit": "4ms",
             "Abmessungen und Gewicht": "81.7 x 29.9 x 57.07 cm • 9.71 kg",
             "High Dynamic Range (HDR)": "No"
-        }
+        },
+        "pros": "English\nPros\n* Immersive 34 inch curved ultrawide screen with high refresh for smooth gaming and roomy multitasking\n* Adaptive sync support for tear free visuals and low input lag\n* Flexible rental lets you try an ultrawide gaming setup without long term commitment",
+        "cons": "Cons\n* The large footprint may not suit compact desks\n* To get the most from the high resolution you will want a capable graphics card",
+        "pros_de": "Deutsch\nVorteile\n* Immersives 34 Zoll curved Ultrawide Display mit hoher Bildwiederholrate für flüssiges Gaming und viel Platz beim Multitasking\n* Adaptive Sync Unterstützung für ruckelfreie Darstellung und geringe Latenz\n* Flexible Miete ermöglicht dir ein Ultrawide Gaming Setup ohne langfristige Bindung auszuprobieren",
+        "cons_de": "Nachteile\n* Das große Format passt eventuell nicht auf sehr kleine Schreibtische\n* Für die hohe Auflösung ist eine leistungsstarke Grafikkarte empfehlenswert"
     },
     {
         "slug": "logitech-g923-gaming-wheel-xbox-pc",
@@ -18989,7 +19145,11 @@ const data = [
             "Connections": "USB 2.0 port",
             "Scope of delivery": "Steering wheel, pedals, power supply",
             "Supported platforms": "Xbox Series X|S, PC, Xbox One"
-        }
+        },
+        "pros": "English\nPros\n• TrueForce feedback delivers immersive road feel and precise control\n• Xbox and PC compatible for flexible racing across platforms\n• Premium build with easy desk mounting makes it simple to try sim racing at home without buying",
+        "cons": "Cons\n• TrueForce and other advanced features depend on game support so not every title will use all functions\n• For best stability you may want a sturdy desk or stand",
+        "pros_de": "Deutsch\nVorteile\n• TrueForce Force Feedback sorgt für intensives Straßenfeedback und präzise Kontrolle\n• Kompatibel mit Xbox und PC für flexibles Racing auf mehreren Plattformen\n• Wertige Verarbeitung und einfache Tischbefestigung ideal zum Ausprobieren zu Hause ohne Kaufbindung",
+        "cons_de": "Nachteile\n• Einige erweiterte Funktionen hängen vom Spiel ab daher nutzt nicht jeder Titel alle Features\n• Für beste Stabilität empfiehlt sich ein fester Tisch oder ein Ständer"
     },
     {
         "slug": "thrustmaster-t248-racestuur-zwart-ps5",
@@ -19002,7 +19162,11 @@ const data = [
             "Hauptmerkmale": "Rennlenkrad und magnetische Pedale, HYBRID DRIVE, magnetische Schaltwippen, dynamisches Force Feedback, Display mit Renninformationen. Offiziell lizenziert für PlayStation; Kompatibel mit PS5, PS4 und PC. 4 verschiedene Bremsdruck-Modi.",
             "Tastenanordnung": "25 Aktionstasten, 2 magnetische Schaltwippen",
             "Unterstützte Plattformen": "Playstation & PC"
-        }
+        },
+        "pros": "Pros\n* Adjustable force feedback delivers a realistic driving feel across different games and skill levels\n* Magnetic pedal set offers smooth and precise control for consistent lap times\n* Built in display and broad game support make it easy to tune settings, great for trying a more advanced wheel without buying",
+        "cons": "Cons\n* Needs a sturdy desk or stand and some setup time, may not suit very small spaces\n* Console compatibility depends on the specific model, so double check your platform before renting",
+        "pros_de": "Vorteile\n* Einstellbares Force Feedback sorgt für ein realistisches Fahrgefühl in vielen Spielen und für verschiedene Erfahrungsstufen\n* Magnetisches Pedalset ermöglicht sanfte und präzise Eingaben für konstante Rundenzeiten\n* Integriertes Display und breite Spielunterstützung, ideal zum Feinjustieren und perfekt zum Ausprobieren ohne Kauf",
+        "cons_de": "Nachteile\n* Benötigt einen stabilen Tisch oder ein Gestell und etwas Aufbauzeit, passt eventuell nicht in sehr kleine Setups\n* Konsolenkompatibilität hängt vom jeweiligen Modell ab, daher vor der Miete prüfen"
     },
     {
         "slug": "monitor-35-aoc-ag352ucg6",
@@ -19014,7 +19178,11 @@ const data = [
             "Reaktionszeit": "4ms",
             "Abmessungen und Gewicht": " x  x  cm •  kg",
             "High Dynamic Range (HDR)": "No"
-        }
+        },
+        "pros": "Pros\n• Immersive 35 inch curved ultrawide at 3440 by 1440 for gaming, movies, and roomy multitasking\n• 120 Hz refresh with Nvidia G Sync keeps motion smooth and tear free\n• Great rental pick to try an ultrawide gaming setup with strong contrast and an adjustable stand without long commitment",
+        "cons": "Cons\n• Large footprint and weight may not suit compact desks\n• To fully benefit from 3440 by 1440 at high refresh, a powerful Nvidia graphics card is recommended",
+        "pros_de": "Vorteile\n• Immersives 35 Zoll Curved Ultrawide mit 3440 mal 1440 für Gaming, Filme und viel Platz zum Multitasking\n• 120 Hz mit Nvidia G Sync sorgt für flüssige Bewegungen ohne Tearing\n• Starke Mietoption, um ein Ultrawide Gaming Setup mit hohem Kontrast und verstellbarem Standfuß ohne lange Bindung auszuprobieren",
+        "cons_de": "Nachteile\n• Braucht viel Platz und passt eventuell nicht gut auf kleine Schreibtische\n• Für 3440 mal 1440 bei hoher Bildwiederholrate ist eine leistungsstarke Nvidia Grafikkarte empfehlenswert"
     },
     {
         "slug": "elgato-stream-deck-435982ee-ce98-42a9-a21a-0340fc11c1dc",
@@ -19027,7 +19195,11 @@ const data = [
             "Schnittstelle": "USB 2.0",
             "LCD-Bedienfeld": "108x14mm",
             "Multifunktionsknopf": "4 x 360° Drehgeber mit Druckfunktion"
-        }
+        },
+        "pros": "Pros\n• All in one control surface with LCD keys knobs and a touch strip for fast scene switching audio tweaks and app control\n• Highly customizable profiles and plugins for streaming video calls and productivity so you can tailor it to different projects in minutes\n• Speeds up workflows and is widely used by creators so your setup feels current without buying extra gear",
+        "cons": "Cons\n• Requires installing the Stream Deck app and a bit of setup time to map actions\n• May not suit very casual use or very small desks",
+        "pros_de": "Vorteile\n• Alles in einem Control Deck mit LCD Tasten Drehreglern und Touchleiste für schnellen Szenenwechsel Audiosteuerung und App Kontrolle\n• Stark anpassbar mit Profilen und Plugins für Streaming Videoanrufe und Produktivität du passt es in wenigen Minuten an verschiedene Projekte an\n• Beschleunigt Workflows und ist bei Creators weit verbreitet dein Setup bleibt modern ohne Kaufzwang",
+        "cons_de": "Nachteile\n• Erfordert die Installation der Stream Deck Software und etwas Zeit für die Einrichtung\n• Könnte für Gelegenheitseinsätze oder sehr kleine Schreibtische zu umfangreich wirken"
     },
     {
         "slug": "elgato-hd60-x-external-game-capture",
@@ -19052,7 +19224,11 @@ const data = [
             "Streaming-Software": "Kompatibel mit gängiger Streaming-Software wie OBS Studio, XSplit und Elgatos eigener 4K Capture Utility",
             "Unterstützte Auflösungen": "1080p bei 60 fps, 1440p bei 60 fps, 4K bei 30 fps",
             "Variable Refresh Rate (VRR) Passthrough": "Sorgt für flüssiges Gameplay ohne Bildschirmreißen"
-        }
+        },
+        "pros": "English\nPros\n- Low latency 4K60 HDR passthrough with VRR keeps next gen console gameplay smooth while you stream\n- Captures crisp 1080p60 and works driverless with OBS and other popular apps on Windows and Mac\n- Compact USB C design with simple plug and play setup for flexible home or on the go use",
+        "cons": "Cons\n- Records up to 1080p60 not 4K60 capture may not suit creators who need native 4K files\n- High bitrate capture and HDR workflows can require a capable computer and fast storage",
+        "pros_de": "Deutsch\nVorteile\n- 4K60 HDR Passthrough mit VRR sorgt für flüssiges Gameplay auf aktuellen Konsolen während du streamst\n- Nimmt in 1080p60 auf und läuft treiberlos mit OBS und anderen beliebten Apps unter Windows und Mac\n- Kompaktes USB C Design mit einfacher Plug and Play Einrichtung für flexible Einsätze zu Hause oder unterwegs",
+        "cons_de": "Nachteile\n- Zeichnet bis 1080p60 auf kein 4K60 Capture könnte für dich weniger geeignet sein wenn du echte 4K Dateien brauchst\n- Für hohe Bitraten und HDR ist ein leistungsstarker Rechner und schnelles Speicherlaufwerk sinnvoll einfache Notebooks könnten an Grenzen kommen"
     },
     {
         "slug": "next-level-racing-gt-lite-pro-foldable-cockpit",
@@ -19069,7 +19245,10 @@ const data = [
             "Verpackungsabmessungen": "78 cm (L) x 77 cm (B) x 26 cm",
             "Zubehörkompatibilität": "Schalthebel und Handbremsen mit der enthaltenen Schalthebel- und Handbremsenhalterung",
             "Maximales Körpergewicht": "150 kg"
-        }
+        },
+        "pros": "English\nPros\n• Folds in seconds for easy storage and quick setup perfect for small spaces or shared living\n• Wide adjustability for wheel pedal and seat to dial in your fit and support different brands\n• Stable feel for most consumer wheels and load cell pedals without taking up a permanent footprint",
+        "cons": "Deutsch\nVorteile\n• Klappt in Sekunden zusammen und ist schnell aufgebaut ideal für kleine Räume oder Wohngemeinschaften\n• Große Verstellbereiche für Lenkrad Pedale und Sitz passt zu vielen Marken\n• Stabile Basis für die meisten Consumer Lenkräder und Load Cell Pedale ohne festen Platz zu beanspruchen",
+        "cons_de": "Nachteile\n• Für sehr starke Direct Drive Bases eventuell nicht steif genug wenn maximale Stabilität gewünscht ist\n• Der integrierte Sitz ist für kurze bis mittlere Sessions bequem einige Nutzer bevorzugen für sehr lange Rennen eventuell ein zusätzliches Kissen"
     },
     {
         "slug": "logitech-farming-simulator-controller-logitech-saitek-g",
@@ -19081,12 +19260,20 @@ const data = [
             "Anschlüsse": "USB",
             "Unterstützte Plattform": "PC",
             "Zum Lieferumfang gehören": "Lenkrad für schwere Maschinen, Pedale, seitliches Bedienfeld, Schnellstartanleitung"
-        }
+        },
+        "pros": "Pros\n• Immersive farming sim control with a dedicated wheel pedals and side panel that feel close to real tractor controls\n• Many mappable buttons plus a control stick for quick actions and smooth loader work\n• Simple USB plug and play on PC so you can enjoy a full sim setup without the commitment of buying",
+        "cons": "Cons\n• Takes up desk space and may not suit compact or mobile setups\n• Best for farming sims so it is less versatile for racing or other genres",
+        "pros_de": "Vorteile\n• Intensives Farming Erlebnis dank Lenkrad Pedale und Seitenpanel mit traktorähnlichen Bedienelementen\n• Viele frei belegbare Tasten und ein Steuerstick für schnelle Aktionen und präzise Ladersteuerung\n• Einfache USB Einrichtung am PC für schnelles Loslegen und ein komplettes Sim Setup ohne Kaufbindung",
+        "cons_de": "Nachteile\n• Braucht spürbar Platz auf dem Schreibtisch und passt nicht gut zu sehr kompakten oder mobilen Setups\n• Speziell für Landwirtschafts Simulationen ausgelegt und daher weniger vielseitig für Racing oder andere Spiele"
     },
     {
         "slug": "dji-accessories-osmo-mobile-6",
         "name": "DJI Osmo Mobile 6",
-        "specifications": null
+        "specifications": null,
+        "pros": "Pros\n• Smooth, cinematic video with three axis stabilization and ActiveTrack that keeps subjects framed while you move  \n• Fast setup with magnetic clamp and a compact fold, great for travel vlogs TikTok and Reels  \n• Built in extension rod and control wheel for creative angles smooth zoom and focus control",
+        "cons": "Cons\n• Adds some bulk to your phone setup, may not suit ultra light pocket carry  \n• Full features work best with the DJI Mimo app and a bit of practice, so there is a small learning curve",
+        "pros_de": "Vorteile\n• Ruhige filmische Aufnahmen dank drei Achsen Stabilisierung und ActiveTrack bleiben Motive auch in Bewegung sauber im Bild  \n• Schneller Start mit Magnetklemme und faltbarem kompaktem Design ideal für Reisen Vlogs TikTok und Reels  \n• Integrierte Verlängerungsstange und seitliches Rad ermöglichen kreative Perspektiven sowie sanften Zoom und Fokus Kontrolle",
+        "cons_de": "Nachteile\n• Bringt etwas zusätzliches Gewicht und Volumen mit, eventuell nicht ideal für sehr minimalistisches Tragen in der Hosentasche  \n• Viele Funktionen nutzen sich am besten mit der DJI Mimo App und etwas Übung, daher eine kleine Lernkurve"
     },
     {
         "slug": "thrustmaster-flight-simulator-thrustmaster-hotas-warthog",
@@ -19099,7 +19286,11 @@ const data = [
             "Tastenlayout": "19 Aktionstasten, 8-fach POV",
             "Hauptmerkmale": "Innovative HallEffect AccuRate Technology (HEART): 3D-Magnetsensoren (Hall-Effekt) am Stick, 16-Bit-Auflösung, Spiral-Druckfedersystem (lineare und fließende Zugspannung ohne Totzonen); USB-Anschluss mit upgradefähiger Firmware; stabiler, gewichteter Standfuß (über 3 kg); abnehmbarer Griff (komplett aus Metall): kompatibel mit dem HOTAS-COUGAR-Griff, abnehmbare Metallplatte für den Einsatz im Tisch- oder Cockpit-Stil, realistischer Druck auf Tasten und Trigger; 14-Bit-Auflösung an jedem Schubhebel, Beleuchtungsfunktionen am Steuergerät, 5 programmierbare LEDs. ",
             "Unterstützte Plattformen": "PC/Mac"
-        }
+        },
+        "pros": "English\nPros\n• Pro level realism with a solid metal build and smooth Hall effect precision for accurate control\n• Lots of programmable buttons and a dual throttle for flexible setups across different sims and profiles\n• Great to rent if you want a full cockpit feel at home without a long term commitment",
+        "cons": "Cons\n• Large and heavy so it may not suit smaller desks or limited space\n• The stick has no twist rudder axis so some users might prefer separate rudder pedals",
+        "pros_de": "Deutsch\nVorteile\n• Pro Niveau Realismus dank Metallgehäuse und präzisen Hall Sensoren für exakte Steuerung\n• Viele frei belegbare Tasten und ein doppelter Schubhebel für flexible Setups in verschiedenen Sims und Profilen\n• Ideal zum Mieten um echtes Cockpit Feeling zu Hause zu testen ohne langfristige Bindung",
+        "cons_de": "Nachteile\n• Groß und schwer passt daher eventuell nicht gut auf kleine Schreibtische oder bei wenig Platz\n• Der Stick hat keine Drehachse fürs Seitenruder daher könnten manche Nutzer separate Pedale bevorzugen"
     },
     {
         "slug": "steelseries-over-ear-gaming-headphones-steelseries-arctis-nova-pro-wireless",
@@ -19118,12 +19309,20 @@ const data = [
             "Geräuschunterdrückung": "Geräuschunterdrückung, ANC (4-Mikrofon-Hybriddesign mit Transparency Mode), Lautstärkeregelung am Kopfhörer/Kabel",
             "Unterstützte Plattformen": "Gaming, Mac, PC, Mobiltelefone, PlayStation 4, PlayStation 5, Nintendo Switch",
             "Frequenzgang, Schalldruckpegel & Impedanz": "Kopfhörer: 10Hz - 22kHz, 38 Ohm, 93 dBSPL. Mikrofon: ClearCast Gen 2 - Vollständig einziehbarer Bügel, bidirektionale Geräuschunterdrückung, 100Hz - 10kHz, 2200 ohm"
-        }
+        },
+        "pros": "English\nPros\n• Dual wireless with low lag 2.4 gigahertz and Bluetooth at the same time for flexible play and calls\n• Swappable battery system for nonstop sessions with no charging downtime\n• Active noise cancelling with transparency plus clear chat for gaming or work",
+        "cons": "Cons\n• Base station adds an extra piece on your desk\n• Best customization needs the SteelSeries software which takes a bit of setup",
+        "pros_de": "Deutsch\nVorteile\n• Dual Funk mit geringer Verzögerung über 2.4 Gigahertz und Bluetooth gleichzeitig für flexible Nutzung\n• Wechselakku System für nonstop Sessions ohne Ladepausen\n• Aktive Geräuschunterdrückung mit Transparenz sowie klarer Sprachchat für Gaming oder Arbeit",
+        "cons_de": "Nachteile\n• Die Basisstation braucht etwas zusätzlichen Platz auf dem Schreibtisch\n• Für volle Anpassung ist die SteelSeries Software hilfreich und die Einrichtung kostet etwas Zeit"
     },
     {
         "slug": "dji-mic-2-2x-tx-1x-rx-portable-wireless-microphone",
         "name": "DJI MIC 2 (2x TX 1x RX) Portable Wireless microphone",
-        "specifications": null
+        "specifications": null,
+        "pros": "Pros\n- Two transmitters and one receiver give you flexible two person setups for interviews podcasts and creator content\n- Clean sound with intelligent noise canceling and built in on board recording for a reliable backup\n- Quick pairing and broad compatibility with cameras and smartphones through analog and digital connections",
+        "cons": "Cons\n- For fully hidden placement you may prefer adding a lavalier mic\n- The clip on form can be visible on camera in ultra minimal setups",
+        "pros_de": "Vorteile\n- Zwei Sender und ein Empfänger ermöglichen flexible Aufnahmen zu zweit für Interviews Podcasts und Creator Content\n- Klarer Klang mit intelligenter Geräuschunterdrückung und integrierter Aufzeichnung als zuverlässiges Backup\n- Schnelles Koppeln und breite Kompatibilität mit Kameras und Smartphones über analoge und digitale Anschlüsse",
+        "cons_de": "Nachteile\n- Für komplett unsichtbare Platzierung ist eventuell ein zusätzliches Lavalier sinnvoll\n- Die Ansteckbauform kann in sehr minimalistischen Setups im Bild sichtbar sein"
     },
     {
         "slug": "switch-pro-controller",
@@ -19133,7 +19332,9 @@ const data = [
             "Besondere Merkmale": "Vibration, textured grip",
             "Signalübertragung": "Bluetooth Kabellos",
             "Abmessungen und Gewicht": "15 x 10 x 6, 2.5 kg"
-        }
+        },
+        "pros": "Pros\n• Comfortable ergonomic design with accurate sticks and buttons for better control than Joy Cons\n• Long battery life and simple USB C charging keep you playing with less downtime\n• Full feature set motion controls HD rumble and amiibo NFC great as a temporary upgrade for big releases or co op nights",
+        "cons": "Nachteile\n• Größer als Joy Cons daher eventuell weniger praktisch für unterwegs\n• Keine Kopfhörerbuchse Sprachchat benötigt die mobile App oder ein separates Headset"
     },
     {
         "slug": "thrustmaster-t-300-rs-4851",
@@ -19143,7 +19344,11 @@ const data = [
             "Besonderheiten": "Vibrationsrückmeldung für realistisches Spielerlebnis, neuer reibungsloser und optimierter Doppelgurtmechanismus, optisches Scannen mit einer Auflösung von 16 Bit, leistungsstarke Bodenpedaleinheit, reibungsloser Betrieb ermöglicht ein extrem leises System, Drehwinkel von 270 ° bis 1080 einstellbar °",
             "Signalübertragung": "Verkabelt",
             "Unterstützte Plattformen": "PlayStation 4, PlayStation 3 und PC"
-        }
+        },
+        "pros": "Pros\n• Smooth and realistic force feedback from a quiet brushless motor and dual belt system\n• Flexible ecosystem with a detachable rim and support for Thrustmaster pedals and shifters\n• Works on PC and PlayStation with adjustable rotation, easy to store between sessions",
+        "cons": "Cons\n• The included two pedal setup is basic and some users might prefer upgrading to a three pedal kit\n• Needs a sturdy mount and some space, may not suit very compact desks",
+        "pros_de": "Vorteile\n• Sanftes und realistisches Force Feedback durch leisen bürstenlosen Motor und Riemenantrieb\n• Flexibel aufrüstbar dank abnehmbarem Lenkradkranz und Support für Thrustmaster Pedale und Schalthebel\n• Funktioniert mit PC und PlayStation und lässt sich dank einstellbarem Lenkwinkel gut verstauen",
+        "cons_de": "Nachteile\n• Das mitgelieferte Pedalset mit zwei Pedalen ist eher einfach, manche möchten auf ein Drei Pedal Set aufrüsten\n• Benötigt eine stabile Befestigung und etwas Platz, weniger geeignet für sehr kleine Schreibtische"
     },
     {
         "slug": "playseat-foldable-racing-seat-playseat-evolution-pro-actifit",
@@ -19161,7 +19366,11 @@ const data = [
             "Minimum user height": "120 cm",
             "Gaming platforms supported": "Nintendo, MAC, PC, Playstation, Xbox",
             "Racing wheel/flight stand included": "No"
-        }
+        },
+        "pros": "English\nPros\n• Foldable space saving design fits small apartments and stores easily between sessions\n• ActiFit breathable seat keeps you comfortable during longer races\n• Solid frame with wide compatibility for most popular wheels and pedals so you can plug in and play",
+        "cons": "Cons\n• Requires a separate wheel and pedal set which is not included\n• May not suit very tall or very large users seeking extra wide seating or extreme adjustability",
+        "pros_de": "Deutsch\nVorteile\n• Klappbares platzsparendes Design passt in kleine Wohnungen und lässt sich nach dem Spielen schnell verstauen\n• ActiFit Sitz mit atmungsaktivem Stoff bietet Komfort bei längeren Rennsessions\n• Stabiles Gestell mit breiter Kompatibilität für die meisten gängigen Lenkräder und Pedale",
+        "cons_de": "Nachteile\n• Benötigt ein separates Lenkrad und Pedale diese sind nicht enthalten\n• Könnte für sehr große Nutzerinnen und Nutzer mit Wunsch nach extra Breite oder viel Verstellweg weniger passend sein"
     },
     {
         "slug": "apple-magic-keyboard-for-ipad-pro-11-inch-m4-german",
@@ -19169,7 +19378,11 @@ const data = [
         "specifications": {
             "Funktionen": "Das Magic Keyboard für iPad Pro bietet ein außergewöhnliches Tipp- und Trackpad-Erlebnis in einem schlanken, tragbaren Design. Es verfügt über eine 14-Tasten-Funktionsleiste, USB-C-Pass-Through-Ladung und ein schwebendes Cantilever-Design für einstellbare Blickwinkel. Das größere Trackpad mit haptischem Feedback erleichtert Präzisionsaufgaben, während die robuste Außenhülle unterwegs Schutz für Vorder- und Rückseite bietet.",
             "Kompatibilität": "11\" iPad Pro (M4)"
-        }
+        },
+        "pros": "Pros\n1. Laptop like typing with backlit QWERTZ keys and a handy function row for quick controls\n2. Large precision trackpad with gesture support turns your 11 inch iPad Pro into a flexible work setup\n3. Magnetic attach and Smart Connector for instant use with no battery to charge plus USB C pass through charging for a clean desk",
+        "cons": "Cons\n1. Adds some weight and bulk which may not suit ultra light carry\n2. QWERTZ layout may not fit everyone if you mainly type in other languages",
+        "pros_de": "Vorteile\n1. Schreibgefühl wie auf einem Laptop mit beleuchteten QWERTZ Tasten und praktischer Funktionstastenreihe\n2. Großes präzises Trackpad mit Gesten macht dein 11 inch iPad Pro zu einem flexiblen Arbeitssetup\n3. Magnetische Befestigung und Smart Connector sofort einsatzbereit ohne eigenes Aufladen dazu USB C Durchgangsladung für einen aufgeräumten Schreibtisch",
+        "cons_de": "Nachteile\n1. Erhöht Gewicht und Dicke was für sehr leichtes Tragen weniger geeignet sein kann\n2. QWERTZ Belegung passt eventuell nicht wenn du überwiegend in anderen Sprachen tippst"
     },
     {
         "slug": "logitech-over-ear-gaming-headphones-logitech-g-pro-x-2-lightspeed",
@@ -19191,7 +19404,11 @@ const data = [
             "Konnektivitätstechnologie": "Verkabelt und drahtlos",
             "Virtuelle Surround-Technologie": "DTS Kopfhörer:X 2.0",
             "Kontinuierliche Audiowiedergabezeit": "50 h"
-        }
+        },
+        "pros": "English\nPros\n- Low latency Lightspeed wireless plus Bluetooth and 3.5 mm for flexible play across PC console and mobile\n- Up to 50 hours battery life for long sessions with fewer charges\n- Graphene drivers and a detachable mic with Blue VOICE provide clear sound and comms for competitive play",
+        "cons": "Cons\n- Some features like DTS surround and Blue VOICE need Logitech G Hub on PC and are limited on console",
+        "pros_de": "Deutsch\nVorteile\n- Lightspeed Funk mit niedriger Latenz plus Bluetooth und 3,5 mm für flexible Nutzung auf PC Konsole und Smartphone\n- Akkulaufzeit bis zu 50 Stunden für lange Sessions mit weniger Ladepausen\n- Graphen Treiber und ein abnehmbares Mikro mit Blue VOICE sorgen für klare Sounds und Kommunikation im Wettbewerb",
+        "cons_de": "Nachteile\n- Einige Funktionen wie DTS Surround und Blue VOICE benötigen Logitech G Hub auf dem PC und sind auf Konsole eingeschränkt"
     },
     {
         "slug": "thrustmaster-t150-rs-steering-wheel-2-pedal-set",
@@ -19205,7 +19422,11 @@ const data = [
             "Gaming platforms supported": "PC, PlayStation 4, Playstation 3",
             "Gaming control function buttons": "D-pad",
             "Windows operating systems supported": "Yes"
-        }
+        },
+        "pros": "English\nPros\n• Responsive force feedback adds realistic road feel on PlayStation and PC\n• Wide rotation up to 1080 degrees adapts to different games and driving styles\n• Quick desk clamp setup and compact design make it easy to rent and store",
+        "cons": "Cons\n• Two pedal set without a clutch may not suit drivers who want manual shifting practice\n• Some users might find the plastic pedals and materials less premium than high end sets",
+        "pros_de": "Deutsch\nVorteile\n• Präzises Force Feedback für ein realistisches Fahrgefühl auf PlayStation und PC\n• Großer Lenkwinkel bis 1080 Grad passt zu unterschiedlichen Games und Fahrstilen\n• Schnelle Montage mit Tischklemme und kompaktes Design einfach zu mieten und zu verstauen",
+        "cons_de": "Nachteile\n• Set mit zwei Pedalen ohne Kupplung eignet sich eventuell weniger für Übung mit manuellem Schalten\n• Einige Nutzer empfinden die Kunststoff Pedale und Materialien als weniger hochwertig als bei High End Sets"
     },
     {
         "slug": "apple-mouse-apple-magic-trackpad-3",
@@ -19215,7 +19436,11 @@ const data = [
             "Feature": "Multi-Touch Surface",
             "Dimensions": "16 x 11.49 x 1.09 cm • 0.23 kg",
             "Max. Sensitivity": "Bluetooth"
-        }
+        },
+        "pros": "Pros\n• Large glass surface with precise Multi touch gestures and haptic click for accurate control  \n• Pairs via Bluetooth in seconds with Mac and iPad and can be used while charging for no downtime  \n• Long lasting rechargeable battery keeps your desk clean and travel friendly",
+        "cons": "Cons\n• May not suit those who prefer a traditional mouse feel or need fast paced gaming  \n• Some users might find the full size footprint takes more desk space than a compact mouse",
+        "pros_de": "Vorteile\n• Große Glasoberfläche mit präzisen Multi Touch Gesten und haptischem Klick für genaue Steuerung  \n• Schnelle Bluetooth Kopplung mit Mac und iPad und während des Ladens nutzbar für kontinuierliches Arbeiten  \n• Wiederaufladbarer Akku mit langer Laufzeit für einen aufgeräumten und mobilen Einsatz",
+        "cons_de": "Nachteile\n• Könnte für Nutzerinnen und Nutzer die das klassische Mausgefühl bevorzugen oder viel Gaming machen weniger passend sein  \n• Manche finden die volle Größe benötigt mehr Platz auf dem Schreibtisch als eine kompakte Maus"
     },
     {
         "slug": "dji-rs-4",
@@ -19227,7 +19452,11 @@ const data = [
             "Konnektivität": "App-Steuerung (IOS / Android)",
             "Besondere Merkmale": "Automatische Bildschirmsperre, 2. Gen Achsensperre. Vertikale Aufnahme optimiert",
             "Zum Lieferumfang gehören": "DJI RS4 Gimbal, BG21 Batteriegriff, Schnellwechselplatte, Verlängerungsgriff/Stativ, Objektivhalterung, Multi-Kamera-Steuerkabel (USB-C 30cm), USB-C Ladekabel (40cm), Schraubensatz"
-        }
+        },
+        "pros": "English\nPros\n• Smooth three axis stabilization for cinematic shots\n• Fast setup with quick release plates and clear markings, plus support for vertical capture\n• Long battery life in a compact build that travels easily",
+        "cons": "Cons\n• May not suit heavy cinema rigs or very long lenses\n• Some users might need a little practice to balance and fine tune for best results",
+        "pros_de": "Deutsch\nVorteile\n• Ruhige Aufnahmen dank Drei Achsen Stabilisierung\n• Schneller Aufbau mit Schnellwechselplatten und klaren Markierungen, außerdem Unterstützung für vertikale Aufnahmen\n• Lange Akkulaufzeit in einem kompakten Gehäuse, ideal für unterwegs",
+        "cons_de": "Nachteile\n• Eignet sich eventuell nicht für sehr schwere Setups oder sehr lange Objektive\n• Einige Nutzer brauchen eventuell etwas Übung beim Ausbalancieren und Feinabstimmen für optimale Ergebnisse"
     },
     {
         "slug": "sony-ps5-controller-dualsense-v2-sterling-silver",
@@ -19241,7 +19470,11 @@ const data = [
             "Gaming control technology": "Analogue / Digital",
             "Gaming platforms supported": "PlayStation 5",
             "Gaming control function buttons": "Back button, Clear memory button, Menu button, Options button, Start button, Turbo button"
-        }
+        },
+        "pros": "Pros\n• Immersive haptic feedback and adaptive triggers make games feel more alive\n• Deep Earth finish looks modern and premium for a stylish setup\n• Works with PS5 PC and mobile via Bluetooth or USB C so you can switch devices easily",
+        "cons": "Cons\n• Battery life can shorten when haptics and lighting are enabled\n• Full feature support on PC or mobile may require extra setup and is not available in every game",
+        "pros_de": "Vorteile\n• Fortschrittliches haptisches Feedback und adaptive Trigger sorgen für ein intensiveres Spielgefühl\n• Deep Earth Design wirkt modern und hochwertig\n• Kompatibel mit PS5 PC und Smartphone per Bluetooth oder USB C für flexible Nutzung",
+        "cons_de": "Nachteile\n• Die Akkulaufzeit kann kürzer ausfallen wenn Haptik und Beleuchtung aktiv sind\n• Auf PC oder Smartphone sind für alle Funktionen teils zusätzliche Schritte nötig und nicht jedes Spiel unterstützt alles"
     },
     {
         "slug": "keyboard-apple-magic-keyboard-numeric-de",
@@ -19251,7 +19484,11 @@ const data = [
             "Features": "Built-in Rechargeable Battery",
             "Dimensions": "41.87 x 11.49 x 1.09 cm • 0.39 kg",
             "Connectivity": "Bluetooth"
-        }
+        },
+        "pros": "English\nPros\n- Numeric keypad and full size layout speed up spreadsheets and data entry\n- Slim quiet scissor keys with a steady feel for comfortable long sessions\n- Long lasting rechargeable battery with quick Bluetooth pairing across Apple devices",
+        "cons": "Cons\n- Not backlit, so some users might find it less ideal in low light\n- Limited multi device switching compared to some productivity keyboards",
+        "pros_de": "\nDeutsch\nVorteile\n- Ziffernblock und vollwertiges Layout beschleunigen Tabellen und Dateneingabe\n- Flaches leises Tippgefühl mit stabiler Scherenmechanik für lange Sessions\n- Lange Akkulaufzeit, Aufladen per Kabel und schnelle Bluetooth Kopplung mit Apple Geräten",
+        "cons_de": "Nachteile\n- Keine Hintergrundbeleuchtung, im schummrigen Licht weniger ideal\n- Begrenzt für den schnellen Wechsel zwischen mehreren Geräten, weniger flexibel als manche Profi Tastaturen"
     },
     {
         "slug": "apple-magic-keyboard-for-ipad-pro-13-inch-m4-international-english",
@@ -19259,7 +19496,11 @@ const data = [
         "specifications": {
             "Funktionen": "Das Magic Keyboard für iPad Pro bietet ein außergewöhnliches Tipp- und Trackpad-Erlebnis in einem schlanken, tragbaren Design. Es verfügt über eine 14-Tasten-Funktionsleiste, USB-C-Pass-Through-Ladung und ein schwebendes Cantilever-Design für einstellbare Blickwinkel. Das größere Trackpad mit haptischem Feedback erleichtert Präzisionsaufgaben, während die robuste Außenhülle unterwegs Schutz für Vorder- und Rückseite bietet.",
             "Kompatibilität": "13\" iPad Pro (M4)"
-        }
+        },
+        "pros": "Pros\n• Laptop like typing with backlit keys and a precise haptic trackpad for fast work and study\n• Attaches magnetically and detaches in seconds so you can switch between tablet and laptop feel as needed\n• Premium slim design made for the 13 inch iPad Pro M4 keeps your setup modern and portable",
+        "cons": "Cons\n• Adds noticeable weight compared to using the iPad alone so ultra light minimalists may not prefer it\n• Designed for the 13 inch iPad Pro M4 only which may not suit users with other iPad sizes",
+        "pros_de": "Vorteile\n• Schreibgefühl wie am Laptop mit beleuchteten Tasten und präzisem haptischem Trackpad\n• Magnetische Befestigung in Sekunden abnehmbar ideal zum schnellen Wechsel zwischen Tablet und Laptop Erlebnis\n• Schlankes Premium Design für das 13 Zoll iPad Pro M4 modern und mobil",
+        "cons_de": "Nachteile\n• Erhöht das Gesamtgewicht etwas was für ultraleichte Setups weniger geeignet sein kann\n• Nur für das 13 Zoll iPad Pro M4 geeignet daher nicht passend für andere iPad Größen"
     },
     {
         "slug": "sony-over-ear-gaming-headphones-pulse-elite",
@@ -19274,7 +19515,11 @@ const data = [
             "Connectivity technology": "Wireless",
             "Continuous audio playback time": "30 h",
             "PlayStation Link™ wireless connection": "PlayStation®5 consoles, PlayStation Portal™ Remote Player, PC/Mac"
-        }
+        },
+        "pros": "Pros\n• Lag free wireless with PlayStation Link for smooth gaming on PS5 and PC\n• Clear voice capture with noise reduction microphone for team chat\n• Dual connection with PlayStation Link and Bluetooth for flexible use across console phone and laptop",
+        "cons": "Cons\n• Best suited to the PlayStation world. Xbox players may not get the full experience\n• Uses a USB adapter for Link on PS5 or PC which some users might find less convenient",
+        "pros_de": "Vorteile\n• Verzögerungsfreies Wireless mit PlayStation Link für flüssiges Gaming auf PS5 und PC\n• Klare Sprachübertragung dank Geräuschunterdrückung am Mikrofon für Teamchat\n• Doppelte Verbindung mit PlayStation Link und Bluetooth für flexible Nutzung an Konsole Smartphone und Laptop",
+        "cons_de": "Nachteile\n• Am besten für die PlayStation Welt geeignet. Xbox Spieler erhalten eventuell nicht das volle Erlebnis\n• Nutzt für Link an PS5 oder PC einen USB Adapter was einige Nutzer als weniger praktisch empfinden könnten"
     },
     {
         "slug": "microsoft-gaming-accessories-microsoft-xbox-wireless-controller-special-edition",
@@ -19289,14 +19534,22 @@ const data = [
             "Spielsteuerungs-Technologie": "Analog / Digital",
             "Unterstützte Spielplattformen": "Android, PC, Xbox Serie S, Xbox Serie X, iOS",
             "Funktionstasten der Spielsteuerung": "D-Pad, Menü-Taste, Teilen-Taste, Ansicht-Taste"
-        }
+        },
+        "pros": "English\nPros\n• Special Edition look that feels fresh and on trend\n• Multi platform ready via Bluetooth and Xbox Wireless works with Xbox consoles Windows PC and mobile for flexible play\n• Grippy textures precise sticks and hybrid D pad for comfort and reliable performance",
+        "cons": "Cons\n• Uses AA batteries by default which may not suit those who prefer a built in rechargeable pack\n• Some users might miss back buttons and deeper customization found on pro controllers",
+        "pros_de": "Deutsch\nVorteile\n• Special Edition Look wirkt modern und auffällig\n• Plattformübergreifend dank Bluetooth und Xbox Wireless kompatibel mit Xbox Konsolen Windows PC und Mobilgeräten für flexible Nutzung\n• Rutschfeste Textur präzise Sticks und hybrides Steuerkreuz für Komfort und zuverlässige Performance",
+        "cons_de": "Nachteile\n• Verwendet AA Batterien standardmäßig das passt möglicherweise nicht für alle die einen integrierten Akku bevorzugen\n• Manche Nutzer könnten Rücktasten und erweiterte Anpassungen vermissen wie sie Pro Controller bieten"
     },
     {
         "slug": "sony-mikrofon-ecm-b1m",
         "name": "Sony Mikrofon ECM-B1M",
         "specifications": {
             "Weight": "77.3 g"
-        }
+        },
+        "pros": "English\nPros\n• Cable free digital audio via Sony Multi Interface Shoe with compatible bodies for cleaner sound and zero battery management\n• Three selectable pickup patterns super directional unidirectional and omnidirectional to match interviews vlogs or ambient scenes\n• Ultra compact and light so it keeps your rig nimble for travel shoots and quick rentals",
+        "cons": "Cons\n• Best suited to Sony cameras with the Multi Interface Shoe may not work as intended on other brands\n• A camera top mic can capture surrounding noise in very loud spaces if you need maximum isolation a lav mic might be better",
+        "pros_de": "Deutsch\nVorteile\n• Kabel und batteriefrei dank direkter Verbindung über den Sony Multi Interface Shoe mit kompatiblen Kameras für sauberen Klang\n• Drei wählbare Richtcharakteristiken stark gerichtet nach vorn gerichtet oder rundum für Interviews Vlogs oder Atmo\n• Sehr kompakt und leicht hält dein Setup mobil für Reisen und flexible Miete",
+        "cons_de": "Nachteile\n• Passt am besten zu Sony Kameras mit Multi Interface Shoe andere Systeme sind möglicherweise nicht geeignet\n• Ein Mikrofon oben auf der Kamera isoliert in sehr lauten Umgebungen nicht so stark wenn du maximale Trennung brauchst ist ein Lavalier besser"
     },
     {
         "slug": "gopro-hero-11-black-us",
